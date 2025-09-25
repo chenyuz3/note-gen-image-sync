@@ -1,0 +1,790 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" viewBox="21.264225 30.374262 850.34926 293.69272" height="293.69272" width="850.34926" xml:space="preserve" version="1.1" id="svg2">
+  <metadata id="metadata8">
+    <rdf:RDF>
+      <cc:Work rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs id="defs6">
+    <clipPath id="clipPath16" clipPathUnits="userSpaceOnUse">
+      <path style="clip-rule:evenodd" id="path18" d="m 16.92,352.68 681,0 0,244.32 -681,0 0,-244.32 z"/>
+    </clipPath>
+    <clipPath id="clipPath26" clipPathUnits="userSpaceOnUse">
+      <path id="path28" d="m 0,0 648.73,0 0,249.98 L 0,249.98 0,0 Z"/>
+    </clipPath>
+    <clipPath id="clipPath58" clipPathUnits="userSpaceOnUse">
+      <path style="clip-rule:evenodd" id="path60" d="m 0.085,0.05809 648.6,0 0,249.84 -648.6,0 0,-249.84 z"/>
+    </clipPath>
+    <clipPath id="clipPath68" clipPathUnits="userSpaceOnUse">
+      <path style="clip-rule:evenodd" id="path70" d="m 0.085,0.05809 648.6,0 0,249.84 -648.6,0 0,-249.84 z"/>
+    </clipPath>
+    <clipPath id="clipPath82" clipPathUnits="userSpaceOnUse">
+      <path style="clip-rule:evenodd" id="path84" d="m 0.085,0.05809 648.6,0 0,249.84 -648.6,0 0,-249.84 z"/>
+    </clipPath>
+    <clipPath id="clipPath96" clipPathUnits="userSpaceOnUse">
+      <path style="clip-rule:evenodd" id="path98" d="m 0.085,0.05809 648.6,0 0,249.84 -648.6,0 0,-249.84 z"/>
+    </clipPath>
+    <clipPath id="clipPath110" clipPathUnits="userSpaceOnUse">
+      <path style="clip-rule:evenodd" id="path112" d="m 0.085,0.05809 648.6,0 0,249.84 -648.6,0 0,-249.84 z"/>
+    </clipPath>
+    <clipPath id="clipPath120" clipPathUnits="userSpaceOnUse">
+      <path style="clip-rule:evenodd" id="path122" d="m 0.08501,0.057999 648.6,0 0,249.840001 -648.6,0 0,-249.840001 z"/>
+    </clipPath>
+    <clipPath id="clipPath132" clipPathUnits="userSpaceOnUse">
+      <path style="clip-rule:evenodd" id="path134" d="m 0.08501,0.057999 648.6,0 0,249.840001 -648.6,0 0,-249.840001 z"/>
+    </clipPath>
+    <clipPath id="clipPath144" clipPathUnits="userSpaceOnUse">
+      <path style="clip-rule:evenodd" id="path146" d="m 0.08501,0.057999 648.6,0 0,249.840001 -648.6,0 0,-249.840001 z"/>
+    </clipPath>
+    <clipPath id="clipPath156" clipPathUnits="userSpaceOnUse">
+      <path style="clip-rule:evenodd" id="path158" d="m 0.08501,0.057999 648.6,0 0,249.840001 -648.6,0 0,-249.840001 z"/>
+    </clipPath>
+    <clipPath id="clipPath168" clipPathUnits="userSpaceOnUse">
+      <path style="clip-rule:evenodd" id="path170" d="m 0.08501,0.057999 648.6,0 0,249.840001 -648.6,0 0,-249.840001 z"/>
+    </clipPath>
+    <clipPath id="clipPath180" clipPathUnits="userSpaceOnUse">
+      <path style="clip-rule:evenodd" id="path182" d="m 0.08501,0.057999 648.6,0 0,249.840001 -648.6,0 0,-249.840001 z"/>
+    </clipPath>
+    <clipPath id="clipPath192" clipPathUnits="userSpaceOnUse">
+      <path style="clip-rule:evenodd" id="path194" d="m 0.08501,0.057999 648.6,0 0,249.840001 -648.6,0 0,-249.840001 z"/>
+    </clipPath>
+    <clipPath id="clipPath204" clipPathUnits="userSpaceOnUse">
+      <path style="clip-rule:evenodd" id="path206" d="m 0.08501,0.057999 648.6,0 0,249.840001 -648.6,0 0,-249.840001 z"/>
+    </clipPath>
+    <clipPath id="clipPath216" clipPathUnits="userSpaceOnUse">
+      <path style="clip-rule:evenodd" id="path218" d="m 0.08501,0.057999 648.6,0 0,249.840001 -648.6,0 0,-249.840001 z"/>
+    </clipPath>
+    <clipPath id="clipPath228" clipPathUnits="userSpaceOnUse">
+      <path style="clip-rule:evenodd" id="path230" d="m 0.08501,0.057999 648.6,0 0,249.840001 -648.6,0 0,-249.840001 z"/>
+    </clipPath>
+    <clipPath id="clipPath240" clipPathUnits="userSpaceOnUse">
+      <path style="clip-rule:evenodd" id="path242" d="m 0.08501,0.057999 648.6,0 0,249.840001 -648.6,0 0,-249.840001 z"/>
+    </clipPath>
+    <clipPath id="clipPath252" clipPathUnits="userSpaceOnUse">
+      <path style="clip-rule:evenodd" id="path254" d="m 0.08501,0.057999 648.6,0 0,249.840001 -648.6,0 0,-249.840001 z"/>
+    </clipPath>
+    <clipPath id="clipPath264" clipPathUnits="userSpaceOnUse">
+      <path style="clip-rule:evenodd" id="path266" d="m 0.08501,0.057999 648.6,0 0,249.840001 -648.6,0 0,-249.840001 z"/>
+    </clipPath>
+    <clipPath id="clipPath276" clipPathUnits="userSpaceOnUse">
+      <path style="clip-rule:evenodd" id="path278" d="m 0.08501,0.057999 648.6,0 0,249.840001 -648.6,0 0,-249.840001 z"/>
+    </clipPath>
+    <clipPath id="clipPath288" clipPathUnits="userSpaceOnUse">
+      <path style="clip-rule:evenodd" id="path290" d="m 0.08501,0.057999 648.6,0 0,249.840001 -648.6,0 0,-249.840001 z"/>
+    </clipPath>
+    <clipPath id="clipPath300" clipPathUnits="userSpaceOnUse">
+      <path style="clip-rule:evenodd" id="path302" d="m 0.08501,0.057999 648.6,0 0,249.840001 -648.6,0 0,-249.840001 z"/>
+    </clipPath>
+    <clipPath id="clipPath312" clipPathUnits="userSpaceOnUse">
+      <path style="clip-rule:evenodd" id="path314" d="m 0.08501,0.057999 648.6,0 0,249.840001 -648.6,0 0,-249.840001 z"/>
+    </clipPath>
+    <clipPath id="clipPath324" clipPathUnits="userSpaceOnUse">
+      <path style="clip-rule:evenodd" id="path326" d="m 0.08501,0.057999 648.6,0 0,249.840001 -648.6,0 0,-249.840001 z"/>
+    </clipPath>
+    <clipPath id="clipPath336" clipPathUnits="userSpaceOnUse">
+      <path style="clip-rule:evenodd" id="path338" d="m 0.08501,0.057999 648.6,0 0,249.840001 -648.6,0 0,-249.840001 z"/>
+    </clipPath>
+    <clipPath id="clipPath348" clipPathUnits="userSpaceOnUse">
+      <path style="clip-rule:evenodd" id="path350" d="m 0.08501,0.057999 648.6,0 0,249.840001 -648.6,0 0,-249.840001 z"/>
+    </clipPath>
+    <clipPath id="clipPath360" clipPathUnits="userSpaceOnUse">
+      <path style="clip-rule:evenodd" id="path362" d="m 0.08501,0.057999 648.6,0 0,249.840001 -648.6,0 0,-249.840001 z"/>
+    </clipPath>
+    <clipPath id="clipPath372" clipPathUnits="userSpaceOnUse">
+      <path style="clip-rule:evenodd" id="path374" d="m 0.08501,0.057999 648.6,0 0,249.840001 -648.6,0 0,-249.840001 z"/>
+    </clipPath>
+    <clipPath id="clipPath384" clipPathUnits="userSpaceOnUse">
+      <path style="clip-rule:evenodd" id="path386" d="m 0.08501,0.057999 648.6,0 0,249.840001 -648.6,0 0,-249.840001 z"/>
+    </clipPath>
+    <clipPath id="clipPath396" clipPathUnits="userSpaceOnUse">
+      <path style="clip-rule:evenodd" id="path398" d="m 0.08501,0.057999 648.6,0 0,249.840001 -648.6,0 0,-249.840001 z"/>
+    </clipPath>
+    <clipPath id="clipPath408" clipPathUnits="userSpaceOnUse">
+      <path style="clip-rule:evenodd" id="path410" d="m 0.08501,0.057999 648.6,0 0,249.840001 -648.6,0 0,-249.840001 z"/>
+    </clipPath>
+    <clipPath id="clipPath420" clipPathUnits="userSpaceOnUse">
+      <path style="clip-rule:evenodd" id="path422" d="m 0.08501,0.057999 648.6,0 0,249.840001 -648.6,0 0,-249.840001 z"/>
+    </clipPath>
+    <clipPath id="clipPath432" clipPathUnits="userSpaceOnUse">
+      <path style="clip-rule:evenodd" id="path434" d="m 0.08501,0.057999 648.6,0 0,249.840001 -648.6,0 0,-249.840001 z"/>
+    </clipPath>
+    <clipPath id="clipPath444" clipPathUnits="userSpaceOnUse">
+      <path style="clip-rule:evenodd" id="path446" d="m 0.08501,0.057999 648.6,0 0,249.840001 -648.6,0 0,-249.840001 z"/>
+    </clipPath>
+    <clipPath id="clipPath456" clipPathUnits="userSpaceOnUse">
+      <path style="clip-rule:evenodd" id="path458" d="m 0.08501,0.057999 648.6,0 0,249.840001 -648.6,0 0,-249.840001 z"/>
+    </clipPath>
+    <clipPath id="clipPath468" clipPathUnits="userSpaceOnUse">
+      <path style="clip-rule:evenodd" id="path470" d="m 0.08501,0.057999 648.6,0 0,249.840001 -648.6,0 0,-249.840001 z"/>
+    </clipPath>
+    <clipPath id="clipPath480" clipPathUnits="userSpaceOnUse">
+      <path style="clip-rule:evenodd" id="path482" d="m 0.08501,0.057999 648.6,0 0,249.840001 -648.6,0 0,-249.840001 z"/>
+    </clipPath>
+    <clipPath id="clipPath492" clipPathUnits="userSpaceOnUse">
+      <path style="clip-rule:evenodd" id="path494" d="m 0.08501,0.057999 648.6,0 0,249.840001 -648.6,0 0,-249.840001 z"/>
+    </clipPath>
+    <clipPath id="clipPath504" clipPathUnits="userSpaceOnUse">
+      <path style="clip-rule:evenodd" id="path506" d="m 0.08501,0.057999 648.6,0 0,249.840001 -648.6,0 0,-249.840001 z"/>
+    </clipPath>
+    <clipPath id="clipPath516" clipPathUnits="userSpaceOnUse">
+      <path style="clip-rule:evenodd" id="path518" d="m 0.08501,0.057999 648.6,0 0,249.840001 -648.6,0 0,-249.840001 z"/>
+    </clipPath>
+    <clipPath id="clipPath528" clipPathUnits="userSpaceOnUse">
+      <path style="clip-rule:evenodd" id="path530" d="m 0.08501,0.057999 648.6,0 0,249.840001 -648.6,0 0,-249.840001 z"/>
+    </clipPath>
+    <clipPath id="clipPath540" clipPathUnits="userSpaceOnUse">
+      <path style="clip-rule:evenodd" id="path542" d="m 0.08501,0.057999 648.6,0 0,249.840001 -648.6,0 0,-249.840001 z"/>
+    </clipPath>
+    <clipPath id="clipPath552" clipPathUnits="userSpaceOnUse">
+      <path style="clip-rule:evenodd" id="path554" d="m 0.08501,0.057999 648.6,0 0,249.840001 -648.6,0 0,-249.840001 z"/>
+    </clipPath>
+    <clipPath id="clipPath564" clipPathUnits="userSpaceOnUse">
+      <path style="clip-rule:evenodd" id="path566" d="m 0.08501,0.057999 648.6,0 0,249.840001 -648.6,0 0,-249.840001 z"/>
+    </clipPath>
+    <clipPath id="clipPath576" clipPathUnits="userSpaceOnUse">
+      <path style="clip-rule:evenodd" id="path578" d="m 0.08501,0.057999 648.6,0 0,249.840001 -648.6,0 0,-249.840001 z"/>
+    </clipPath>
+    <clipPath id="clipPath588" clipPathUnits="userSpaceOnUse">
+      <path style="clip-rule:evenodd" id="path590" d="m 0.08501,0.057999 648.6,0 0,249.840001 -648.6,0 0,-249.840001 z"/>
+    </clipPath>
+    <clipPath id="clipPath600" clipPathUnits="userSpaceOnUse">
+      <path style="clip-rule:evenodd" id="path602" d="m 0.08501,0.057999 648.6,0 0,249.840001 -648.6,0 0,-249.840001 z"/>
+    </clipPath>
+    <clipPath id="clipPath612" clipPathUnits="userSpaceOnUse">
+      <path style="clip-rule:evenodd" id="path614" d="m 0.08501,0.057999 648.6,0 0,249.840001 -648.6,0 0,-249.840001 z"/>
+    </clipPath>
+    <clipPath id="clipPath624" clipPathUnits="userSpaceOnUse">
+      <path style="clip-rule:evenodd" id="path626" d="m 0.08501,0.057999 648.6,0 0,249.840001 -648.6,0 0,-249.840001 z"/>
+    </clipPath>
+    <clipPath id="clipPath636" clipPathUnits="userSpaceOnUse">
+      <path style="clip-rule:evenodd" id="path638" d="m 0.08501,0.057999 648.6,0 0,249.840001 -648.6,0 0,-249.840001 z"/>
+    </clipPath>
+    <clipPath id="clipPath648" clipPathUnits="userSpaceOnUse">
+      <path style="clip-rule:evenodd" id="path650" d="m 0.08501,0.057999 648.6,0 0,249.840001 -648.6,0 0,-249.840001 z"/>
+    </clipPath>
+    <clipPath id="clipPath660" clipPathUnits="userSpaceOnUse">
+      <path style="clip-rule:evenodd" id="path662" d="m 0.08501,0.057999 648.6,0 0,249.840001 -648.6,0 0,-249.840001 z"/>
+    </clipPath>
+    <clipPath id="clipPath672" clipPathUnits="userSpaceOnUse">
+      <path style="clip-rule:evenodd" id="path674" d="m 0.08501,0.057999 648.6,0 0,249.840001 -648.6,0 0,-249.840001 z"/>
+    </clipPath>
+    <clipPath id="clipPath684" clipPathUnits="userSpaceOnUse">
+      <path style="clip-rule:evenodd" id="path686" d="m 0.08501,0.057999 648.6,0 0,249.840001 -648.6,0 0,-249.840001 z"/>
+    </clipPath>
+    <clipPath id="clipPath696" clipPathUnits="userSpaceOnUse">
+      <path style="clip-rule:evenodd" id="path698" d="m 545.37,0.057999 102.84,0 0,184.920001 -102.84,0 0,-184.920001 z"/>
+    </clipPath>
+    <clipPath id="clipPath708" clipPathUnits="userSpaceOnUse">
+      <path style="clip-rule:evenodd" id="path710" d="m 0.08501,0.057999 648.6,0 0,249.840001 -648.6,0 0,-249.840001 z"/>
+    </clipPath>
+    <clipPath id="clipPath720" clipPathUnits="userSpaceOnUse">
+      <path style="clip-rule:evenodd" id="path722" d="m 0.08501,0.057999 648.6,0 0,249.840001 -648.6,0 0,-249.840001 z"/>
+    </clipPath>
+    <clipPath id="clipPath732" clipPathUnits="userSpaceOnUse">
+      <path style="clip-rule:evenodd" id="path734" d="m 0.08501,0.057999 648.6,0 0,249.840001 -648.6,0 0,-249.840001 z"/>
+    </clipPath>
+    <clipPath id="clipPath744" clipPathUnits="userSpaceOnUse">
+      <path style="clip-rule:evenodd" id="path746" d="m 0.08501,0.057999 648.6,0 0,249.840001 -648.6,0 0,-249.840001 z"/>
+    </clipPath>
+    <clipPath id="clipPath756" clipPathUnits="userSpaceOnUse">
+      <path style="clip-rule:evenodd" id="path758" d="m 0.08501,0.057999 648.6,0 0,249.840001 -648.6,0 0,-249.840001 z"/>
+    </clipPath>
+    <clipPath id="clipPath768" clipPathUnits="userSpaceOnUse">
+      <path style="clip-rule:evenodd" id="path770" d="m 0.08501,0.057999 648.6,0 0,249.840001 -648.6,0 0,-249.840001 z"/>
+    </clipPath>
+    <clipPath id="clipPath780" clipPathUnits="userSpaceOnUse">
+      <path style="clip-rule:evenodd" id="path782" d="m 0.08501,0.057999 648.6,0 0,249.840001 -648.6,0 0,-249.840001 z"/>
+    </clipPath>
+    <clipPath id="clipPath792" clipPathUnits="userSpaceOnUse">
+      <path style="clip-rule:evenodd" id="path794" d="m 0.08501,0.057999 648.6,0 0,249.840001 -648.6,0 0,-249.840001 z"/>
+    </clipPath>
+    <clipPath id="clipPath804" clipPathUnits="userSpaceOnUse">
+      <path style="clip-rule:evenodd" id="path806" d="m 0.08501,0.057999 648.6,0 0,249.840001 -648.6,0 0,-249.840001 z"/>
+    </clipPath>
+    <clipPath id="clipPath816" clipPathUnits="userSpaceOnUse">
+      <path style="clip-rule:evenodd" id="path818" d="m 0.08501,0.057999 648.6,0 0,249.840001 -648.6,0 0,-249.840001 z"/>
+    </clipPath>
+    <clipPath id="clipPath828" clipPathUnits="userSpaceOnUse">
+      <path style="clip-rule:evenodd" id="path830" d="m 0.08501,0.057999 648.6,0 0,249.840001 -648.6,0 0,-249.840001 z"/>
+    </clipPath>
+    <clipPath id="clipPath840" clipPathUnits="userSpaceOnUse">
+      <path style="clip-rule:evenodd" id="path842" d="m 0.08501,0.057999 648.6,0 0,249.840001 -648.6,0 0,-249.840001 z"/>
+    </clipPath>
+    <clipPath id="clipPath852" clipPathUnits="userSpaceOnUse">
+      <path style="clip-rule:evenodd" id="path854" d="m 0.08501,0.057999 648.6,0 0,249.840001 -648.6,0 0,-249.840001 z"/>
+    </clipPath>
+    <clipPath id="clipPath864" clipPathUnits="userSpaceOnUse">
+      <path style="clip-rule:evenodd" id="path866" d="m 0.08501,0.057999 648.6,0 0,249.840001 -648.6,0 0,-249.840001 z"/>
+    </clipPath>
+    <clipPath id="clipPath876" clipPathUnits="userSpaceOnUse">
+      <path style="clip-rule:evenodd" id="path878" d="m 0.08501,0.057999 648.6,0 0,249.840001 -648.6,0 0,-249.840001 z"/>
+    </clipPath>
+    <clipPath id="clipPath888" clipPathUnits="userSpaceOnUse">
+      <path style="clip-rule:evenodd" id="path890" d="m 0.08501,0.057999 648.6,0 0,249.840001 -648.6,0 0,-249.840001 z"/>
+    </clipPath>
+    <clipPath id="clipPath900" clipPathUnits="userSpaceOnUse">
+      <path style="clip-rule:evenodd" id="path902" d="m 0.08501,0.057999 648.6,0 0,249.840001 -648.6,0 0,-249.840001 z"/>
+    </clipPath>
+    <clipPath id="clipPath912" clipPathUnits="userSpaceOnUse">
+      <path style="clip-rule:evenodd" id="path914" d="m 0.08501,0.057999 648.6,0 0,249.840001 -648.6,0 0,-249.840001 z"/>
+    </clipPath>
+    <clipPath id="clipPath924" clipPathUnits="userSpaceOnUse">
+      <path style="clip-rule:evenodd" id="path926" d="m 0.08501,0.057999 648.6,0 0,249.840001 -648.6,0 0,-249.840001 z"/>
+    </clipPath>
+    <clipPath id="clipPath936" clipPathUnits="userSpaceOnUse">
+      <path style="clip-rule:evenodd" id="path938" d="m 0.08501,0.057999 648.6,0 0,249.840001 -648.6,0 0,-249.840001 z"/>
+    </clipPath>
+    <clipPath id="clipPath948" clipPathUnits="userSpaceOnUse">
+      <path style="clip-rule:evenodd" id="path950" d="m 0.08501,0.057999 648.6,0 0,249.840001 -648.6,0 0,-249.840001 z"/>
+    </clipPath>
+    <clipPath id="clipPath960" clipPathUnits="userSpaceOnUse">
+      <path style="clip-rule:evenodd" id="path962" d="m 0.08501,0.057999 648.6,0 0,249.840001 -648.6,0 0,-249.840001 z"/>
+    </clipPath>
+    <clipPath id="clipPath972" clipPathUnits="userSpaceOnUse">
+      <path style="clip-rule:evenodd" id="path974" d="m 0.08501,0.057999 648.6,0 0,249.840001 -648.6,0 0,-249.840001 z"/>
+    </clipPath>
+    <clipPath id="clipPath984" clipPathUnits="userSpaceOnUse">
+      <path style="clip-rule:evenodd" id="path986" d="m 0.08501,0.057999 648.6,0 0,249.840001 -648.6,0 0,-249.840001 z"/>
+    </clipPath>
+    <clipPath id="clipPath996" clipPathUnits="userSpaceOnUse">
+      <path style="clip-rule:evenodd" id="path998" d="m 0.08501,0.057999 648.6,0 0,249.840001 -648.6,0 0,-249.840001 z"/>
+    </clipPath>
+    <clipPath id="clipPath1008" clipPathUnits="userSpaceOnUse">
+      <path style="clip-rule:evenodd" id="path1010" d="m 0.08501,0.057999 648.6,0 0,249.840001 -648.6,0 0,-249.840001 z"/>
+    </clipPath>
+    <clipPath id="clipPath1020" clipPathUnits="userSpaceOnUse">
+      <path style="clip-rule:evenodd" id="path1022" d="m 0.08501,0.057999 648.6,0 0,249.840001 -648.6,0 0,-249.840001 z"/>
+    </clipPath>
+    <clipPath id="clipPath1032" clipPathUnits="userSpaceOnUse">
+      <path style="clip-rule:evenodd" id="path1034" d="m 0.08501,0.057999 648.6,0 0,249.840001 -648.6,0 0,-249.840001 z"/>
+    </clipPath>
+    <clipPath id="clipPath1044" clipPathUnits="userSpaceOnUse">
+      <path style="clip-rule:evenodd" id="path1046" d="m 0.08501,0.057999 648.6,0 0,249.840001 -648.6,0 0,-249.840001 z"/>
+    </clipPath>
+    <clipPath id="clipPath1056" clipPathUnits="userSpaceOnUse">
+      <path style="clip-rule:evenodd" id="path1058" d="m 0.08501,0.057999 648.6,0 0,249.840001 -648.6,0 0,-249.840001 z"/>
+    </clipPath>
+    <clipPath id="clipPath1068" clipPathUnits="userSpaceOnUse">
+      <path style="clip-rule:evenodd" id="path1070" d="m 0.08501,0.057999 648.6,0 0,249.840001 -648.6,0 0,-249.840001 z"/>
+    </clipPath>
+    <clipPath id="clipPath1080" clipPathUnits="userSpaceOnUse">
+      <path style="clip-rule:evenodd" id="path1082" d="m 0.08501,0.057999 648.6,0 0,249.840001 -648.6,0 0,-249.840001 z"/>
+    </clipPath>
+    <clipPath id="clipPath1092" clipPathUnits="userSpaceOnUse">
+      <path style="clip-rule:evenodd" id="path1094" d="m 0.08501,0.057999 648.6,0 0,249.840001 -648.6,0 0,-249.840001 z"/>
+    </clipPath>
+    <clipPath id="clipPath1104" clipPathUnits="userSpaceOnUse">
+      <path style="clip-rule:evenodd" id="path1106" d="m 0.08501,0.057999 648.6,0 0,249.840001 -648.6,0 0,-249.840001 z"/>
+    </clipPath>
+    <clipPath id="clipPath1116" clipPathUnits="userSpaceOnUse">
+      <path style="clip-rule:evenodd" id="path1118" d="m 0.08501,0.057999 648.6,0 0,249.840001 -648.6,0 0,-249.840001 z"/>
+    </clipPath>
+    <clipPath id="clipPath1128" clipPathUnits="userSpaceOnUse">
+      <path style="clip-rule:evenodd" id="path1130" d="m 0.08501,0.057999 648.6,0 0,249.840001 -648.6,0 0,-249.840001 z"/>
+    </clipPath>
+    <clipPath id="clipPath1140" clipPathUnits="userSpaceOnUse">
+      <path style="clip-rule:evenodd" id="path1142" d="m 0.08501,0.057999 648.6,0 0,249.840001 -648.6,0 0,-249.840001 z"/>
+    </clipPath>
+    <clipPath id="clipPath1152" clipPathUnits="userSpaceOnUse">
+      <path style="clip-rule:evenodd" id="path1154" d="m 0.08501,0.057999 648.6,0 0,249.840001 -648.6,0 0,-249.840001 z"/>
+    </clipPath>
+    <clipPath id="clipPath1164" clipPathUnits="userSpaceOnUse">
+      <path style="clip-rule:evenodd" id="path1166" d="m 0.08501,0.057999 648.6,0 0,249.840001 -648.6,0 0,-249.840001 z"/>
+    </clipPath>
+    <clipPath id="clipPath1176" clipPathUnits="userSpaceOnUse">
+      <path style="clip-rule:evenodd" id="path1178" d="m 0.08501,0.057999 648.6,0 0,249.840001 -648.6,0 0,-249.840001 z"/>
+    </clipPath>
+    <clipPath id="clipPath1188" clipPathUnits="userSpaceOnUse">
+      <path style="clip-rule:evenodd" id="path1190" d="m 0.08501,0.057999 648.6,0 0,249.840001 -648.6,0 0,-249.840001 z"/>
+    </clipPath>
+    <clipPath id="clipPath1200" clipPathUnits="userSpaceOnUse">
+      <path style="clip-rule:evenodd" id="path1202" d="m 0.08501,0.057999 648.6,0 0,249.840001 -648.6,0 0,-249.840001 z"/>
+    </clipPath>
+    <clipPath id="clipPath1212" clipPathUnits="userSpaceOnUse">
+      <path style="clip-rule:evenodd" id="path1214" d="m 0.08501,0.057999 648.6,0 0,249.840001 -648.6,0 0,-249.840001 z"/>
+    </clipPath>
+    <clipPath id="clipPath1224" clipPathUnits="userSpaceOnUse">
+      <path style="clip-rule:evenodd" id="path1226" d="m 0.08501,0.057999 648.6,0 0,249.840001 -648.6,0 0,-249.840001 z"/>
+    </clipPath>
+    <clipPath id="clipPath1236" clipPathUnits="userSpaceOnUse">
+      <path style="clip-rule:evenodd" id="path1238" d="m 0.08501,0.057999 648.6,0 0,249.840001 -648.6,0 0,-249.840001 z"/>
+    </clipPath>
+    <clipPath id="clipPath1248" clipPathUnits="userSpaceOnUse">
+      <path style="clip-rule:evenodd" id="path1250" d="m 0.08501,0.057999 648.6,0 0,249.840001 -648.6,0 0,-249.840001 z"/>
+    </clipPath>
+    <clipPath id="clipPath1264" clipPathUnits="userSpaceOnUse">
+      <path style="clip-rule:evenodd" id="path1266" d="m 0.08501,0.057999 648.6,0 0,249.840001 -648.6,0 0,-249.840001 z"/>
+    </clipPath>
+    <clipPath id="clipPath1280" clipPathUnits="userSpaceOnUse">
+      <path style="clip-rule:evenodd" id="path1282" d="m 0.08501,0.057999 648.6,0 0,249.840001 -648.6,0 0,-249.840001 z"/>
+    </clipPath>
+    <clipPath id="clipPath1296" clipPathUnits="userSpaceOnUse">
+      <path style="clip-rule:evenodd" id="path1298" d="m 0.08501,0.057999 648.6,0 0,249.840001 -648.6,0 0,-249.840001 z"/>
+    </clipPath>
+    <clipPath id="clipPath1312" clipPathUnits="userSpaceOnUse">
+      <path style="clip-rule:evenodd" id="path1314" d="m 0.08501,0.057999 648.6,0 0,249.840001 -648.6,0 0,-249.840001 z"/>
+    </clipPath>
+  </defs>
+  <g transform="matrix(1.25,0,0,-1.25,0,765)" id="g10">
+    <g id="g12">
+      <g clip-path="url(#clipPath16)" id="g14">
+        <g transform="matrix(9.4583,0,0,3.3933,16.92,352.68)" id="g20">
+          <g transform="scale(0.11099,0.28802)" id="g22">
+            <g clip-path="url(#clipPath26)" id="g24">
+              <path id="path30" style="fill:#f2f2f2;fill-opacity:1;fill-rule:evenodd;stroke:none" d="m 0.087047,167.59 28.329,0 0,56.171 -28.329,0 0,-56.171 z"/>
+              <path id="path32" style="fill:#f2f2f2;fill-opacity:1;fill-rule:evenodd;stroke:none" d="m 28.416,167.59 70.822,0 0,56.171 -70.822,0 0,-56.171 z"/>
+              <path id="path34" style="fill:#005aa4;fill-opacity:1;fill-rule:evenodd;stroke:none" d="m 545.42,167.59 102.69,0 0,56.171 -102.69,0 0,-56.171 z"/>
+              <path id="path36" style="fill:#f2f2f2;fill-opacity:1;fill-rule:evenodd;stroke:none" d="m 0.087047,111.91 28.329,0 0,55.673 -28.329,0 0,-55.673 z"/>
+              <path id="path38" style="fill:#f2f2f2;fill-opacity:1;fill-rule:evenodd;stroke:none" d="m 28.416,111.91 70.822,0 0,55.673 -70.822,0 0,-55.673 z"/>
+              <path id="path40" style="fill:#005aa4;fill-opacity:1;fill-rule:evenodd;stroke:none" d="m 545.42,111.91 102.69,0 0,55.673 -102.69,0 0,-55.673 z"/>
+              <path id="path42" style="fill:#f2f2f2;fill-opacity:1;fill-rule:evenodd;stroke:none" d="m 0.087047,56.241 28.329,0 0,55.673 -28.329,0 0,-55.673 z"/>
+              <path id="path44" style="fill:#f2f2f2;fill-opacity:1;fill-rule:evenodd;stroke:none" d="m 28.416,56.241 70.822,0 0,55.673 -70.822,0 0,-55.673 z"/>
+              <path id="path46" style="fill:#005aa4;fill-opacity:1;fill-rule:evenodd;stroke:none" d="m 545.42,56.241 102.69,0 0,55.673 -102.69,0 0,-55.673 z"/>
+              <path id="path48" style="fill:#f2f2f2;fill-opacity:1;fill-rule:evenodd;stroke:none" d="m 0.087047,0.56795 28.329,0 0,55.673 -28.329,0 0,-55.673 z"/>
+              <path id="path50" style="fill:#f2f2f2;fill-opacity:1;fill-rule:evenodd;stroke:none" d="m 28.416,0.56795 70.822,0 0,55.673 -70.822,0 0,-55.673 z"/>
+              <path id="path52" style="fill:#005aa4;fill-opacity:1;fill-rule:evenodd;stroke:none" d="m 545.42,0.56795 102.69,0 0,55.673 -102.69,0 0,-55.673 z"/>
+              <g id="g54">
+                <g clip-path="url(#clipPath58)" id="g56">
+                  <path id="path62" style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" d="m 0.087047,223.76 648.022953,0"/>
+                </g>
+              </g>
+              <g id="g64">
+                <g clip-path="url(#clipPath68)" id="g66">
+                  <path id="path72" style="fill:none;stroke:#000000;stroke-width:0.75;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" d="m 0.087047,167.59 99.150953,0"/>
+                </g>
+              </g>
+              <path id="path74" style="fill:none;stroke:#000000;stroke-width:0.75;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" d="m 99.238,167.59 446.182,0"/>
+              <path id="path76" style="fill:none;stroke:#ffffff;stroke-width:0.75;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" d="m 545.42,167.59 102.69,0"/>
+              <g id="g78">
+                <g clip-path="url(#clipPath82)" id="g80">
+                  <path id="path86" style="fill:none;stroke:#000000;stroke-width:0.75;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" d="m 0.087047,111.91 99.150953,0"/>
+                </g>
+              </g>
+              <path id="path88" style="fill:none;stroke:#000000;stroke-width:0.75;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" d="m 99.238,111.91 446.182,0"/>
+              <path id="path90" style="fill:none;stroke:#ffffff;stroke-width:0.75;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" d="m 545.42,111.91 102.69,0"/>
+              <g id="g92">
+                <g clip-path="url(#clipPath96)" id="g94">
+                  <path id="path100" style="fill:none;stroke:#000000;stroke-width:0.75;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" d="m 0.087047,56.241 99.150953,0"/>
+                </g>
+              </g>
+              <path id="path102" style="fill:none;stroke:#000000;stroke-width:0.75;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" d="m 99.238,56.241 446.182,0"/>
+              <path id="path104" style="fill:none;stroke:#ffffff;stroke-width:0.75;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" d="m 545.42,56.241 102.69,0"/>
+              <g id="g106">
+                <g clip-path="url(#clipPath110)" id="g108">
+                  <path id="path114" style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" d="m 0.087047,0.56795 648.022953,0"/>
+                </g>
+              </g>
+              <g id="g116">
+                <g clip-path="url(#clipPath120)" id="g118"><text id="text124" style="font-variant:normal;font-weight:bold;font-size:8.03999996px;font-family:'Roboto Condensed';-inkscape-font-specification:RobotoCondensed-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,552.53,234.02)"><tspan id="tspan126" y="0" x="0 4.57476 8.5223999 11.03088 14.88204 18.837721 21.346201 23.37228 27.215401 29.24148 30.93792 32.964001 38.969879 42.94968 46.760639 50.459042 52.991638">Potential impact </tspan></text>
+</g>
+              </g>
+              <g id="g128">
+                <g clip-path="url(#clipPath132)" id="g130"><text id="text136" style="font-variant:normal;font-weight:normal;font-size:8.03999996px;font-family:'Roboto Condensed';-inkscape-font-specification:RobotoCondensed-Regular;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,607.15,234.02)"><tspan id="tspan138" y="0" x="0 2.52456 6.2309999 9.9535198 11.75448 15.477 19.191481 21.5874 23.388359 27.4566 31.299721">(selection)</tspan></text>
+</g>
+              </g>
+              <g id="g140">
+                <g clip-path="url(#clipPath144)" id="g142"><text id="text148" style="font-variant:normal;font-weight:bold;font-size:8.03999996px;font-family:'Roboto Condensed';-inkscape-font-specification:RobotoCondensed-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,104.9,234.02)"><tspan id="tspan150" y="0" x="0 4.5426002 8.3937597 12.00372 15.70212 18.371401 20.39748 24.377279 26.87772 28.903799 32.875561">Description</tspan></text>
+</g>
+              </g>
+              <g id="g152">
+                <g clip-path="url(#clipPath156)" id="g154"><text id="text160" style="font-variant:normal;font-weight:bold;font-size:8.03999996px;font-family:'Roboto Condensed';-inkscape-font-specification:RobotoCondensed-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,5.736,234.02)"><tspan id="tspan162" y="0" x="0 3.8399601 7.6799202 11.27868 15.11864">Lever</tspan></text>
+</g>
+              </g>
+              <g id="g164">
+                <g clip-path="url(#clipPath168)" id="g166"><text id="text172" style="font-variant:normal;font-weight:bold;font-size:8.03999996px;font-family:'Roboto Condensed';-inkscape-font-specification:RobotoCondensed-Bold;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,588.17,197.71)"><tspan id="tspan174" y="0" x="0 4.0682402 8.1364803 13.31424">20%+</tspan></text>
+</g>
+              </g>
+              <g id="g176">
+                <g clip-path="url(#clipPath180)" id="g178"><text id="text184" style="font-variant:normal;font-weight:bold;font-size:8.03999996px;font-family:'Roboto Condensed';-inkscape-font-specification:RobotoCondensed-Bold;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,564.77,188.11)"><tspan id="tspan186" y="0" x="0 3.8350799 7.7988 11.40876 13.43484 17.03676 21.000481 23.6376 25.43856 29.41836 32.039398 36.00312 39.966839 43.92252 47.637001 50.145481 52.171558 55.781521 57.807598 60.340199">advisor productivity</tspan></text>
+</g>
+              </g>
+              <g id="g188">
+                <g clip-path="url(#clipPath192)" id="g190"><text id="text196" style="font-variant:normal;font-weight:normal;font-size:8.06400013px;font-family:'Roboto Condensed';-inkscape-font-specification:RobotoCondensed-Regular;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,104.9,213.38)"><tspan id="tspan198" y="0" x="0 4.5480962 8.4107523 10.184832 14.023296 17.740801 19.772928 25.772545 29.635201 33.449471 37.312126 41.24736 44.964863 50.964481 54.681984 58.520447 60.899326 62.955647 66.431229 68.229507 72.092163 73.979134 76.38221 78.180481 82.156029 86.204163 88.62336 92.695679 96.534142 100.24358 101.9209 105.64646 107.44473 109.24301 112.96051 116.79897 119.17786 121.23418 124.94362 128.66112 132.63667 138.62016 142.33766 146.17613 148.55501 152.41766 154.79654 156.619 160.69133 164.52979 166.56192 170.53748 173.90016 175.7952 179.52077 183.35117 185.75424 188.15732 191.87482 195.71329 198.09216 201.10809 205.08365 209.13177 211.54291 215.26042 219.09888 221.47775 223.30022 227.16289 228.93697 230.96909 234.44467 238.30733 240.08141 243.91988 247.63737 249.21793 251.22586 255.29817 259.13663 261.51553 263.93472 267.65222 271.51489 275.21625 279.05472 280.96588 283.34476 287.44128 289.11859 291.49747 295.59399">Value management via rigorous client segmentation by current/potential value, outreach to top</tspan></text>
+</g>
+              </g>
+              <g id="g200">
+                <g clip-path="url(#clipPath204)" id="g202"><text id="text208" style="font-variant:normal;font-weight:normal;font-size:8.06400013px;font-family:'Roboto Condensed';-inkscape-font-specification:RobotoCondensed-Regular;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,404.71,213.38)"><tspan id="tspan210" y="0" x="0">-</tspan></text>
+</g>
+              </g>
+              <g id="g212">
+                <g clip-path="url(#clipPath216)" id="g214"><text id="text220" style="font-variant:normal;font-weight:normal;font-size:8.06400013px;font-family:'Roboto Condensed';-inkscape-font-specification:RobotoCondensed-Regular;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,406.75,213.38)"><tspan id="tspan222" y="0" x="0 3.9755521 6.3624959 8.1607676 12.233088 14.63616 16.434431 18.813313 22.176001 24.103296 27.828863 29.627136 31.425407 35.142914 38.981377 41.360256 45.093887 47.005054 49.537151 53.246593 56.722176 60.439678 64.278145 66.189316 69.89875 72.277634 74.696831 78.76915 82.607613 86.583168 88.244354 90.760323 92.558594 94.961662">priority clients (even strong firm</tspan></text>
+</g>
+              </g>
+              <g id="g224">
+                <g clip-path="url(#clipPath228)" id="g226"><text id="text232" style="font-variant:normal;font-weight:normal;font-size:8.06400013px;font-family:'Roboto Condensed';-inkscape-font-specification:RobotoCondensed-Regular;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,507.82,213.38)"><tspan id="tspan234" y="0" x="0 3.7199841">s </tspan></text>
+</g>
+              </g>
+              <g id="g236">
+                <g clip-path="url(#clipPath240)" id="g238"><text id="text244" style="font-variant:normal;font-weight:normal;font-size:8.03999996px;font-family:'Roboto Condensed';-inkscape-font-specification:RobotoCondensed-Regular;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,104.9,203.64)"><tspan id="tspan246" y="0" x="0 3.7144799 7.79076 11.63388 15.34836 17.149321 20.8638 23.25972 26.982241 30.825359 33.221279 35.02224 38.37492 40.183922 42.587879 46.310398 50.16156 53.876041 57.711121 59.745239 63.81348 67.656601 69.457558 72.810242 74.731796">consistently reach only ~</tspan></text>
+</g>
+              </g>
+              <g id="g248">
+                <g clip-path="url(#clipPath252)" id="g250"><text id="text256" style="font-variant:normal;font-weight:normal;font-size:8.03999996px;font-family:CambriaMath;-inkscape-font-specification:CambriaMath;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,184.37,203.64)"><tspan id="tspan258" y="0" x="0">⅓</tspan></text>
+</g>
+              </g>
+              <g id="g260">
+                <g clip-path="url(#clipPath264)" id="g262"><text id="text268" style="font-variant:normal;font-weight:normal;font-size:8.03999996px;font-family:'Roboto Condensed';-inkscape-font-specification:RobotoCondensed-Regular;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,193.73,203.64)"><tspan id="tspan270" y="0" x="0 2.39592 6.46416 10.42788 14.27904 17.63172 20.148239 21.82056 23.500919 27.34404 31.066561 34.547878 36.943802 38.977921 42.941639 46.65612 50.370602 52.766521 54.567478 58.41864 62.133121 64.504921 66.346077 70.398239 74.241364 76.154877 79.628159 81.429123 85.280281 87.177719 91.141441 93.537361 97.605598 101.56932 105.2838 109.12692 112.8414 114.64236 117.03828 120.39096 122.19996 128.1978 132.26604 136.22977 139.95229 141.75323 145.46771 147.38124 149.92188 153.95796 156.40211 158.05836 161.77284 165.62399 169.33044 173.17355 175.08708 179.0508 182.77332 186.73705 188.52995 192.59821 195.95088 201.95676 205.67928 209.5224 211.91832 213.49416 215.6328 221.63065 225.4818 229.30884 233.27255 237.12372 239.49551 243.23412 245.14764 248.99075 252.95448 256.91821 259.31412 263.16528 267.11292 270.83545 274.54993 276.12576 278.1438 279.94476 283.66727 287.51041 291.47412 293.27509 297.11819 301.08191 302.65775 304.90897 308.76013 312.58716 316.55087 318.58499 322.54871 324.94464 326.74561 330.21887 334.07004 336.44183 340.18045">today); next best action via propensity models for cash deployment, mandate upgrades, lending, and private </tspan></text>
+</g>
+              </g>
+              <g id="g272">
+                <g clip-path="url(#clipPath276)" id="g274"><text id="text280" style="font-variant:normal;font-weight:normal;font-size:8.03999996px;font-family:'Roboto Condensed';-inkscape-font-specification:RobotoCondensed-Regular;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,104.9,194.16)"><tspan id="tspan282" y="0" x="0 5.9978399 9.849 12.23688 15.8388 19.561319 21.957239 25.671721 27.34404 29.145 30.945959 34.789082 38.64024 42.354721 44.726521 46.56768 50.008801 51.84996 54.22176 57.57444 60.581402 64.295883 68.018402 70.422363 73.895638 75.696602 79.411079 83.133598 85.047119 88.761597 90.562561 94.526283 98.361359 102.21252 103.9974 107.71188 109.746 112.14192 116.21016 117.89052 120.28644 122.6904 124.49136 128.45508 132.41879 136.13329 138.53725 140.57137 142.96729 144.76823 150.76608 154.4886 156.28957 159.64224 161.6844 165.53555 169.4832 172.95648 174.75745 178.47192 182.54016 184.94412 186.62448 190.33896 194.18208 197.9046 201.61908">markets; inactivity/service signals to trigger timely advisor check</tspan></text>
+</g>
+              </g>
+              <g id="g284">
+                <g clip-path="url(#clipPath288)" id="g286"><text id="text292" style="font-variant:normal;font-weight:normal;font-size:8.03999996px;font-family:'Roboto Condensed';-inkscape-font-specification:RobotoCondensed-Regular;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,310.25,194.16)"><tspan id="tspan294" y="0" x="0">-</tspan></text>
+</g>
+              </g>
+              <g id="g296">
+                <g clip-path="url(#clipPath300)" id="g298"><text id="text304" style="font-variant:normal;font-weight:normal;font-size:8.03999996px;font-family:'Roboto Condensed';-inkscape-font-specification:RobotoCondensed-Regular;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,312.29,194.16)"><tspan id="tspan306" y="0" x="0 1.8009599 5.6440802 9.3585596 11.03088 12.9444 14.74536 18.58848 20.9844 24.706921 27.11088 30.954 34.805161 36.590038 38.744759 42.587879 46.65612 48.457081 52.420799 54.22176 58.06488 62.028599 65.735039 67.769157 71.73288 73.6464 77.368919 80.850243 83.246162 86.968681 89.372643 93.215759 97.066917 98.851799 100.88592 104.6004 106.40136 110.36508 114.20016 118.05132 119.8362 123.55068 125.4642 129.30733 133.0218 136.74432 140.70804 142.62157 145.01749 149.08572 150.76608 154.4886 158.20308 160.599 162.39996 168.3978 172.24896 174.62076 178.35936 180.27287">ins; internal holdings + external signals used to estimate o</tspan></text>
+</g>
+              </g>
+              <g id="g308">
+                <g clip-path="url(#clipPath312)" id="g310"><text id="text316" style="font-variant:normal;font-weight:normal;font-size:8.03999996px;font-family:'Roboto Condensed';-inkscape-font-specification:RobotoCondensed-Regular;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,496.78,194.16)"><tspan id="tspan318" y="0" x="0 2.52004">ff</tspan></text>
+</g>
+              </g>
+              <g id="g320">
+                <g clip-path="url(#clipPath324)" id="g322"><text id="text328" style="font-variant:normal;font-weight:normal;font-size:8.03999996px;font-family:'Roboto Condensed';-inkscape-font-specification:RobotoCondensed-Regular;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,501.82,194.16)"><tspan id="tspan330" y="0" x="0">-</tspan></text>
+</g>
+              </g>
+              <g id="g332">
+                <g clip-path="url(#clipPath336)" id="g334"><text id="text340" style="font-variant:normal;font-weight:normal;font-size:8.03999996px;font-family:'Roboto Condensed';-inkscape-font-specification:RobotoCondensed-Regular;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,503.86,194.16)"><tspan id="tspan342" y="0" x="0 3.9637201 5.75664 9.6077995 11.9796 14.52024 18.58848 20.992439 26.99028">platform </tspan></text>
+</g>
+              </g>
+              <g id="g344">
+                <g clip-path="url(#clipPath348)" id="g346"><text id="text352" style="font-variant:normal;font-weight:normal;font-size:8.03999996px;font-family:'Roboto Condensed';-inkscape-font-specification:RobotoCondensed-Regular;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,104.9,184.56)"><tspan id="tspan354" y="0" x="0 3.85116 7.5495601 11.26404 14.98656 17.382481 21.09696 22.777321 26.628481 30.455521 34.419239 36.33276 40.047241 43.76976 46.16568 47.96664 53.240879 57.092041 58.876919 60.677879 64.400398">assets and set wallet</tspan></text>
+</g>
+              </g>
+              <g id="g356">
+                <g clip-path="url(#clipPath360)" id="g358"><text id="text364" style="font-variant:normal;font-weight:normal;font-size:8.03999996px;font-family:'Roboto Condensed';-inkscape-font-specification:RobotoCondensed-Regular;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,171.74,184.56)"><tspan id="tspan366" y="0" x="0">-</tspan></text>
+</g>
+              </g>
+              <g id="g368">
+                <g clip-path="url(#clipPath372)" id="g370"><text id="text376" style="font-variant:normal;font-weight:normal;font-size:8.03999996px;font-family:'Roboto Condensed';-inkscape-font-specification:RobotoCondensed-Regular;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,173.78,184.56)"><tspan id="tspan378" y="0" x="0 3.7144799 7.5576 11.40876 13.79664 17.519159 19.43268 21.8286 25.67976 28.06764 32.031361 35.745838 38.141762 41.856239 43.528561 45.329521 49.05204 50.853001 54.704159 58.402561 60.798481 62.599442 66.313919 68.122917 70.518837 73.871521 75.913681 79.877403 81.790916 85.754639 89.469116 93.191643 95.595596 97.629723 101.3442 105.42048 111.41832 115.38204 119.2332 121.62108 125.47224 127.84404 131.9364 134.34036 138.05484 139.7352 143.44968 147.2928 151.25652 155.22025 158.93472 162.6492 165.04512 166.84608 170.8098 172.61076 176.32524 180.03972 184.116 187.95912 191.80225 194.19817 197.91264 199.71359 202.10953 205.95264 209.8038 212.1756 214.01675 217.95636 221.67888 224.21951 227.91792 231.76105 235.72476 237.75888 241.11156 242.92056 246.64308 248.44405 252.40776 254.56248 259.83673 263.67984 265.4808 267.28177 271.00427 273.03839 278.31265 280.11359 283.95673 287.79984 289.6008 293.44391 297.40765 299.55432 303.2688 307.34509 311.1882 314.90268 318.97092 320.77188 322.57285 326.53656 330.38773 332.75952">share targets; elasticity + peer comparators suggest discounts that defend yield while winning consolidati</tspan></text>
+</g>
+              </g>
+              <g id="g380">
+                <g clip-path="url(#clipPath384)" id="g382"><text id="text388" style="font-variant:normal;font-weight:normal;font-size:8.03999996px;font-family:'Roboto Condensed';-inkscape-font-specification:RobotoCondensed-Regular;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,508.54,184.56)"><tspan id="tspan390" y="0" x="0 4.0799799">on</tspan></text>
+</g>
+              </g>
+              <g id="g392">
+                <g clip-path="url(#clipPath396)" id="g394"><text id="text400" style="font-variant:normal;font-weight:bold;font-size:8.06400013px;font-family:'Roboto Condensed';-inkscape-font-specification:RobotoCondensed-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,34.056,213.38)"><tspan id="tspan402" y="0" x="0 4.814208 8.7816963 12.57984 14.628096 18.22464 20.740608 22.772736 26.482176 30.102913 31.780224 34.288128 38.247551">Analytics to </tspan></text>
+</g>
+              </g>
+              <g id="g404">
+                <g clip-path="url(#clipPath408)" id="g406"><text id="text412" style="font-variant:normal;font-weight:bold;font-size:8.03999996px;font-family:'Roboto Condensed';-inkscape-font-specification:RobotoCondensed-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,34.056,203.76)"><tspan id="tspan414" y="0" x="0 3.8350799 7.5334802 10.06608 12.09216 16.063919 20.0196 21.699961 24.329041 28.284719 32.24844 34.75692">action (not </tspan></text>
+</g>
+              </g>
+              <g id="g416">
+                <g clip-path="url(#clipPath420)" id="g418"><text id="text424" style="font-variant:normal;font-weight:bold;font-size:8.03999996px;font-family:'Roboto Condensed';-inkscape-font-specification:RobotoCondensed-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,34.056,194.16)"><tspan id="tspan426" y="0" x="0 3.9637201 7.7988 11.40072 15.3564 19.336201 23.28384 27.118919 29.756041 33.719761 37.321678">dashboards)</tspan></text>
+</g>
+              </g>
+              <g id="g428">
+                <g clip-path="url(#clipPath432)" id="g430"><text id="text436" style="font-variant:normal;font-weight:bold;font-size:8.03999996px;font-family:'Roboto Condensed';-inkscape-font-specification:RobotoCondensed-Bold;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,577.51,146.57)"><tspan id="tspan438" y="0" x="0 3.8399999">+6</tspan></text>
+</g>
+              </g>
+              <g id="g440">
+                <g clip-path="url(#clipPath444)" id="g442"><text id="text448" style="font-variant:normal;font-weight:bold;font-size:8.03999996px;font-family:'Roboto Condensed';-inkscape-font-specification:RobotoCondensed-Bold;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,585.43,146.57)"><tspan id="tspan450" y="0" x="0">-</tspan></text>
+</g>
+              </g>
+              <g id="g452">
+                <g clip-path="url(#clipPath456)" id="g454"><text id="text460" style="font-variant:normal;font-weight:bold;font-size:8.03999996px;font-family:'Roboto Condensed';-inkscape-font-specification:RobotoCondensed-Bold;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,588.31,146.57)"><tspan id="tspan462" y="0" x="0 4.0682402 8.1364803 9.7203598 13.67604 17.639759 21.59544 24.240601 27.84252">10 hours </tspan></text>
+</g>
+              </g>
+              <g id="g464">
+                <g clip-path="url(#clipPath468)" id="g466"><text id="text472" style="font-variant:normal;font-weight:bold;font-size:8.03999996px;font-family:'Roboto Condensed';-inkscape-font-specification:RobotoCondensed-Bold;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,555.29,136.97)"><tspan id="tspan474" y="0" x="0 2.63712 6.6008401 9.2379599 11.15148 14.84988 16.90008 18.926161 22.777321 26.733 29.249519 30.92988 34.78104 38.736721 42.804958 46.640041 50.708279 54.559441 60.52512 64.376282 68.331963 70.856522 72.53688 76.516678 80.335678 82.972801">for client engagement per </tspan></text>
+</g>
+              </g>
+              <g id="g476">
+                <g clip-path="url(#clipPath480)" id="g478"><text id="text484" style="font-variant:normal;font-weight:bold;font-size:8.03999996px;font-family:'Roboto Condensed';-inkscape-font-specification:RobotoCondensed-Bold;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,584.95,127.37)"><tspan id="tspan486" y="0" x="0 3.8350799 7.7988 11.40876 13.43484 17.03676 21.000481">advisor</tspan></text>
+</g>
+              </g>
+              <g id="g488">
+                <g clip-path="url(#clipPath492)" id="g490"><text id="text496" style="font-variant:normal;font-weight:normal;font-size:8.03999996px;font-family:'Roboto Condensed';-inkscape-font-specification:RobotoCondensed-Regular;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,104.9,157.18)"><tspan id="tspan498" y="0" x="0 4.6712399 8.6349602 12.10824 13.9092 17.62368 21.691919 24.095881 27.81036 29.370119 33.213242 37.056358 41.020081 44.742599 47.146561 50.861038 54.82476 58.539242 62.382359 66.346077 68.380203 72.448441 76.291557 78.092522 81.806999 83.615997 85.416962 89.139481 92.982597 95.378517 97.412643 101.12712 105.2034 109.04652 111.44244 115.2936 119.00808 121.37988 123.55068 125.4642 127.49832 131.34145 133.73737 137.45988 141.4236 143.81952 147.67068 150.04248 153.78108 157.7448 159.65833 164.217 168.52644 174.63684 176.21268 177.87695 181.84068 183.63361 187.59732 191.3118 193.11276 194.91373 198.75684 202.47935 204.75468 208.7184 212.78664 216.25992 219.98244 222.3864 226.22952 230.08067 233.90771 237.62219 241.34473 242.92056 244.9386 250.93645 255.00468 258.96841 262.69092 264.49188 266.4054 270.36911 274.43735 276.84131 279.23724 281.77789 285.81396 287.65512 289.44 293.50824 297.22272 298.79855 300.46283 304.53107 308.37421">Advisors underspend on client contact. Integrated CRM, pipeline governance, model portfolios, one</tspan></text>
+</g>
+              </g>
+              <g id="g500">
+                <g clip-path="url(#clipPath504)" id="g502"><text id="text508" style="font-variant:normal;font-weight:normal;font-size:8.03999996px;font-family:'Roboto Condensed';-inkscape-font-specification:RobotoCondensed-Regular;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,417.19,157.18)"><tspan id="tspan510" y="0" x="0">-</tspan></text>
+</g>
+              </g>
+              <g id="g512">
+                <g clip-path="url(#clipPath516)" id="g514"><text id="text520" style="font-variant:normal;font-weight:normal;font-size:8.03999996px;font-family:'Roboto Condensed';-inkscape-font-specification:RobotoCondensed-Regular;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,419.23,157.18)"><tspan id="tspan522" y="0" x="0 3.7144799 5.5234799 7.32444 11.03892 14.66496 16.674959 20.63868 23.034599 27.10284 31.066561 35.1348 38.849281 42.700439 44.485321 48.199799 49.775639 51.56052 55.411678 59.23872 63.202438 65.236557 69.4254 73.614243 78.068398">click proposals, and STP </tspan></text>
+</g>
+              </g>
+              <g id="g524">
+                <g clip-path="url(#clipPath528)" id="g526"><text id="text532" style="font-variant:normal;font-weight:normal;font-size:8.03999996px;font-family:'Roboto Condensed';-inkscape-font-specification:RobotoCondensed-Regular;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,104.9,147.58)"><tspan id="tspan534" y="0" x="0 4.0682402 7.9113598 11.87508 15.94332 19.794479 22.18236 26.14608 27.947041 31.790159 35.75388 38.736721 43.182838 47.395802 51.954479 53.851921 59.12616 60.92712 63.32304 67.166161 69.079681">onboarding/KYC with e</tspan></text>
+</g>
+              </g>
+              <g id="g536">
+                <g clip-path="url(#clipPath540)" id="g538"><text id="text544" style="font-variant:normal;font-weight:normal;font-size:8.03999996px;font-family:'Roboto Condensed';-inkscape-font-specification:RobotoCondensed-Regular;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,177.74,147.58)"><tspan id="tspan546" y="0" x="0">-</tspan></text>
+</g>
+              </g>
+              <g id="g548">
+                <g clip-path="url(#clipPath552)" id="g550"><text id="text556" style="font-variant:normal;font-weight:normal;font-size:8.03999996px;font-family:'Roboto Condensed';-inkscape-font-specification:RobotoCondensed-Regular;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,179.78,147.58)"><tspan id="tspan558" y="0" x="0 3.7144799 5.51544 9.4791603 13.31424 14.98656 16.90008 21.57132 23.60544 25.285801 29.12892 32.843399 36.565922 40.52964 42.443161 44.839081 48.907318 50.708279 56.70612 60.557281 62.929081 66.643562 70.526878 72.416283 76.267441 80.21508 83.688362 85.489319 89.203796 93.272041 95.676003 99.39048 101.07084 103.46676 107.535 109.21536 113.17908 115.575 119.64324 122.18388 123.96072 125.76168 129.48421 133.19868 135.1122 138.96336 142.79041 146.75412 148.78824 152.85648 156.82021 159.20808 161.00903 167.00688 168.80785 172.28915 176.01167 177.9252 181.88892 184.28484 188.00735 191.97108 194.95392 196.99608 200.84724 204.81096 208.77467 211.15453 215.22276 219.07391 222.78841 226.62347 228.29581 230.20932 234.63936 238.36188 242.07635">sign; AI used to match advisors to profiles and optimize prep/ approach; Best</tspan></text>
+</g>
+              </g>
+              <g id="g560">
+                <g clip-path="url(#clipPath564)" id="g562"><text id="text568" style="font-variant:normal;font-weight:normal;font-size:8.03999996px;font-family:'Roboto Condensed';-inkscape-font-specification:RobotoCondensed-Regular;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,424.51,147.58)"><tspan id="tspan570" y="0" x="0">-</tspan></text>
+</g>
+              </g>
+              <g id="g572">
+                <g clip-path="url(#clipPath576)" id="g574"><text id="text580" style="font-variant:normal;font-weight:normal;font-size:8.03999996px;font-family:'Roboto Condensed';-inkscape-font-specification:RobotoCondensed-Regular;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,426.55,147.58)"><tspan id="tspan582" y="0" x="0 1.79996">in</tspan></text>
+</g>
+              </g>
+              <g id="g584">
+                <g clip-path="url(#clipPath588)" id="g586"><text id="text592" style="font-variant:normal;font-weight:normal;font-size:8.03999996px;font-family:'Roboto Condensed';-inkscape-font-specification:RobotoCondensed-Regular;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,432.19,147.58)"><tspan id="tspan594" y="0" x="0">-</tspan></text>
+</g>
+              </g>
+              <g id="g596">
+                <g clip-path="url(#clipPath600)" id="g598"><text id="text604" style="font-variant:normal;font-weight:normal;font-size:8.03999996px;font-family:'Roboto Condensed';-inkscape-font-specification:RobotoCondensed-Regular;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,434.23,147.58)"><tspan id="tspan606" y="0" x="0 3.7144799 5.5234799 9.3746405 13.07304 16.787519 18.46788 22.431601 26.14608 29.868601 32.27256 35.987041 37.787998 41.63916 45.353642 49.188721 50.989681 54.7122 58.185478 61.908001 63.94212 67.905838 71.877602 75.849358 80.866318">class peers achieve +60% </tspan></text>
+</g>
+              </g>
+              <g id="g608">
+                <g clip-path="url(#clipPath612)" id="g610"><text id="text616" style="font-variant:normal;font-weight:normal;font-size:8.03999996px;font-family:'Roboto Condensed';-inkscape-font-specification:RobotoCondensed-Regular;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,104.9,137.98)"><tspan id="tspan618" y="0" x="0 3.85116 7.7988 11.27208 13.07304 16.787519 20.855761 23.25972 24.940081 27.336 29.136959 35.1348 38.857319 40.891441 46.16568 47.96664 50.36256 54.205681 56.119202 59.833679 61.642681 63.443642 67.166161 71.009277 73.405197 77.119682 78.792 80.705521 85.135559 89.348518 93.907204 95.692078 98.096039 101.81856 104.3592 106.73904 110.46156 114.17604 118.01916 119.82012 121.62108 125.4642 127.49832 131.08417 135.05592 139.02768 140.93317 146.931 148.73196 152.57507 154.24741 156.16092 160.01208 163.72656 167.44104 171.50928 175.3524 179.19553 181.59145 183.50496 187.5732 191.53693 195.2514 199.09451 200.89548 204.7386 208.70232 210.72839 212.52936 216.37248 218.4066 221.99245 225.9642 229.93596 233.763">advisor time with clients; KYC refresh in &lt;15 min; account opening in &lt;24h </tspan></text>
+</g>
+              </g>
+              <g id="g620">
+                <g clip-path="url(#clipPath624)" id="g622"><text id="text628" style="font-variant:normal;font-weight:bold;font-size:8.03999996px;font-family:'Roboto Condensed';-inkscape-font-specification:RobotoCondensed-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,34.056,157.18)"><tspan id="tspan630" y="0" x="0 4.3174801 8.2812004 12.24492 14.271 16.31316 20.268841 24.345119 26.25864 28.76712 32.722801 36.55788 39.06636">Tooling that </tspan></text>
+</g>
+              </g>
+              <g id="g632">
+                <g clip-path="url(#clipPath636)" id="g634"><text id="text640" style="font-variant:normal;font-weight:bold;font-size:8.03999996px;font-family:'Roboto Condensed';-inkscape-font-specification:RobotoCondensed-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,34.056,147.58)"><tspan id="tspan642" y="0" x="0 3.6984 6.3676801 10.21884 14.0298 16.53828 20.389441 23.975281 25.776239 29.47464 31.524839 33.550919 37.402081 41.357761 43.874279">creates client </tspan></text>
+</g>
+              </g>
+              <g id="g644">
+                <g clip-path="url(#clipPath648)" id="g646"><text id="text652" style="font-variant:normal;font-weight:bold;font-size:8.03999996px;font-family:'Roboto Condensed';-inkscape-font-specification:RobotoCondensed-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,34.056,137.98)"><tspan id="tspan654" y="0" x="0 2.5084801 4.5345602 10.54044">time</tspan></text>
+</g>
+              </g>
+              <g id="g656">
+                <g clip-path="url(#clipPath660)" id="g658"><text id="text664" style="font-variant:normal;font-weight:bold;font-size:8.03999996px;font-family:'Roboto Condensed';-inkscape-font-specification:RobotoCondensed-Bold;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,580.73,90.887)"><tspan id="tspan666" y="0" x="0 3.8399999">+5</tspan></text>
+</g>
+              </g>
+              <g id="g668">
+                <g clip-path="url(#clipPath672)" id="g670"><text id="text676" style="font-variant:normal;font-weight:bold;font-size:8.03999996px;font-family:'Roboto Condensed';-inkscape-font-specification:RobotoCondensed-Bold;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,588.65,90.887)"><tspan id="tspan678" y="0" x="0">-</tspan></text>
+</g>
+              </g>
+              <g id="g680">
+                <g clip-path="url(#clipPath684)" id="g682"><text id="text688" style="font-variant:normal;font-weight:bold;font-size:8.03999996px;font-family:'Roboto Condensed';-inkscape-font-specification:RobotoCondensed-Bold;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,591.55,90.887)"><tspan id="tspan690" y="0" x="0 4.0682402 8.1364803 9.7203598 13.70016 17.639759">10 bps</tspan></text>
+</g>
+              </g>
+              <g id="g692">
+                <g clip-path="url(#clipPath696)" id="g694"><text id="text700" style="font-variant:normal;font-weight:bold;font-size:8.06400013px;font-family:'Roboto Condensed';-inkscape-font-specification:RobotoCondensed-Bold;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,551.93,81.287)"><tspan id="tspan702" y="0" x="0 4.3223038 8.1527042 10.797696 14.63616 18.692352 22.65984 26.506369 29.143295 33.102718 36.965378 40.900608 42.698879 46.658302 50.625793 52.649857 55.157761 59.125248 62.955647 64.866814 68.697212 72.656639 76.277374 78.309502 81.897987 85.760643 89.695869">Safeguarded on the advised </tspan></text>
+</g>
+              </g>
+              <g id="g704">
+                <g clip-path="url(#clipPath708)" id="g706"><text id="text712" style="font-variant:normal;font-weight:bold;font-size:8.03999996px;font-family:'Roboto Condensed';-inkscape-font-specification:RobotoCondensed-Bold;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,588.89,71.663)"><tspan id="tspan714" y="0" x="0 3.9798 7.9194002 11.88312 15.73428">book </tspan></text>
+</g>
+              </g>
+              <g id="g716">
+                <g clip-path="url(#clipPath720)" id="g718"><text id="text724" style="font-variant:normal;font-weight:normal;font-size:8.06400013px;font-family:'Roboto Condensed';-inkscape-font-specification:RobotoCondensed-Regular;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,104.9,101.5)"><tspan id="tspan726" y="0" x="0 4.443264 6.8463359 8.6446075 12.370176 16.087681 17.998848 20.40192 24.119425 27.98208 29.756161 31.554432 35.038078 38.900738 41.279617 43.077888 47.150208 50.98867 53.141762 57.004417 60.681599 62.504063 66.366722 68.253693 71.850243 75.567741 78.930435 80.841599 86.841217 90.558723 92.937599 95.356796 97.155075 100.88064 102.78374 104.69492 106.49319 110.33165 114.29107 116.08934 119.56493 121.3632 125.32262 129.16109 133.02374 134.79782 137.07187 140.79744 144.86169 148.57114">Price realization as a key metric: individual cost</tspan></text>
+</g>
+              </g>
+              <g id="g728">
+                <g clip-path="url(#clipPath732)" id="g730"><text id="text736" style="font-variant:normal;font-weight:normal;font-size:8.06400013px;font-family:'Roboto Condensed';-inkscape-font-specification:RobotoCondensed-Regular;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,256.01,101.5)"><tspan id="tspan738" y="0" x="0">-</tspan></text>
+</g>
+              </g>
+              <g id="g740">
+                <g clip-path="url(#clipPath744)" id="g742"><text id="text748" style="font-variant:normal;font-weight:normal;font-size:8.06400013px;font-family:'Roboto Condensed';-inkscape-font-specification:RobotoCondensed-Regular;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,258.05,101.5)"><tspan id="tspan750" y="0" x="0 2.3999801">to</tspan></text>
+</g>
+              </g>
+              <g id="g752">
+                <g clip-path="url(#clipPath756)" id="g754"><text id="text760" style="font-variant:normal;font-weight:normal;font-size:8.06400013px;font-family:'Roboto Condensed';-inkscape-font-specification:RobotoCondensed-Regular;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,264.53,101.5)"><tspan id="tspan762" y="0" x="0">-</tspan></text>
+</g>
+              </g>
+              <g id="g764">
+                <g clip-path="url(#clipPath768)" id="g766"><text id="text772" style="font-variant:normal;font-weight:normal;font-size:8.06400013px;font-family:'Roboto Condensed';-inkscape-font-specification:RobotoCondensed-Regular;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,266.57,101.5)"><tspan id="tspan774" y="0" x="0 3.596544 7.3140478 9.7171202 13.079808 16.797312 18.353664 22.329216 26.151552 29.860992 31.659264 35.497726 39.215233 42.924671 46.634113 48.432384 52.157951 55.996414 59.705856 63.423359 67.132797 68.802048 70.479362 74.342018 78.277245 81.752831 83.551102 87.260544 91.332863 93.735939 95.53421 99.396866 103.09824 106.82381 110.88806 114.72652 118.56499 120.94387 124.80653 128.78207 130.56422 132.3625 134.16077 136.53964 139.90233 142.07155 144.58752 148.65984 151.06291 152.86119 156.72385 160.40103 164.13466 167.85216 170.23103 173.96468 175.54521 177.20641 181.06906 184.77043 187.14931 188.97177 192.44736 194.24564 196.62451 199.9872 201.56775 203.59987 207.46252 211.27679 215.23622 217.14738 221.12294 223.50989">serve business cases; advisor accountability for assets, activity, and pro</tspan></text>
+</g>
+              </g>
+              <g id="g776">
+                <g clip-path="url(#clipPath780)" id="g778"><text id="text784" style="font-variant:normal;font-weight:normal;font-size:8.06400013px;font-family:'Roboto Condensed';-inkscape-font-specification:RobotoCondensed-Regular;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,494.38,101.5)"><tspan id="tspan786" y="0" x="0 3.959424 7.7978878 11.523456 13.902336 15.829632 19.805183 23.853312 27.715967 29.506176 33.215614 34.884865">duct goals; </tspan></text>
+</g>
+              </g>
+              <g id="g788">
+                <g clip-path="url(#clipPath792)" id="g790"><text id="text796" style="font-variant:normal;font-weight:normal;font-size:8.03999996px;font-family:'Roboto Condensed';-inkscape-font-specification:RobotoCondensed-Regular;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,104.9,91.871)"><tspan id="tspan798" y="0" x="0 2.39592 4.79988 8.6510401 12.47808 16.19256 20.156281 24.007441 26.395321 30.11784 33.96096 36.35688 38.270401 42.234119 44.630039 46.431 50.394718 54.1092 55.781521 57.582481 61.5462 63.34716 67.061638 70.776123 74.852402 78.695518 82.538643 84.934563 86.848083 90.699242 94.662956 98.626678 101.00652 105.07476 108.54804 112.3992 114.18408 117.89856 119.69952 123.66324 127.01592 128.92944 132.89316 136.61568 140.57941 142.96729 146.81039 148.48273 150.39624 152.8002 156.52272 160.37389">transparent grids; discount approvals by depth; real</tspan></text>
+</g>
+              </g>
+              <g id="g800">
+                <g clip-path="url(#clipPath804)" id="g802"><text id="text808" style="font-variant:normal;font-weight:normal;font-size:8.03999996px;font-family:'Roboto Condensed';-inkscape-font-specification:RobotoCondensed-Regular;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,267.17,91.871)"><tspan id="tspan810" y="0" x="0">-</tspan></text>
+</g>
+              </g>
+              <g id="g812">
+                <g clip-path="url(#clipPath816)" id="g814"><text id="text820" style="font-variant:normal;font-weight:normal;font-size:8.03999996px;font-family:'Roboto Condensed';-inkscape-font-specification:RobotoCondensed-Regular;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,269.21,91.871)"><tspan id="tspan822" y="0" x="0 2.39592 4.1968799 10.19472 13.91724 15.95136 19.794479 23.6376 27.60132 31.565041 35.279518 38.993999 40.90752 44.380798 48.09528 49.775639 53.739361 57.453838 61.176361 63.580318 65.614441 71.612282 75.334801 79.298523 81.09948 84.950638 88.777679 92.492157 94.164482 96.078003 100.04172 103.89288 107.60736 111.20124 115.0524 119.01612 122.72256 126.68628 128.841 132.69215 136.6398 140.11308 141.91405 145.62852 149.35104 152.33388 156.29761 160.14876 163.99188 167.5938 169.39476 173.23788 177.2016 180.18443 184.0356 185.83656 188.23248 191.955 194.35896 198.20209 202.05324 204.42503 206.2662 209.70732 213.44592 217.1604 219.43571 221.83163 225.89989 227.70084 231.41531 235.25844 237.6624 241.62611 243.5316">time nudges vs peer medians; packaged advice/banking/alternatives to curb à</tspan></text>
+</g>
+              </g>
+              <g id="g824">
+                <g clip-path="url(#clipPath828)" id="g826"><text id="text832" style="font-variant:normal;font-weight:normal;font-size:8.03999996px;font-family:'Roboto Condensed';-inkscape-font-specification:RobotoCondensed-Regular;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,516.7,91.871)"><tspan id="tspan834" y="0" x="0">-</tspan></text>
+</g>
+              </g>
+              <g id="g836">
+                <g clip-path="url(#clipPath840)" id="g838"><text id="text844" style="font-variant:normal;font-weight:normal;font-size:8.03999996px;font-family:'Roboto Condensed';-inkscape-font-specification:RobotoCondensed-Regular;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,518.74,91.871)"><tspan id="tspan846" y="0" x="0 1.79996">la</tspan></text>
+</g>
+              </g>
+              <g id="g848">
+                <g clip-path="url(#clipPath852)" id="g850"><text id="text856" style="font-variant:normal;font-weight:normal;font-size:8.03999996px;font-family:'Roboto Condensed';-inkscape-font-specification:RobotoCondensed-Regular;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,524.38,91.871)"><tspan id="tspan858" y="0" x="0">-</tspan></text>
+</g>
+              </g>
+              <g id="g860">
+                <g clip-path="url(#clipPath864)" id="g862"><text id="text868" style="font-variant:normal;font-weight:normal;font-size:8.03999996px;font-family:'Roboto Condensed';-inkscape-font-specification:RobotoCondensed-Regular;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,104.9,82.271)"><tspan id="tspan870" y="0" x="0 3.7144799 7.56564 9.9615602 12.35748 16.08 17.993521 21.957239 23.7582 27.472679 31.18716 35.263439 39.10656 42.94968 45.3456 49.060081">carte discounts.</tspan></text>
+</g>
+              </g>
+              <g id="g872">
+                <g clip-path="url(#clipPath876)" id="g874"><text id="text880" style="font-variant:normal;font-weight:bold;font-size:8.06400013px;font-family:'Roboto Condensed';-inkscape-font-specification:RobotoCondensed-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,34.056,101.5)"><tspan id="tspan882" y="0" x="0 4.55616 7.1930881 9.2252159 12.934656 14.982912 18.950399 23.006592 24.579073 26.6112 28.643328 32.505985 36.336384 38.247551 42.077953 43.876225 47.835648 50.472576 54.431999 56.351231">Pricing like a pro, </tspan></text>
+</g>
+              </g>
+              <g id="g884">
+                <g clip-path="url(#clipPath888)" id="g886"><text id="text892" style="font-variant:normal;font-weight:bold;font-size:8.03999996px;font-family:'Roboto Condensed';-inkscape-font-specification:RobotoCondensed-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,34.056,91.871)"><tspan id="tspan894" y="0" x="0 3.9556799 7.9194002 10.42788 12.3414 16.176479 17.97744 21.957239 25.7682 29.370119 33.2052 37.040279">not a bazaar</tspan></text>
+</g>
+              </g>
+              <g id="g896">
+                <g clip-path="url(#clipPath900)" id="g898"><text id="text904" style="font-variant:normal;font-weight:bold;font-size:8.03999996px;font-family:'Roboto Condensed';-inkscape-font-specification:RobotoCondensed-Bold;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,583.15,35.183)"><tspan id="tspan906" y="0" x="0">-</tspan></text>
+</g>
+              </g>
+              <g id="g908">
+                <g clip-path="url(#clipPath912)" id="g910"><text id="text916" style="font-variant:normal;font-weight:bold;font-size:8.03999996px;font-family:'Roboto Condensed';-inkscape-font-specification:RobotoCondensed-Bold;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,586.03,35.183)"><tspan id="tspan918" y="0" x="0 4.08004">10</tspan></text>
+</g>
+              </g>
+              <g id="g920">
+                <g clip-path="url(#clipPath924)" id="g922"><text id="text928" style="font-variant:normal;font-weight:bold;font-size:8.03999996px;font-family:'Roboto Condensed';-inkscape-font-specification:RobotoCondensed-Bold;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,594.19,35.183)"><tspan id="tspan930" y="0" x="0">-</tspan></text>
+</g>
+              </g>
+              <g id="g932">
+                <g clip-path="url(#clipPath936)" id="g934"><text id="text940" style="font-variant:normal;font-weight:bold;font-size:8.03999996px;font-family:'Roboto Condensed';-inkscape-font-specification:RobotoCondensed-Bold;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,597.07,35.183)"><tspan id="tspan942" y="0" x="0 4.08004 8.16008">30%</tspan></text>
+</g>
+              </g>
+              <g id="g944">
+                <g clip-path="url(#clipPath948)" id="g946"><text id="text952" style="font-variant:normal;font-weight:bold;font-size:8.03999996px;font-family:'Roboto Condensed';-inkscape-font-specification:RobotoCondensed-Bold;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,558.17,25.583)"><tspan id="tspan954" y="0" x="0 3.6984 7.6701598 11.62584 14.271 18.226681 20.1402 22.777321 25.42248 29.3862 35.375999 37.056358 40.167839 42.19392">churn from “in</tspan></text>
+</g>
+              </g>
+              <g id="g956">
+                <g clip-path="url(#clipPath960)" id="g958"><text id="text964" style="font-variant:normal;font-weight:bold;font-size:8.03999996px;font-family:'Roboto Condensed';-inkscape-font-specification:RobotoCondensed-Bold;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,604.39,25.583)"><tspan id="tspan966" y="0" x="0">-</tspan></text>
+</g>
+              </g>
+              <g id="g968">
+                <g clip-path="url(#clipPath972)" id="g970"><text id="text976" style="font-variant:normal;font-weight:bold;font-size:8.03999996px;font-family:'Roboto Condensed';-inkscape-font-specification:RobotoCondensed-Bold;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,607.27,25.583)"><tspan id="tspan978" y="0" x="0 3.8350799 7.79076">and</tspan></text>
+</g>
+              </g>
+              <g id="g980">
+                <g clip-path="url(#clipPath984)" id="g982"><text id="text988" style="font-variant:normal;font-weight:bold;font-size:8.03999996px;font-family:'Roboto Condensed';-inkscape-font-specification:RobotoCondensed-Bold;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,619.03,25.583)"><tspan id="tspan990" y="0" x="0">-</tspan></text>
+</g>
+              </g>
+              <g id="g992">
+                <g clip-path="url(#clipPath996)" id="g994"><text id="text1000" style="font-variant:normal;font-weight:bold;font-size:8.03999996px;font-family:'Roboto Condensed';-inkscape-font-specification:RobotoCondensed-Bold;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,621.91,25.583)"><tspan id="tspan1002" y="0" x="0 3.9637201 7.9194002 10.43592 13.57956">out” </tspan></text>
+</g>
+              </g>
+              <g id="g1004">
+                <g clip-path="url(#clipPath1008)" id="g1006"><text id="text1012" style="font-variant:normal;font-weight:bold;font-size:8.03999996px;font-family:'Roboto Condensed';-inkscape-font-specification:RobotoCondensed-Bold;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,586.15,15.983)"><tspan id="tspan1014" y="0" x="0 5.9898 9.9535198 13.9092 17.760361">money</tspan></text>
+</g>
+              </g>
+              <g id="g1016">
+                <g clip-path="url(#clipPath1020)" id="g1018"><text id="text1024" style="font-variant:normal;font-weight:normal;font-size:8.03999996px;font-family:'Roboto Condensed';-inkscape-font-specification:RobotoCondensed-Regular;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,104.9,45.791)"><tspan id="tspan1026" y="0" x="0 4.4541602 6.8420401 10.91028 13.45092 15.22776 17.62368 21.47484 25.43856 27.22344 30.945959 32.521801 34.419239 38.48748 42.330601 46.181759 47.96664 49.767601 52.163521 55.516201 57.558361 62.47884 67.399323 73.50972 75.423241 77.336761 81.895439 84.2994 88.021919 91.985641 93.786598 96.182518 98.096039 99.897003 103.74012 106.28076 108.0576 112.12584 117.40008 121.11456 122.91552 126.75864 130.48116 132.87708 134.7906 138.85884 141.39948 143.17632">Profitable, quality NNM: Credit inflows net of 6</tspan></text>
+</g>
+              </g>
+              <g id="g1028">
+                <g clip-path="url(#clipPath1032)" id="g1030"><text id="text1036" style="font-variant:normal;font-weight:normal;font-size:8.03999996px;font-family:'Roboto Condensed';-inkscape-font-specification:RobotoCondensed-Regular;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,252.17,45.791)"><tspan id="tspan1038" y="0" x="0">–</tspan></text>
+</g>
+              </g>
+              <g id="g1040">
+                <g clip-path="url(#clipPath1044)" id="g1042"><text id="text1048" style="font-variant:normal;font-weight:normal;font-size:8.03999996px;font-family:'Roboto Condensed';-inkscape-font-specification:RobotoCondensed-Regular;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,256.73,45.791)"><tspan id="tspan1050" y="0" x="0 3.95996">12</tspan></text>
+</g>
+              </g>
+              <g id="g1052">
+                <g clip-path="url(#clipPath1056)" id="g1054"><text id="text1060" style="font-variant:normal;font-weight:normal;font-size:8.03999996px;font-family:'Roboto Condensed';-inkscape-font-specification:RobotoCondensed-Regular;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,264.65,45.791)"><tspan id="tspan1062" y="0" x="0">-</tspan></text>
+</g>
+              </g>
+              <g id="g1064">
+                <g clip-path="url(#clipPath1068)" id="g1066"><text id="text1072" style="font-variant:normal;font-weight:normal;font-size:8.03999996px;font-family:'Roboto Condensed';-inkscape-font-specification:RobotoCondensed-Regular;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,266.69,45.791)"><tspan id="tspan1074" y="0" x="0 5.9978399 10.06608 13.9092 16.30512 20.148239 22.06176 26.129999 29.97312 32.369041 34.909679 36.68652 40.754761 46.028999 49.743481 51.319321 53.104198 57.067921 60.919079 62.70396 66.555122 70.382156 74.096642 77.81916 81.782883 83.937599 87.788757 91.48716 95.201637 98.924156 101.32008 103.00044 108.99828 110.79924 114.28056 116.31468 118.83924 124.83708 128.68823 132.51527 136.479 140.33015 142.70197 146.44057 150.15504 151.73088 153.62833 155.42928 159.15179 162.99492 166.95863 168.7596 172.60272 176.56644 178.83372 182.67683 185.07275 186.87372 188.67468 190.47565 193.95695 197.80812 200.17992 202.02107 206.05716 209.91637 211.4922 213.63084 217.48199 219.26688 221.6628 225.38531 227.78928 231.6324 235.48357 237.85536">month outflows, balanced asset mix (mandates, lending utilization, alternati</tspan></text>
+</g>
+              </g>
+              <g id="g1076">
+                <g clip-path="url(#clipPath1080)" id="g1078"><text id="text1084" style="font-variant:normal;font-weight:normal;font-size:8.03999996px;font-family:'Roboto Condensed';-inkscape-font-specification:RobotoCondensed-Regular;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,506.5,45.791)"><tspan id="tspan1086" y="0" x="0 3.47328 7.1957998 10.91028">ves </tspan></text>
+</g>
+              </g>
+              <g id="g1088">
+                <g clip-path="url(#clipPath1092)" id="g1090"><text id="text1096" style="font-variant:normal;font-weight:normal;font-size:8.03999996px;font-family:'Roboto Condensed';-inkscape-font-specification:RobotoCondensed-Regular;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,104.9,36.191)"><tspan id="tspan1098" y="0" x="0 3.9637201 7.6781998 11.52132 15.24384 17.639759 20.04372 23.89488 26.26668 28.10784 32.143921 36.00312 37.57896 39.597 43.560719 45.956638 47.757599 51.47208 53.281078 57.124199 61.087921 63.2346 67.198318 68.999283 72.71376 76.428238 78.237244 82.200958 83.993881 85.794838 89.637962 93.360481 95.876999 98.031723 100.18644 104.00544 107.76816 111.58716 115.55088 119.2734 121.67736 125.39184 127.1928 129.59676 133.31927 137.03375 141.11005 145.07376 148.90884 150.70979 154.19112 157.91364 159.94775 162.34367 166.06619 169.91736 175.90717 177.82068 183.09492 184.89587 188.739 192.45348 194.367 196.89156 200.74272 204.69035 208.16364 209.9646 213.67908 217.74731 220.15128 223.86575 225.42552 229.38924 231.30276 233.10371 236.94684 240.42012 244.14264 247.85712 250.25304 256.25089 259.97339 263.81653 266.21243 269.19528 272.90976 275.35391 279.05231 283.01605 284.81699 287.21292 289.12643 292.84091 296.80463 300.51913 304.23361 306.0426 309.89377 311.67865 313.47961 317.19409 319.59 323.30447 325.82101 327.73453 331.58569 335.41272 339.37643 341.41055 345.25369 348.96817 352.69067 354.49164 360.48947 364.33261 366.13354 368.52948">penetration, pricing discipline). Leaders recognize team wins (advisors + investment/credit specialists) and use multi</tspan></text>
+</g>
+              </g>
+              <g id="g1100">
+                <g clip-path="url(#clipPath1104)" id="g1102"><text id="text1108" style="font-variant:normal;font-weight:normal;font-size:8.03999996px;font-family:'Roboto Condensed';-inkscape-font-specification:RobotoCondensed-Regular;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,475.42,36.191)"><tspan id="tspan1110" y="0" x="0">-</tspan></text>
+</g>
+              </g>
+              <g id="g1112">
+                <g clip-path="url(#clipPath1116)" id="g1114"><text id="text1120" style="font-variant:normal;font-weight:normal;font-size:8.03999996px;font-family:'Roboto Condensed';-inkscape-font-specification:RobotoCondensed-Regular;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,477.46,36.191)"><tspan id="tspan1122" y="0" x="0 3.35268 7.08324 10.9344 13.32228 15.3564 19.070881 21.47484 25.197359">year cred</tspan></text>
+</g>
+              </g>
+              <g id="g1124">
+                <g clip-path="url(#clipPath1128)" id="g1126"><text id="text1132" style="font-variant:normal;font-weight:normal;font-size:8.03999996px;font-family:'Roboto Condensed';-inkscape-font-specification:RobotoCondensed-Regular;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,506.62,36.191)"><tspan id="tspan1134" y="0" x="0 1.8009599 4.1968799 5.9978399 9.8409595 13.80468 15.95136 18.347281 22.41552">iting to </tspan></text>
+</g>
+              </g>
+              <g id="g1136">
+                <g clip-path="url(#clipPath1140)" id="g1138"><text id="text1144" style="font-variant:normal;font-weight:normal;font-size:8.03999996px;font-family:'Roboto Condensed';-inkscape-font-specification:RobotoCondensed-Regular;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,104.9,26.591)"><tspan id="tspan1146" y="0" x="0 3.9637201 7.6862402 10.08216 13.80468 16.208639 18.12216 20.759279 22.56024">deter “in</tspan></text>
+</g>
+              </g>
+              <g id="g1148">
+                <g clip-path="url(#clipPath1152)" id="g1150"><text id="text1156" style="font-variant:normal;font-weight:normal;font-size:8.03999996px;font-family:'Roboto Condensed';-inkscape-font-specification:RobotoCondensed-Regular;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,131.3,26.591)"><tspan id="tspan1158" y="0" x="0">-</tspan></text>
+</g>
+              </g>
+              <g id="g1160">
+                <g clip-path="url(#clipPath1164)" id="g1162"><text id="text1168" style="font-variant:normal;font-weight:normal;font-size:8.03999996px;font-family:'Roboto Condensed';-inkscape-font-specification:RobotoCondensed-Regular;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,133.34,26.591)"><tspan id="tspan1170" y="0" x="0 3.85116 7.6781998">and</tspan></text>
+</g>
+              </g>
+              <g id="g1172">
+                <g clip-path="url(#clipPath1176)" id="g1174"><text id="text1180" style="font-variant:normal;font-weight:normal;font-size:8.03999996px;font-family:'Roboto Condensed';-inkscape-font-specification:RobotoCondensed-Regular;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,144.98,26.591)"><tspan id="tspan1182" y="0" x="0">-</tspan></text>
+</g>
+              </g>
+              <g id="g1184">
+                <g clip-path="url(#clipPath1188)" id="g1186"><text id="text1192" style="font-variant:normal;font-weight:normal;font-size:8.03999996px;font-family:'Roboto Condensed';-inkscape-font-specification:RobotoCondensed-Regular;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,147.02,26.591)"><tspan id="tspan1194" y="0" x="0 4.0682402 7.9113598 10.30728 13.05696 14.97048 20.968321 25.03656 28.879681 32.6022 35.95488 37.876438 41.7276 45.554642 49.51836 51.431881 55.395599 57.19656 60.911041 62.712002 66.555122 70.2696 73.992119 77.835243 80.231163 82.03212 85.505402 87.306358 90.787682 94.510201 96.664917 100.50804 102.309 106.27272 110.1078 113.83032">out” money and disincentivize higher</tspan></text>
+</g>
+              </g>
+              <g id="g1196">
+                <g clip-path="url(#clipPath1200)" id="g1198"><text id="text1204" style="font-variant:normal;font-weight:normal;font-size:8.03999996px;font-family:'Roboto Condensed';-inkscape-font-specification:RobotoCondensed-Regular;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,263.33,26.591)"><tspan id="tspan1206" y="0" x="0">-</tspan></text>
+</g>
+              </g>
+              <g id="g1208">
+                <g clip-path="url(#clipPath1212)" id="g1210"><text id="text1216" style="font-variant:normal;font-weight:normal;font-size:8.03999996px;font-family:'Roboto Condensed';-inkscape-font-specification:RobotoCondensed-Regular;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,265.37,26.591)"><tspan id="tspan1218" y="0" x="0 2.40396 4.2049198 7.9194002 11.52132 13.55544 19.55328 23.40444 27.23148 31.1952 35.04636 37.418159 41.156761 44.871239 46.78476 50.258041 52.058998 55.91016 57.807598 62.47884 68.589241 72.408241 75.423241 79.853279 84.066238 88.624924">risk mandates via AML/KYC.</tspan></text>
+</g>
+              </g>
+              <g id="g1220">
+                <g clip-path="url(#clipPath1224)" id="g1222"><text id="text1228" style="font-variant:normal;font-weight:bold;font-size:8.03999996px;font-family:'Roboto Condensed';-inkscape-font-specification:RobotoCondensed-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,34.056,45.791)"><tspan id="tspan1230" y="0" x="0 2.1788399 6.1345201 9.8329201 13.68408 17.639759 20.148239 22.17432 25.784281 29.635441 33.229321 35.142841 37.651321 41.606998 45.442081 47.950562">Incentives that </tspan></text>
+</g>
+              </g>
+              <g id="g1232">
+                <g clip-path="url(#clipPath1236)" id="g1234"><text id="text1240" style="font-variant:normal;font-weight:bold;font-size:8.03999996px;font-family:'Roboto Condensed';-inkscape-font-specification:RobotoCondensed-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,34.056,36.191)"><tspan id="tspan1242" y="0" x="0 3.8350799 6.3435602 8.8520403 11.48916 15.32424 19.02264 21.555241 23.115 26.716921 29.225401 31.25148 34.973999 38.825161 42.410999">attract sticky </tspan></text>
+</g>
+              </g>
+              <g id="g1244">
+                <g clip-path="url(#clipPath1248)" id="g1246"><text id="text1252" style="font-variant:normal;font-weight:bold;font-size:8.03999996px;font-family:'Roboto Condensed';-inkscape-font-specification:RobotoCondensed-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,34.056,26.591)"><tspan id="tspan1254" y="0" x="0 3.8350799 7.4369998 11.03892 14.89008 17.39052">assets</tspan></text>
+</g>
+              </g>
+              <path id="path1256" style="fill:#005aa4;fill-opacity:1;fill-rule:evenodd;stroke:none" d="m 0.685,140.94 c 0,5.9 4.8085,10.68 10.74,10.68 5.932,0 10.74,-4.78 10.74,-10.68 0,-5.9 -4.808,-10.68 -10.74,-10.68 -5.9315,0 -10.74,4.78 -10.74,10.68 z"/>
+              <path id="path1258" style="fill:none;stroke:#f2f2f2;stroke-width:0.75;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:8;stroke-dasharray:none;stroke-opacity:1" d="m 0.685,140.94 c 0,5.9 4.8085,10.68 10.74,10.68 5.932,0 10.74,-4.78 10.74,-10.68 0,-5.9 -4.808,-10.68 -10.74,-10.68 -5.9315,0 -10.74,4.78 -10.74,10.68 z"/>
+              <g id="g1260">
+                <g clip-path="url(#clipPath1264)" id="g1262"><text id="text1268" style="font-variant:normal;font-weight:bold;font-size:8.03999996px;font-family:'Roboto Condensed';-inkscape-font-specification:RobotoCondensed-Bold;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,9.144,138.17)"><tspan id="tspan1270" y="0" x="0">B</tspan></text>
+</g>
+              </g>
+              <path id="path1272" style="fill:#005aa4;fill-opacity:1;fill-rule:evenodd;stroke:none" d="m 0.685,84.418 c 0,5.898 4.8085,10.68 10.74,10.68 5.932,0 10.74,-4.782 10.74,-10.68 0,-5.898 -4.808,-10.68 -10.74,-10.68 -5.9315,0 -10.74,4.782 -10.74,10.68 z"/>
+              <path id="path1274" style="fill:none;stroke:#f2f2f2;stroke-width:0.75;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:8;stroke-dasharray:none;stroke-opacity:1" d="m 0.685,84.418 c 0,5.898 4.8085,10.68 10.74,10.68 5.932,0 10.74,-4.782 10.74,-10.68 0,-5.898 -4.808,-10.68 -10.74,-10.68 -5.9315,0 -10.74,4.782 -10.74,10.68 z"/>
+              <g id="g1276">
+                <g clip-path="url(#clipPath1280)" id="g1278"><text id="text1284" style="font-variant:normal;font-weight:bold;font-size:8.03999996px;font-family:'Roboto Condensed';-inkscape-font-specification:RobotoCondensed-Bold;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,9.096,81.575)"><tspan id="tspan1286" y="0" x="0">C</tspan></text>
+</g>
+              </g>
+              <path id="path1288" style="fill:#005aa4;fill-opacity:1;fill-rule:evenodd;stroke:none" d="m 0.685,28.978 c 0,5.898 4.8085,10.68 10.74,10.68 5.932,0 10.74,-4.782 10.74,-10.68 0,-5.898 -4.808,-10.68 -10.74,-10.68 -5.9315,0 -10.74,4.782 -10.74,10.68 z"/>
+              <path id="path1290" style="fill:none;stroke:#f2f2f2;stroke-width:0.75;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:8;stroke-dasharray:none;stroke-opacity:1" d="m 0.685,28.978 c 0,5.898 4.8085,10.68 10.74,10.68 5.932,0 10.74,-4.782 10.74,-10.68 0,-5.898 -4.808,-10.68 -10.74,-10.68 -5.9315,0 -10.74,4.782 -10.74,10.68 z"/>
+              <g id="g1292">
+                <g clip-path="url(#clipPath1296)" id="g1294"><text id="text1300" style="font-variant:normal;font-weight:bold;font-size:8.03999996px;font-family:'Roboto Condensed';-inkscape-font-specification:RobotoCondensed-Bold;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,9.144,26.183)"><tspan id="tspan1302" y="0" x="0">D</tspan></text>
+</g>
+              </g>
+              <path id="path1304" style="fill:#005aa4;fill-opacity:1;fill-rule:evenodd;stroke:none" d="m 0.685,197.82 c 0,5.9 4.8085,10.68 10.74,10.68 5.932,0 10.74,-4.78 10.74,-10.68 0,-5.9 -4.808,-10.68 -10.74,-10.68 -5.9315,0 -10.74,4.78 -10.74,10.68 z"/>
+              <path id="path1306" style="fill:none;stroke:#f2f2f2;stroke-width:0.75;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:8;stroke-dasharray:none;stroke-opacity:1" d="m 0.685,197.82 c 0,5.9 4.8085,10.68 10.74,10.68 5.932,0 10.74,-4.78 10.74,-10.68 0,-5.9 -4.808,-10.68 -10.74,-10.68 -5.9315,0 -10.74,4.78 -10.74,10.68 z"/>
+              <g id="g1308">
+                <g clip-path="url(#clipPath1312)" id="g1310"><text id="text1316" style="font-variant:normal;font-weight:bold;font-size:8.06400013px;font-family:'Roboto Condensed';-inkscape-font-specification:RobotoCondensed-Bold;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,9.024,195.02)"><tspan id="tspan1318" y="0" x="0">A</tspan></text>
+</g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
