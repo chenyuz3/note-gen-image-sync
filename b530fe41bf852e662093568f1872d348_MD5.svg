@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" viewBox="1.8 1.2 200.575 236.5875" height="236.5875" width="200.575" xml:space="preserve" version="1.1" id="svg2">
+  <metadata id="metadata8">
+    <rdf:RDF>
+      <cc:Work rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs id="defs6">
+    <clipPath id="clipPath16" clipPathUnits="userSpaceOnUse">
+      <path style="clip-rule:evenodd" id="path18" d="m 1.92,421.39 160.34,0 0,189.65 -160.34,0 0,-189.65 z"/>
+    </clipPath>
+    <clipPath id="clipPath124" clipPathUnits="userSpaceOnUse">
+      <path style="clip-rule:evenodd" id="path126" d="m 1.92,593.28 159.86,0 0,17.76 -159.86,0 0,-17.76 z"/>
+    </clipPath>
+    <clipPath id="clipPath136" clipPathUnits="userSpaceOnUse">
+      <path style="clip-rule:evenodd" id="path138" d="m 0,419.35 164.3,0 0,193.61 -164.3,0 0,-193.61 z"/>
+    </clipPath>
+  </defs>
+  <g transform="matrix(1.25,0,0,-1.25,0,765)" id="g10">
+    <g id="g12">
+      <g clip-path="url(#clipPath16)" id="g14"><path id="path20" style="fill:#005aa4;fill-opacity:1;fill-rule:evenodd;stroke:none" d="m 1.44,593.16 160.46,0 0,18.36 -160.46,0 0,-18.36 z"/><path id="path22" style="fill:#e9eaeb;fill-opacity:1;fill-rule:evenodd;stroke:none" d="m 1.44,578.88 160.46,0 0,14.4 -160.46,0 0,-14.4 z"/><text id="text24" style="font-variant:normal;font-weight:bold;font-size:8.52000046px;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,5.16,583.68)"><tspan id="tspan26" y="0" x="0 5.40168 9.9598799 14.7396">Rank</tspan></text>
+<text id="text28" style="font-variant:normal;font-weight:bold;font-size:8.52000046px;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,82.68,583.68)"><tspan id="tspan30" y="0" x="0 4.6799998 9.2407198 13.68216 16.56444 21.37224">Factor</tspan></text>
+<text id="text32" style="font-variant:normal;font-weight:300;font-size:8.52000046px;font-family:Roboto;-inkscape-font-specification:'Roboto Light';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,20.88,568.44)"><tspan id="tspan34" y="0" x="0">1</tspan></text>
+<text id="text36" style="font-variant:normal;font-weight:300;font-size:8.52000046px;font-family:Roboto;-inkscape-font-specification:'Roboto Light';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,28.92,568.44)"><tspan id="tspan38" y="0" x="0 5.0523601 9.4572001 13.91316 18.590639 21.46188 25.900801 27.93708 32.614559 37.394279 43.88652 48.316921 51.18816 53.23296 57.663361 62.443081 67.129082 71.815079 76.253998 80.684402 83.427841 85.344841 90.158638">Secure power connection</tspan></text>
+<text id="text40" style="font-variant:normal;font-weight:300;font-size:8.52000046px;font-family:Roboto;-inkscape-font-specification:'Roboto Light';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,20.88,554.16)"><tspan id="tspan42" y="0" x="0">2</tspan></text>
+<text id="text44" style="font-variant:normal;font-weight:300;font-size:8.52000046px;font-family:Roboto;-inkscape-font-specification:'Roboto Light';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,28.92,554.16)"><tspan id="tspan46" y="0" x="0 5.27388 10.0536 16.545839 20.97624 23.847481 25.892281 30.32268 35.102402 39.422039">Power cost</tspan></text>
+<text id="text48" style="font-variant:normal;font-weight:300;font-size:8.52000046px;font-family:Roboto;-inkscape-font-specification:'Roboto Light';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,20.88,539.86)"><tspan id="tspan50" y="0" x="0">3</tspan></text>
+<text id="text52" style="font-variant:normal;font-weight:300;font-size:8.52000046px;font-family:Roboto;-inkscape-font-specification:'Roboto Light';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,28.92,539.86)"><tspan id="tspan54" y="0" x="0 5.2824001 9.7128 14.1432 18.573601 22.89324 27.212879 29.257681 32.001122 36.8064 38.842682 41.713921 46.15284 50.83884 55.260719 61.73592 66.302643 70.980118 72.897118 77.327522">Access to renewables</tspan></text>
+<text id="text56" style="font-variant:normal;font-weight:300;font-size:8.52000046px;font-family:Roboto;-inkscape-font-specification:'Roboto Light';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,20.88,525.58)"><tspan id="tspan58" y="0" x="0">4</tspan></text>
+<text id="text60" style="font-variant:normal;font-weight:300;font-size:8.52000046px;font-family:Roboto;-inkscape-font-specification:'Roboto Light';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,28.92,525.58)"><tspan id="tspan62" y="0" x="0 7.6680002 12.44772 15.336 19.510799 22.4076 27.187321 30.0756 34.506001 38.936401 40.972679 45.539398 49.63752 54.170158 56.087158 58.004162 62.570881 67.24836 69.165359 71.082359 72.999359 75.759842">Workforce availability</tspan></text>
+<text id="text64" style="font-variant:normal;font-weight:300;font-size:8.52000046px;font-family:Roboto;-inkscape-font-specification:'Roboto Light';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,20.88,511.3)"><tspan id="tspan66" y="0" x="0">5</tspan></text>
+<text id="text68" style="font-variant:normal;font-weight:300;font-size:8.52000046px;font-family:Roboto;-inkscape-font-specification:'Roboto Light';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,28.92,511.3)"><tspan id="tspan70" y="0" x="0 5.52948 10.0962 14.75664 19.18704 23.37888 25.415159 29.84556 34.625278 38.94492">Capex cost</tspan></text>
+<text id="text72" style="font-variant:normal;font-weight:300;font-size:8.52000046px;font-family:Roboto;-inkscape-font-specification:'Roboto Light';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,20.88,497.02)"><tspan id="tspan74" y="0" x="0">6</tspan></text>
+<text id="text76" style="font-variant:normal;font-weight:300;font-size:8.52000046px;font-family:Roboto;-inkscape-font-specification:'Roboto Light';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,28.92,497.02)"><tspan id="tspan78" y="0" x="0 5.9980798 10.42848 13.17192 19.66416 24.44388 27.332161 31.50696 33.585838 38.254799 41.126041 45.922798 50.114639 52.031639 59.588879 61.505878 64.249321">Network proximity</tspan></text>
+<text id="text80" style="font-variant:normal;font-weight:300;font-size:8.52000046px;font-family:Roboto;-inkscape-font-specification:'Roboto Light';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,20.88,482.74)"><tspan id="tspan82" y="0" x="0">7</tspan></text>
+<text id="text84" style="font-variant:normal;font-weight:300;font-size:8.52000046px;font-family:Roboto;-inkscape-font-specification:'Roboto Light';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,28.92,482.74)"><tspan id="tspan86" y="0" x="0 5.0438399 9.6105604 13.79388 15.83016 20.507641 23.37888 27.817801 32.384521 36.559319">Tax breaks</tspan></text>
+<text id="text88" style="font-variant:normal;font-weight:300;font-size:8.52000046px;font-family:Roboto;-inkscape-font-specification:'Roboto Light';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,20.88,468.46)"><tspan id="tspan90" y="0" x="0">8</tspan></text>
+<text id="text92" style="font-variant:normal;font-weight:300;font-size:8.52000046px;font-family:Roboto;-inkscape-font-specification:'Roboto Light';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,28.92,468.46)"><tspan id="tspan94" y="0" x="0 5.4102001 9.8150396 14.54364 19.221121 21.138121 25.70484 28.44828 30.36528 35.145">Regulation</tspan></text>
+<text id="text96" style="font-variant:normal;font-weight:300;font-size:8.52000046px;font-family:Roboto;-inkscape-font-specification:'Roboto Light';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,20.88,454.18)"><tspan id="tspan98" y="0" x="0">9</tspan></text>
+<text id="text100" style="font-variant:normal;font-weight:300;font-size:8.52000046px;font-family:Roboto;-inkscape-font-specification:'Roboto Light';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,28.92,454.18)"><tspan id="tspan102" y="0" x="0 5.27388 10.0536 14.75664 19.43412 21.35112 25.917839 28.66128 30.578279 35.392078 40.078079 42.114361 46.544762 50.975159 55.66116 58.404598 62.843521">Population center</tspan></text>
+<text id="text104" style="font-variant:normal;font-weight:300;font-size:8.52000046px;font-family:Roboto;-inkscape-font-specification:'Roboto Light';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,16.2,439.9)"><tspan id="tspan106" y="0" x="0 4.6799998">10</tspan></text>
+<text id="text108" style="font-variant:normal;font-weight:300;font-size:8.52000046px;font-family:Roboto;-inkscape-font-specification:'Roboto Light';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,28.92,439.9)"><tspan id="tspan110" y="0" x="0 5.52948 10.3092 17.86644 25.423679 30.10116 34.787159 36.704159 39.47316 43.528679 45.607559 50.174278 54.570599 59.026562 63.456959 68.134438 70.877876 75.444603 80.1306 84.569519">Community acceptance</tspan></text>
+<text id="text112" style="font-variant:normal;font-weight:300;font-size:8.52000046px;font-family:Roboto;-inkscape-font-specification:'Roboto Light';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,16.2,425.62)"><tspan id="tspan114" y="0" x="0 4.6799998">11</tspan></text>
+<text id="text116" style="font-variant:normal;font-weight:300;font-size:8.52000046px;font-family:Roboto;-inkscape-font-specification:'Roboto Light';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,28.92,425.62)"><tspan id="tspan118" y="0" x="0 7.6680002 12.23472 14.97816 19.41708 22.288321 24.33312 28.899839 32.997959 37.530602 39.447601 41.364601 45.93132 50.608799 52.525799 54.442799 56.359798 59.120281">Water availability</tspan></text>
+</g>
+    </g>
+    <g id="g120">
+      <g clip-path="url(#clipPath124)" id="g122"><text id="text128" style="font-variant:normal;font-weight:bold;font-size:8.52000046px;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';writing-mode:lr-tb;fill:#f2f2f2;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,40.08,600)"><tspan id="tspan130" y="0" x="0 5.27388 7.5316801 10.41144 15.01224 17.13372 22.424641 26.98284 29.240641 33.841438 38.280361 41.160118 43.417919 48.223202 53.002918 55.175522 59.853001 64.411201 68.850121 71.729881 76.535156 79.653481">Site Selection Factors</tspan></text>
+</g>
+    </g>
+    <g id="g132">
+      <g clip-path="url(#clipPath136)" id="g134">
+        <path id="path140" style="fill:none;stroke:#a6a6a6;stroke-width:0.14;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" d="m 26.82,577.98 0,-156.14"/>
+        <path id="path142" style="fill:#a6a6a6;fill-opacity:1;fill-rule:evenodd;stroke:none" d="m 26.76,421.78 0.96,0 0,156.26 -0.96,0 0,-156.26 z"/>
+        <path id="path144" style="fill:#f2f2f2;fill-opacity:1;fill-rule:evenodd;stroke:none" d="m 1.44,592.32 160.46,0 0,1.92 -160.46,0 0,-1.92 z"/>
+        <path id="path146" style="fill:#f2f2f2;fill-opacity:1;fill-rule:evenodd;stroke:none" d="m 1.44,578.04 160.46,0 0,1.92 -160.46,0 0,-1.92 z"/>
+      </g>
+    </g>
+  </g>
+</svg>
