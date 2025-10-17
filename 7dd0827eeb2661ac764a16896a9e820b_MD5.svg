@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" viewBox="2.4 1.2 461.0125 111.6375" height="111.6375" width="461.0125" xml:space="preserve" version="1.1" id="svg2">
+  <metadata id="metadata8">
+    <rdf:RDF>
+      <cc:Work rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs id="defs6">
+    <clipPath id="clipPath16" clipPathUnits="userSpaceOnUse">
+      <path style="clip-rule:evenodd" id="path18" d="m 1.92,474.58 369.17,0 0,136.46 -369.17,0 0,-136.46 z"/>
+    </clipPath>
+    <clipPath id="clipPath68" clipPathUnits="userSpaceOnUse">
+      <path style="clip-rule:evenodd" id="path70" d="m 1.92,593.28 368.69,0 0,17.76 -368.69,0 0,-17.76 z"/>
+    </clipPath>
+    <clipPath id="clipPath80" clipPathUnits="userSpaceOnUse">
+      <path style="clip-rule:evenodd" id="path82" d="m 0,472.54 373.13,0 0,140.42 -373.13,0 0,-140.42 z"/>
+    </clipPath>
+  </defs>
+  <g transform="matrix(1.25,0,0,-1.25,0,765)" id="g10">
+    <g id="g12">
+      <g clip-path="url(#clipPath16)" id="g14"><path id="path20" style="fill:#005aa4;fill-opacity:1;fill-rule:evenodd;stroke:none" d="m 1.44,593.16 369.29,0 0,18.36 -369.29,0 0,-18.36 z"/><path id="path22" style="fill:#e9eaeb;fill-opacity:1;fill-rule:evenodd;stroke:none" d="m 1.44,578.88 369.29,0 0,14.4 -369.29,0 0,-14.4 z"/><text id="text24" style="font-variant:normal;font-weight:bold;font-size:8.52000046px;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,73.56,583.2)"><tspan id="tspan26" y="0" x="0 5.5209599 10.32624 12.58404 17.38932 21.828239 26.38644 29.266199 31.549561 36.354839">Colocation</tspan></text>
+<text id="text28" style="font-variant:normal;font-weight:bold;font-size:8.52000046px;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,240.62,583.2)"><tspan id="tspan30" y="0" x="0 5.8702798 10.67556 14.03244 18.829201 21.947519 26.51424 33.94368 37.062 41.858761 46.638481 49.518242 54.119041 57.237358 62.034119 65.152443 67.41024 71.738403">On-prem/Enterprise</tspan></text>
+<text id="text32" style="font-variant:normal;font-weight:300;font-size:8.52000046px;font-family:Roboto;-inkscape-font-specification:'Roboto Light';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,3.12,568.44)"><tspan id="tspan34" y="0" x="0 5.0438399 9.7213202 11.63832 14.50956 19.204081 21.24036 25.917839 30.48456 33.355801 36.099239 40.188839 42.225121 46.902599 51.580078 53.497082 55.414082 58.15752 60.236401 64.803123 69.463562 74.141037 76.177322 80.957039 87.44928 92.135277 96.557159">Third party built and owned</tspan></text>
+<text id="text36" style="font-variant:normal;font-weight:300;font-size:8.52000046px;font-family:Roboto;-inkscape-font-specification:'Roboto Light';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,187.7,568.44)"><tspan id="tspan38" y="0" x="0 4.7967601 9.4827604 12.2262 16.665119 19.53636 24.222361 27.093599 29.010599 33.330238 37.777679 40.180321 42.216599 46.996319 49.884602 51.920879 56.598358 60.670921 65.348396 69.778801 72.65004 76.969681 81.4086 85.975319 87.892319 92.322723 95.193962 97.605118 102.2826 106.96008 108.87708 110.79408">Enterprise- or hyperscaler-built</tspan></text>
+<text id="text40" style="font-variant:normal;font-weight:300;font-size:8.52000046px;font-family:Roboto;-inkscape-font-specification:'Roboto Light';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,3.12,554.16)"><tspan id="tspan42" y="0" x="0 5.4102001 9.8150396 14.50104 17.270041 21.700439 26.37792 28.4142 33.091679 37.147202 39.226082 43.895039 48.674759 55.167 59.597401 62.468639 64.513443 67.265404 71.942879 73.979156 77.361603 79.380836 83.555641 91.249199 93.285477 96.667923 98.687157 106.2444 111.02412 115.71012 118.47912 123.1566">Rented by power ($ / kW / month)</tspan></text>
+<text id="text44" style="font-variant:normal;font-weight:300;font-size:8.52000046px;font-family:Roboto;-inkscape-font-specification:'Roboto Light';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,187.7,554.16)"><tspan id="tspan46" y="0" x="0 5.52948 10.20696 14.5266 17.270041 22.075319 29.632561 32.035198 36.712681 41.39016 43.307159 45.224159 47.967602 50.046478 52.900681 57.680401 60.56868 62.604961 67.28244 71.602081 76.032478 78.903717 80.352119 84.671761 86.71656 91.402557 95.82444 100.25484 104.93232">Custom-built for user's needs</tspan></text>
+<text id="text48" style="font-variant:normal;font-weight:300;font-size:8.52000046px;font-family:Roboto;-inkscape-font-specification:'Roboto Light';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,3.12,539.86)"><tspan id="tspan50" y="0" x="0 5.6317201 7.5487199 11.64684 16.05168 18.93996 23.2596 27.690001 29.72628 34.412281 38.83416 43.264561 47.942039 52.261681 54.297958 57.169201 60.04044 64.837196 72.39444 74.43924 79.116722 81.033722 85.131844 89.536682 92.424957 96.744598 101.175 103.21128 105.95472 110.40216 115.08816 119.65488 124.34088 127.08432">Diverse needs from diverse tenants</tspan></text>
+<text id="text52" style="font-variant:normal;font-weight:300;font-size:8.52000046px;font-family:Roboto;-inkscape-font-specification:'Roboto Light';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,187.7,539.86)"><tspan id="tspan54" y="0" x="0 5.6317201 9.9513597 14.62884 19.19556 21.11256 23.02956 27.102119 29.138399 31.055401 35.62212 38.493359 43.179359 47.60976 50.480999 52.525799 55.269241 59.94672 64.513443 69.19944 71.24424 75.674637 80.454361 82.371361 87.185158 91.615562 96.182281 98.92572 100.84272 105.648 110.334 112.37028 118.002 123.53148">Usually larger than colocation DCs</tspan></text>
+<text id="text56" style="font-variant:normal;font-weight:300;font-size:8.52000046px;font-family:Roboto;-inkscape-font-specification:'Roboto Light';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,3.12,525.58)"><tspan id="tspan58" y="0" x="0 7.3186798 9.2356796 13.92168 15.83868 23.39592 27.962641 29.879641 31.91592 38.391121 43.170841 46.05912 50.233921 52.167961 56.947681 61.5144 66.208923 68.245201 72.343323 74.260323 78.579964 80.496964 85.165916 87.082916 88.999924 90.916924 93.677399 97.732918 101.11536 105.54576 110.32548 115.01148 117.78048 120.65172 125.44848 127.36548 129.41028 132.28152 137.06123 139.94952 141.98579 146.76552 151.46857 155.89896 158.7702 163.33691 166.08035 170.89417">Minimal workload visibility/control for operator</tspan></text>
+<text id="text60" style="font-variant:normal;font-weight:300;font-size:8.52000046px;font-family:Roboto;-inkscape-font-specification:'Roboto Light';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,187.7,525.58)"><tspan id="tspan62" y="0" x="0 5.0438399 9.8235598 12.59256 17.159281 19.076281 21.11256 27.587761 32.367481 35.25576 39.430561 41.364601 46.144321 50.71104 55.40556 57.441841 61.539959 63.456959 67.776604 69.693604 74.362556 76.279556 78.196564 80.113564 82.874039 86.929558 90.311996 94.742401 99.522118 104.20812 106.97712 109.84836 114.64512 116.56212 118.60692 121.47816 126.25788 129.14616 131.18243 135.96216 140.66521 145.0956 147.96684 152.53355 155.27699 160.09081">Total workload visibility/control for operator</tspan></text>
+</g>
+    </g>
+    <g id="g64">
+      <g clip-path="url(#clipPath68)" id="g66"><text id="text72" style="font-variant:normal;font-weight:bold;font-size:8.52000046px;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';writing-mode:lr-tb;fill:#f2f2f2;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,133.22,600)"><tspan id="tspan74" y="0" x="0 5.5380001 10.0962 12.97596 17.534161 19.65564 25.20216 29.760361 34.540081 37.419842 42.020641 45.138962 47.260441 53.147758 57.944519 62.511238 65.629562 70.187759 73.06752 77.872803 80.991119 83.146683 88.429077 92.740196 97.536957 102.10368">Data Center Operator Types</tspan></text>
+</g>
+    </g>
+    <g id="g76">
+      <g clip-path="url(#clipPath80)" id="g78">
+        <path id="path84" style="fill:none;stroke:#a6a6a6;stroke-width:0.14;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" d="m 185.6,578.94 0,-57.14"/>
+        <path id="path86" style="fill:#a6a6a6;fill-opacity:1;fill-rule:evenodd;stroke:none" d="m 185.54,521.74 0.95999,0 0,57.264 -0.95999,0 0,-57.264 z"/>
+      </g>
+    </g>
+  </g>
+</svg>
