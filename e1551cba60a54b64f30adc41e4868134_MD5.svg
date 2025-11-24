@@ -1,0 +1,654 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" viewBox="15.5875 14.3875 942.15 566" height="566" width="942.15" xml:space="preserve" version="1.1" id="svg2">
+  <metadata id="metadata8">
+    <rdf:RDF>
+      <cc:Work rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs id="defs6">
+    <clipPath id="clipPath16" clipPathUnits="userSpaceOnUse">
+      <path style="clip-rule:evenodd" id="path18" d="m 13.44,147.74 752.74,0 0,451.78 -752.74,0 0,-451.78 z"/>
+    </clipPath>
+    <clipPath id="clipPath26" clipPathUnits="userSpaceOnUse">
+      <path style="clip-rule:evenodd" id="path28" d="m 13.44,570 752.74,0 0,29.52 -752.74,0 0,-29.52 z"/>
+    </clipPath>
+    <clipPath id="clipPath38" clipPathUnits="userSpaceOnUse">
+      <path style="clip-rule:evenodd" id="path40" d="m 13.44,570 752.74,0 0,29.52 -752.74,0 0,-29.52 z"/>
+    </clipPath>
+    <clipPath id="clipPath50" clipPathUnits="userSpaceOnUse">
+      <path style="clip-rule:evenodd" id="path52" d="m 13.44,570 752.74,0 0,29.52 -752.74,0 0,-29.52 z"/>
+    </clipPath>
+    <clipPath id="clipPath62" clipPathUnits="userSpaceOnUse">
+      <path style="clip-rule:evenodd" id="path64" d="m 318.05,570 58.68,0 0,29.52 -58.68,0 0,-29.52 z"/>
+    </clipPath>
+    <clipPath id="clipPath74" clipPathUnits="userSpaceOnUse">
+      <path style="clip-rule:evenodd" id="path76" d="m 318.05,570 58.68,0 0,29.52 -58.68,0 0,-29.52 z"/>
+    </clipPath>
+    <clipPath id="clipPath86" clipPathUnits="userSpaceOnUse">
+      <path style="clip-rule:evenodd" id="path88" d="m 377.69,570 58.68,0 0,29.52 -58.68,0 0,-29.52 z"/>
+    </clipPath>
+    <clipPath id="clipPath98" clipPathUnits="userSpaceOnUse">
+      <path style="clip-rule:evenodd" id="path100" d="m 377.69,570 58.68,0 0,29.52 -58.68,0 0,-29.52 z"/>
+    </clipPath>
+    <clipPath id="clipPath110" clipPathUnits="userSpaceOnUse">
+      <path style="clip-rule:evenodd" id="path112" d="m 437.33,570 58.68,0 0,29.52 -58.68,0 0,-29.52 z"/>
+    </clipPath>
+    <clipPath id="clipPath122" clipPathUnits="userSpaceOnUse">
+      <path style="clip-rule:evenodd" id="path124" d="m 437.33,570 58.68,0 0,29.52 -58.68,0 0,-29.52 z"/>
+    </clipPath>
+    <clipPath id="clipPath134" clipPathUnits="userSpaceOnUse">
+      <path style="clip-rule:evenodd" id="path136" d="m 13.44,570 752.74,0 0,29.52 -752.74,0 0,-29.52 z"/>
+    </clipPath>
+    <clipPath id="clipPath146" clipPathUnits="userSpaceOnUse">
+      <path style="clip-rule:evenodd" id="path148" d="m 13.44,147.74 752.74,0 0,451.78 -752.74,0 0,-451.78 z"/>
+    </clipPath>
+    <clipPath id="clipPath158" clipPathUnits="userSpaceOnUse">
+      <path style="clip-rule:evenodd" id="path160" d="m 13.44,147.74 752.74,0 0,451.78 -752.74,0 0,-451.78 z"/>
+    </clipPath>
+    <clipPath id="clipPath170" clipPathUnits="userSpaceOnUse">
+      <path style="clip-rule:evenodd" id="path172" d="m 13.44,541.06 752.74,0 0,27.96 -752.74,0 0,-27.96 z"/>
+    </clipPath>
+    <clipPath id="clipPath182" clipPathUnits="userSpaceOnUse">
+      <path style="clip-rule:evenodd" id="path184" d="m 13.44,541.06 752.74,0 0,27.96 -752.74,0 0,-27.96 z"/>
+    </clipPath>
+    <clipPath id="clipPath194" clipPathUnits="userSpaceOnUse">
+      <path style="clip-rule:evenodd" id="path196" d="m 13.44,541.06 752.74,0 0,27.96 -752.74,0 0,-27.96 z"/>
+    </clipPath>
+    <clipPath id="clipPath206" clipPathUnits="userSpaceOnUse">
+      <path style="clip-rule:evenodd" id="path208" d="m 13.44,541.06 752.74,0 0,27.96 -752.74,0 0,-27.96 z"/>
+    </clipPath>
+    <clipPath id="clipPath218" clipPathUnits="userSpaceOnUse">
+      <path style="clip-rule:evenodd" id="path220" d="m 496.97,541.06 268.25,0 0,27.96 -268.25,0 0,-27.96 z"/>
+    </clipPath>
+    <clipPath id="clipPath230" clipPathUnits="userSpaceOnUse">
+      <path style="clip-rule:evenodd" id="path232" d="m 496.97,541.06 268.25,0 0,27.96 -268.25,0 0,-27.96 z"/>
+    </clipPath>
+    <clipPath id="clipPath242" clipPathUnits="userSpaceOnUse">
+      <path style="clip-rule:evenodd" id="path244" d="m 13.44,147.74 752.74,0 0,451.78 -752.74,0 0,-451.78 z"/>
+    </clipPath>
+    <clipPath id="clipPath254" clipPathUnits="userSpaceOnUse">
+      <path style="clip-rule:evenodd" id="path256" d="m 13.44,147.74 752.74,0 0,451.78 -752.74,0 0,-451.78 z"/>
+    </clipPath>
+    <clipPath id="clipPath266" clipPathUnits="userSpaceOnUse">
+      <path style="clip-rule:evenodd" id="path268" d="m 13.44,454.18 752.74,0 0,85.92 -752.74,0 0,-85.92 z"/>
+    </clipPath>
+    <clipPath id="clipPath278" clipPathUnits="userSpaceOnUse">
+      <path style="clip-rule:evenodd" id="path280" d="m 13.44,454.18 752.74,0 0,85.92 -752.74,0 0,-85.92 z"/>
+    </clipPath>
+    <clipPath id="clipPath290" clipPathUnits="userSpaceOnUse">
+      <path style="clip-rule:evenodd" id="path292" d="m 13.44,454.18 752.74,0 0,85.92 -752.74,0 0,-85.92 z"/>
+    </clipPath>
+    <clipPath id="clipPath302" clipPathUnits="userSpaceOnUse">
+      <path style="clip-rule:evenodd" id="path304" d="m 13.44,454.18 752.74,0 0,85.92 -752.74,0 0,-85.92 z"/>
+    </clipPath>
+    <clipPath id="clipPath314" clipPathUnits="userSpaceOnUse">
+      <path style="clip-rule:evenodd" id="path316" d="m 496.97,454.18 268.25,0 0,85.92 -268.25,0 0,-85.92 z"/>
+    </clipPath>
+    <clipPath id="clipPath326" clipPathUnits="userSpaceOnUse">
+      <path style="clip-rule:evenodd" id="path328" d="m 496.97,454.18 268.25,0 0,85.92 -268.25,0 0,-85.92 z"/>
+    </clipPath>
+    <clipPath id="clipPath338" clipPathUnits="userSpaceOnUse">
+      <path style="clip-rule:evenodd" id="path340" d="m 496.97,454.18 268.25,0 0,85.92 -268.25,0 0,-85.92 z"/>
+    </clipPath>
+    <clipPath id="clipPath350" clipPathUnits="userSpaceOnUse">
+      <path style="clip-rule:evenodd" id="path352" d="m 496.97,454.18 268.25,0 0,85.92 -268.25,0 0,-85.92 z"/>
+    </clipPath>
+    <clipPath id="clipPath362" clipPathUnits="userSpaceOnUse">
+      <path style="clip-rule:evenodd" id="path364" d="m 496.97,454.18 268.25,0 0,85.92 -268.25,0 0,-85.92 z"/>
+    </clipPath>
+    <clipPath id="clipPath374" clipPathUnits="userSpaceOnUse">
+      <path style="clip-rule:evenodd" id="path376" d="m 496.97,454.18 268.25,0 0,85.92 -268.25,0 0,-85.92 z"/>
+    </clipPath>
+    <clipPath id="clipPath386" clipPathUnits="userSpaceOnUse">
+      <path style="clip-rule:evenodd" id="path388" d="m 13.44,147.74 752.74,0 0,451.78 -752.74,0 0,-451.78 z"/>
+    </clipPath>
+    <clipPath id="clipPath398" clipPathUnits="userSpaceOnUse">
+      <path style="clip-rule:evenodd" id="path400" d="m 13.44,147.74 752.74,0 0,451.78 -752.74,0 0,-451.78 z"/>
+    </clipPath>
+    <clipPath id="clipPath410" clipPathUnits="userSpaceOnUse">
+      <path style="clip-rule:evenodd" id="path412" d="m 13.44,352.87 752.74,0 0,100.34 -752.74,0 0,-100.34 z"/>
+    </clipPath>
+    <clipPath id="clipPath422" clipPathUnits="userSpaceOnUse">
+      <path style="clip-rule:evenodd" id="path424" d="m 13.44,352.87 752.74,0 0,100.34 -752.74,0 0,-100.34 z"/>
+    </clipPath>
+    <clipPath id="clipPath434" clipPathUnits="userSpaceOnUse">
+      <path style="clip-rule:evenodd" id="path436" d="m 13.44,352.87 752.74,0 0,100.34 -752.74,0 0,-100.34 z"/>
+    </clipPath>
+    <clipPath id="clipPath446" clipPathUnits="userSpaceOnUse">
+      <path style="clip-rule:evenodd" id="path448" d="m 13.44,352.87 752.74,0 0,100.34 -752.74,0 0,-100.34 z"/>
+    </clipPath>
+    <clipPath id="clipPath458" clipPathUnits="userSpaceOnUse">
+      <path style="clip-rule:evenodd" id="path460" d="m 496.97,352.87 268.25,0 0,100.34 -268.25,0 0,-100.34 z"/>
+    </clipPath>
+    <clipPath id="clipPath470" clipPathUnits="userSpaceOnUse">
+      <path style="clip-rule:evenodd" id="path472" d="m 496.97,352.87 268.25,0 0,100.34 -268.25,0 0,-100.34 z"/>
+    </clipPath>
+    <clipPath id="clipPath482" clipPathUnits="userSpaceOnUse">
+      <path style="clip-rule:evenodd" id="path484" d="m 496.97,352.87 268.25,0 0,100.34 -268.25,0 0,-100.34 z"/>
+    </clipPath>
+    <clipPath id="clipPath494" clipPathUnits="userSpaceOnUse">
+      <path style="clip-rule:evenodd" id="path496" d="m 496.97,352.87 268.25,0 0,100.34 -268.25,0 0,-100.34 z"/>
+    </clipPath>
+    <clipPath id="clipPath506" clipPathUnits="userSpaceOnUse">
+      <path style="clip-rule:evenodd" id="path508" d="m 496.97,352.87 268.25,0 0,100.34 -268.25,0 0,-100.34 z"/>
+    </clipPath>
+    <clipPath id="clipPath518" clipPathUnits="userSpaceOnUse">
+      <path style="clip-rule:evenodd" id="path520" d="m 496.97,352.87 268.25,0 0,100.34 -268.25,0 0,-100.34 z"/>
+    </clipPath>
+    <clipPath id="clipPath530" clipPathUnits="userSpaceOnUse">
+      <path style="clip-rule:evenodd" id="path532" d="m 13.44,147.74 752.74,0 0,451.78 -752.74,0 0,-451.78 z"/>
+    </clipPath>
+    <clipPath id="clipPath542" clipPathUnits="userSpaceOnUse">
+      <path style="clip-rule:evenodd" id="path544" d="m 13.44,147.74 752.74,0 0,451.78 -752.74,0 0,-451.78 z"/>
+    </clipPath>
+    <clipPath id="clipPath554" clipPathUnits="userSpaceOnUse">
+      <path style="clip-rule:evenodd" id="path556" d="m 13.44,265.97 752.74,0 0,85.944 -752.74,0 0,-85.944 z"/>
+    </clipPath>
+    <clipPath id="clipPath566" clipPathUnits="userSpaceOnUse">
+      <path style="clip-rule:evenodd" id="path568" d="m 13.44,265.97 752.74,0 0,85.944 -752.74,0 0,-85.944 z"/>
+    </clipPath>
+    <clipPath id="clipPath578" clipPathUnits="userSpaceOnUse">
+      <path style="clip-rule:evenodd" id="path580" d="m 13.44,265.97 752.74,0 0,85.944 -752.74,0 0,-85.944 z"/>
+    </clipPath>
+    <clipPath id="clipPath590" clipPathUnits="userSpaceOnUse">
+      <path style="clip-rule:evenodd" id="path592" d="m 13.44,265.97 752.74,0 0,85.944 -752.74,0 0,-85.944 z"/>
+    </clipPath>
+    <clipPath id="clipPath602" clipPathUnits="userSpaceOnUse">
+      <path style="clip-rule:evenodd" id="path604" d="m 496.97,265.97 268.25,0 0,85.944 -268.25,0 0,-85.944 z"/>
+    </clipPath>
+    <clipPath id="clipPath614" clipPathUnits="userSpaceOnUse">
+      <path style="clip-rule:evenodd" id="path616" d="m 496.97,265.97 268.25,0 0,85.944 -268.25,0 0,-85.944 z"/>
+    </clipPath>
+    <clipPath id="clipPath626" clipPathUnits="userSpaceOnUse">
+      <path style="clip-rule:evenodd" id="path628" d="m 496.97,265.97 268.25,0 0,85.944 -268.25,0 0,-85.944 z"/>
+    </clipPath>
+    <clipPath id="clipPath638" clipPathUnits="userSpaceOnUse">
+      <path style="clip-rule:evenodd" id="path640" d="m 496.97,265.97 268.25,0 0,85.944 -268.25,0 0,-85.944 z"/>
+    </clipPath>
+    <clipPath id="clipPath650" clipPathUnits="userSpaceOnUse">
+      <path style="clip-rule:evenodd" id="path652" d="m 496.97,265.97 268.25,0 0,85.944 -268.25,0 0,-85.944 z"/>
+    </clipPath>
+    <clipPath id="clipPath662" clipPathUnits="userSpaceOnUse">
+      <path style="clip-rule:evenodd" id="path664" d="m 13.44,147.74 752.74,0 0,451.78 -752.74,0 0,-451.78 z"/>
+    </clipPath>
+    <clipPath id="clipPath674" clipPathUnits="userSpaceOnUse">
+      <path style="clip-rule:evenodd" id="path676" d="m 13.44,147.74 752.74,0 0,451.78 -752.74,0 0,-451.78 z"/>
+    </clipPath>
+    <clipPath id="clipPath686" clipPathUnits="userSpaceOnUse">
+      <path style="clip-rule:evenodd" id="path688" d="m 13.44,250.73 752.74,0 0,14.28 -752.74,0 0,-14.28 z"/>
+    </clipPath>
+    <clipPath id="clipPath698" clipPathUnits="userSpaceOnUse">
+      <path style="clip-rule:evenodd" id="path700" d="m 13.44,250.73 752.74,0 0,14.28 -752.74,0 0,-14.28 z"/>
+    </clipPath>
+    <clipPath id="clipPath710" clipPathUnits="userSpaceOnUse">
+      <path style="clip-rule:evenodd" id="path712" d="m 13.44,250.73 752.74,0 0,14.28 -752.74,0 0,-14.28 z"/>
+    </clipPath>
+    <clipPath id="clipPath722" clipPathUnits="userSpaceOnUse">
+      <path style="clip-rule:evenodd" id="path724" d="m 13.44,250.73 752.74,0 0,14.28 -752.74,0 0,-14.28 z"/>
+    </clipPath>
+    <clipPath id="clipPath734" clipPathUnits="userSpaceOnUse">
+      <path style="clip-rule:evenodd" id="path736" d="m 13.44,250.73 752.74,0 0,14.28 -752.74,0 0,-14.28 z"/>
+    </clipPath>
+    <clipPath id="clipPath746" clipPathUnits="userSpaceOnUse">
+      <path style="clip-rule:evenodd" id="path748" d="m 13.44,147.74 752.74,0 0,451.78 -752.74,0 0,-451.78 z"/>
+    </clipPath>
+    <clipPath id="clipPath758" clipPathUnits="userSpaceOnUse">
+      <path style="clip-rule:evenodd" id="path760" d="m 13.44,147.74 752.74,0 0,451.78 -752.74,0 0,-451.78 z"/>
+    </clipPath>
+    <clipPath id="clipPath770" clipPathUnits="userSpaceOnUse">
+      <path style="clip-rule:evenodd" id="path772" d="m 13.44,192.89 752.74,0 0,56.88 -752.74,0 0,-56.88 z"/>
+    </clipPath>
+    <clipPath id="clipPath782" clipPathUnits="userSpaceOnUse">
+      <path style="clip-rule:evenodd" id="path784" d="m 13.44,192.89 752.74,0 0,56.88 -752.74,0 0,-56.88 z"/>
+    </clipPath>
+    <clipPath id="clipPath794" clipPathUnits="userSpaceOnUse">
+      <path style="clip-rule:evenodd" id="path796" d="m 13.44,192.89 752.74,0 0,56.88 -752.74,0 0,-56.88 z"/>
+    </clipPath>
+    <clipPath id="clipPath806" clipPathUnits="userSpaceOnUse">
+      <path style="clip-rule:evenodd" id="path808" d="m 13.44,192.89 752.74,0 0,56.88 -752.74,0 0,-56.88 z"/>
+    </clipPath>
+    <clipPath id="clipPath818" clipPathUnits="userSpaceOnUse">
+      <path style="clip-rule:evenodd" id="path820" d="m 496.97,192.89 268.25,0 0,56.88 -268.25,0 0,-56.88 z"/>
+    </clipPath>
+    <clipPath id="clipPath830" clipPathUnits="userSpaceOnUse">
+      <path style="clip-rule:evenodd" id="path832" d="m 496.97,192.89 268.25,0 0,56.88 -268.25,0 0,-56.88 z"/>
+    </clipPath>
+    <clipPath id="clipPath842" clipPathUnits="userSpaceOnUse">
+      <path style="clip-rule:evenodd" id="path844" d="m 496.97,192.89 268.25,0 0,56.88 -268.25,0 0,-56.88 z"/>
+    </clipPath>
+    <clipPath id="clipPath854" clipPathUnits="userSpaceOnUse">
+      <path style="clip-rule:evenodd" id="path856" d="m 496.97,192.89 268.25,0 0,56.88 -268.25,0 0,-56.88 z"/>
+    </clipPath>
+    <clipPath id="clipPath866" clipPathUnits="userSpaceOnUse">
+      <path style="clip-rule:evenodd" id="path868" d="m 13.44,147.74 752.74,0 0,451.78 -752.74,0 0,-451.78 z"/>
+    </clipPath>
+    <clipPath id="clipPath878" clipPathUnits="userSpaceOnUse">
+      <path style="clip-rule:evenodd" id="path880" d="m 13.44,147.74 752.74,0 0,451.78 -752.74,0 0,-451.78 z"/>
+    </clipPath>
+    <clipPath id="clipPath890" clipPathUnits="userSpaceOnUse">
+      <path style="clip-rule:evenodd" id="path892" d="m 13.44,163.97 752.74,0 0,27.96 -752.74,0 0,-27.96 z"/>
+    </clipPath>
+    <clipPath id="clipPath902" clipPathUnits="userSpaceOnUse">
+      <path style="clip-rule:evenodd" id="path904" d="m 13.44,163.97 752.74,0 0,27.96 -752.74,0 0,-27.96 z"/>
+    </clipPath>
+    <clipPath id="clipPath914" clipPathUnits="userSpaceOnUse">
+      <path style="clip-rule:evenodd" id="path916" d="m 13.44,163.97 752.74,0 0,27.96 -752.74,0 0,-27.96 z"/>
+    </clipPath>
+    <clipPath id="clipPath926" clipPathUnits="userSpaceOnUse">
+      <path style="clip-rule:evenodd" id="path928" d="m 13.44,163.97 752.74,0 0,27.96 -752.74,0 0,-27.96 z"/>
+    </clipPath>
+    <clipPath id="clipPath938" clipPathUnits="userSpaceOnUse">
+      <path style="clip-rule:evenodd" id="path940" d="m 496.97,163.97 268.25,0 0,27.96 -268.25,0 0,-27.96 z"/>
+    </clipPath>
+    <clipPath id="clipPath950" clipPathUnits="userSpaceOnUse">
+      <path style="clip-rule:evenodd" id="path952" d="m 496.97,163.97 268.25,0 0,27.96 -268.25,0 0,-27.96 z"/>
+    </clipPath>
+    <clipPath id="clipPath962" clipPathUnits="userSpaceOnUse">
+      <path style="clip-rule:evenodd" id="path964" d="m 13.44,147.74 752.74,0 0,451.78 -752.74,0 0,-451.78 z"/>
+    </clipPath>
+    <clipPath id="clipPath974" clipPathUnits="userSpaceOnUse">
+      <path style="clip-rule:evenodd" id="path976" d="m 13.44,147.74 752.74,0 0,451.78 -752.74,0 0,-451.78 z"/>
+    </clipPath>
+    <clipPath id="clipPath986" clipPathUnits="userSpaceOnUse">
+      <path style="clip-rule:evenodd" id="path988" d="m 13.44,148.73 752.74,0 0,14.28 -752.74,0 0,-14.28 z"/>
+    </clipPath>
+    <clipPath id="clipPath998" clipPathUnits="userSpaceOnUse">
+      <path style="clip-rule:evenodd" id="path1000" d="m 13.44,148.73 752.74,0 0,14.28 -752.74,0 0,-14.28 z"/>
+    </clipPath>
+    <clipPath id="clipPath1010" clipPathUnits="userSpaceOnUse">
+      <path style="clip-rule:evenodd" id="path1012" d="m 13.44,148.73 752.74,0 0,14.28 -752.74,0 0,-14.28 z"/>
+    </clipPath>
+    <clipPath id="clipPath1022" clipPathUnits="userSpaceOnUse">
+      <path style="clip-rule:evenodd" id="path1024" d="m 13.44,148.73 752.74,0 0,14.28 -752.74,0 0,-14.28 z"/>
+    </clipPath>
+    <clipPath id="clipPath1034" clipPathUnits="userSpaceOnUse">
+      <path style="clip-rule:evenodd" id="path1036" d="m 11.52,145.7 756.7,0 0,455.74 -756.7,0 0,-455.74 z"/>
+    </clipPath>
+  </defs>
+  <g transform="matrix(1.25,0,0,-1.25,0,765)" id="g10">
+    <g id="g12">
+      <g clip-path="url(#clipPath16)" id="g14">
+        <path id="path20" style="fill:#005aa4;fill-opacity:1;fill-rule:evenodd;stroke:none" d="m 12.96,569.38 752.86,0 0,30.624 -752.86,0 0,-30.624 z"/>
+      </g>
+    </g>
+    <g id="g22">
+      <g clip-path="url(#clipPath26)" id="g24"><text id="text30" style="font-variant:normal;font-weight:bold;font-size:11.03999996px;font-family:Arial;-inkscape-font-specification:'Arial Bold';writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,15,580.68)"><tspan id="tspan32" y="0" x="0 7.9156799 14.05392 20.15904 23.27232 26.385599 32.987518 38.871841 45.617279">Deal Type</tspan></text>
+</g>
+    </g>
+    <g id="g34">
+      <g clip-path="url(#clipPath38)" id="g36"><text id="text42" style="font-variant:normal;font-weight:bold;font-size:11.03999996px;font-family:Arial;-inkscape-font-specification:'Arial Bold';writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,199.7,580.68)"><tspan id="tspan44" y="0" x="0 7.9156799 14.05392 17.73024">Date</tspan></text>
+</g>
+    </g>
+    <g id="g46">
+      <g clip-path="url(#clipPath50)" id="g48"><text id="text54" style="font-variant:normal;font-weight:bold;font-size:11.03999996px;font-family:Arial;-inkscape-font-specification:'Arial Bold';writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,267.14,580.68)"><tspan id="tspan56" y="0" x="0 7.5623999 17.376961 24.1224 30.86784 37.558079">Amount</tspan></text>
+</g>
+    </g>
+    <g id="g58">
+      <g clip-path="url(#clipPath62)" id="g60"><text id="text66" style="font-variant:normal;font-weight:bold;font-size:11.03999996px;font-family:Arial;-inkscape-font-specification:'Arial Bold';writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,322.61,587.76)"><tspan id="tspan68" y="0" x="0 7.9156799 14.05392 17.123039 23.26128 29.399521 36.144958 39.214081 42.945599 49.69104">Raised to </tspan></text>
+</g>
+    </g>
+    <g id="g70">
+      <g clip-path="url(#clipPath74)" id="g72"><text id="text78" style="font-variant:normal;font-weight:bold;font-size:11.03999996px;font-family:Arial;-inkscape-font-specification:'Arial Bold';writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,335.57,573.6)"><tspan id="tspan80" y="0" x="0 7.9156799 14.05392 17.73024">Date</tspan></text>
+</g>
+    </g>
+    <g id="g82">
+      <g clip-path="url(#clipPath86)" id="g84"><text id="text90" style="font-variant:normal;font-weight:bold;font-size:11.03999996px;font-family:Arial;-inkscape-font-specification:'Arial Bold';writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,396.41,587.76)"><tspan id="tspan92" y="0" x="0 7.31952 11.61408 17.752319">Pre-</tspan></text>
+</g>
+    </g>
+    <g id="g94">
+      <g clip-path="url(#clipPath98)" id="g96"><text id="text102" style="font-variant:normal;font-weight:bold;font-size:11.03999996px;font-family:Arial;-inkscape-font-specification:'Arial Bold';writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,382.25,573.6)"><tspan id="tspan104" y="0" x="0 7.31952 13.45776 16.52688 23.27232 29.410561 33.08688 36.23328 42.978722">Valuation</tspan></text>
+</g>
+    </g>
+    <g id="g106">
+      <g clip-path="url(#clipPath110)" id="g108"><text id="text114" style="font-variant:normal;font-weight:bold;font-size:11.03999996px;font-family:Arial;-inkscape-font-specification:'Arial Bold';writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,452.93,587.76)"><tspan id="tspan116" y="0" x="0 7.31952 14.06496 20.15904 23.868481">Post-</tspan></text>
+</g>
+    </g>
+    <g id="g118">
+      <g clip-path="url(#clipPath122)" id="g120"><text id="text126" style="font-variant:normal;font-weight:bold;font-size:11.03999996px;font-family:Arial;-inkscape-font-specification:'Arial Bold';writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,441.89,573.6)"><tspan id="tspan128" y="0" x="0 7.31952 13.45776 16.52688 23.27232 29.410561 33.08688 36.23328 42.978722">Valuation</tspan></text>
+</g>
+    </g>
+    <g id="g130">
+      <g clip-path="url(#clipPath134)" id="g132"><text id="text138" style="font-variant:normal;font-weight:bold;font-size:11.03999996px;font-family:Arial;-inkscape-font-specification:'Arial Bold';writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,498.53,580.68)"><tspan id="tspan140" y="0" x="0 7.9156799 14.05392 19.916161 23.02944 26.142719 32.888161 38.860802 44.999039 51.10416 54.813599 61.55904 65.8536">Key Investors</tspan></text>
+</g>
+    </g>
+    <g id="g142">
+      <g clip-path="url(#clipPath146)" id="g144"><text id="text150" style="font-variant:normal;font-weight:normal;font-size:11.03999996px;font-family:Arial;-inkscape-font-specification:Arial;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,15,551.14)"><tspan id="tspan152" y="0" x="0 6.1382399 12.24336 15.35664 21.494881 25.1712 28.306561 35.62608 38.739361 44.877602 51.093121 57.231361 60.30048 67.664162 75.568802 78.682083 82.391518 89.711037 95.849281 99.525597 101.97648 108.07056 113.59056 116.70384 124.02336">Later Stage VC (Series E)</tspan></text>
+</g>
+    </g>
+    <g id="g154">
+      <g clip-path="url(#clipPath158)" id="g156"><text id="text162" style="font-variant:normal;font-weight:normal;font-size:11.03999996px;font-family:Arial;-inkscape-font-specification:Arial;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,181.1,551.14)"><tspan id="tspan164" y="0" x="0 6.1382399 12.24336 15.9528 21.472799 27.61104 33.71616 37.425598 43.563839 49.668961 55.807201">24-Jun-2025</tspan></text>
+</g>
+    </g>
+    <g id="g166">
+      <g clip-path="url(#clipPath170)" id="g168"><text id="text174" style="font-variant:normal;font-weight:normal;font-size:11.03999996px;font-family:Arial;-inkscape-font-specification:Arial;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,263.42,551.14)"><tspan id="tspan176" y="0" x="0 6.1382399 12.24336 18.381599 24.486719 27.6 33.738239 39.843361">$315.93M</tspan></text>
+</g>
+    </g>
+    <g id="g178">
+      <g clip-path="url(#clipPath182)" id="g180"><text id="text186" style="font-variant:normal;font-weight:normal;font-size:11.03999996px;font-family:Arial;-inkscape-font-specification:Arial;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,323.09,551.14)"><tspan id="tspan188" y="0" x="0 6.1382399 12.24336 18.381599 24.486719 27.6 33.738239 39.843361">$779.83M</tspan></text>
+</g>
+    </g>
+    <g id="g190">
+      <g clip-path="url(#clipPath194)" id="g192"><text id="text198" style="font-variant:normal;font-weight:normal;font-size:11.03999996px;font-family:Arial;-inkscape-font-specification:Arial;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,389.69,551.14)"><tspan id="tspan200" y="0" x="0 6.1382399 12.24336 15.35664 21.494881 27.6">$4.98B</tspan></text>
+</g>
+    </g>
+    <g id="g202">
+      <g clip-path="url(#clipPath206)" id="g204"><text id="text210" style="font-variant:normal;font-weight:normal;font-size:11.03999996px;font-family:Arial;-inkscape-font-specification:Arial;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,449.33,551.14)"><tspan id="tspan212" y="0" x="0 6.1382399 12.24336 15.35664 21.494881 27.6">$5.30B</tspan></text>
+</g>
+    </g>
+    <g id="g214">
+      <g clip-path="url(#clipPath218)" id="g216"><text id="text222" style="font-variant:normal;font-weight:normal;font-size:11.03999996px;font-family:Arial;-inkscape-font-specification:Arial;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,498.53,557.98)"><tspan id="tspan224" y="0" x="0 6.1382399 12.24336 18.381599 23.75808 26.871361 29.98464 37.304161 43.442402 49.54752 55.06752 57.4632 63.60144 66.670563 74.034241 80.172478 86.266563 89.379837 95.518082 99.194397 105.33264 110.85264 113.96592 117.0792 127.98672 134.12495 140.23009 143.93951 151.85519 157.99344 161.06256 164.20895 172.12463 178.26288 180.64752 183.0432 186.26688 192.40512 196.08144 202.21968 204.6264 210.76463 213.83376 221.80464 227.90976 234.048 236.43263 239.54591 245.68416">a16z, Khosla Ventures, WndrCo, California Health </tspan></text>
+</g>
+    </g>
+    <g id="g226">
+      <g clip-path="url(#clipPath230)" id="g228"><text id="text234" style="font-variant:normal;font-weight:normal;font-size:11.03999996px;font-family:Arial;-inkscape-font-specification:Arial;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,498.53,544.3)"><tspan id="tspan236" y="0" x="0 7.9156799 14.05392 17.73024 23.868481 26.98176 33.7272 39.821281 45.959518 52.06464 58.202881 64.307999 67.42128 69.816963 75.9552 82.060318 85.173599 88.28688 95.6064 99.315842 104.83584 110.97408 117.0792 120.78864 130.01808 136.15633 142.26144 145.37473 153.29041 159.42863 165.53375 167.92944 171.04272 177.18095 179.5656">Care Foundation, Archerman Capital </tspan></text>
+</g>
+    </g>
+    <g id="g238">
+      <g clip-path="url(#clipPath242)" id="g240"><text id="text246" style="font-variant:normal;font-weight:normal;font-size:11.03999996px;font-family:Arial;-inkscape-font-specification:Arial;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,15,493.18)"><tspan id="tspan248" y="0" x="0 6.1382399 12.24336 15.35664 21.494881 25.1712 28.306561 35.62608 38.739361 44.877602 51.093121 57.231361 60.30048 67.664162 75.568802 78.682083 82.391518 89.711037 95.849281 99.525597 101.97648 108.07056 113.59056 116.70384 124.61952">Later Stage VC (Series D)</tspan></text>
+</g>
+    </g>
+    <g id="g250">
+      <g clip-path="url(#clipPath254)" id="g252"><text id="text258" style="font-variant:normal;font-weight:normal;font-size:11.03999996px;font-family:Arial;-inkscape-font-specification:Arial;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,180.5,493.18)"><tspan id="tspan260" y="0" x="0 6.1382399 12.24336 15.9528 22.69824 28.79232 34.930561 38.60688 44.745121 50.883362 57.021599">17-Feb-2025</tspan></text>
+</g>
+    </g>
+    <g id="g262">
+      <g clip-path="url(#clipPath266)" id="g264"><text id="text270" style="font-variant:normal;font-weight:normal;font-size:11.03999996px;font-family:Arial;-inkscape-font-specification:Arial;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,263.42,493.18)"><tspan id="tspan272" y="0" x="0 6.1382399 12.24336 18.381599 24.486719 27.6 33.738239 39.843361">$250.00M</tspan></text>
+</g>
+    </g>
+    <g id="g274">
+      <g clip-path="url(#clipPath278)" id="g276"><text id="text282" style="font-variant:normal;font-weight:normal;font-size:11.03999996px;font-family:Arial;-inkscape-font-specification:Arial;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,323.09,493.18)"><tspan id="tspan284" y="0" x="0 6.1382399 12.24336 18.381599 24.486719 27.6 33.738239 39.843361">$463.90M</tspan></text>
+</g>
+    </g>
+    <g id="g286">
+      <g clip-path="url(#clipPath290)" id="g288"><text id="text294" style="font-variant:normal;font-weight:normal;font-size:11.03999996px;font-family:Arial;-inkscape-font-specification:Arial;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,389.69,493.18)"><tspan id="tspan296" y="0" x="0 6.1382399 12.24336 15.35664 21.494881 27.6">$2.50B</tspan></text>
+</g>
+    </g>
+    <g id="g298">
+      <g clip-path="url(#clipPath302)" id="g300"><text id="text306" style="font-variant:normal;font-weight:normal;font-size:11.03999996px;font-family:Arial;-inkscape-font-specification:Arial;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,449.33,493.18)"><tspan id="tspan308" y="0" x="0 6.1382399 12.24336 15.35664 21.494881 27.6">$2.75B</tspan></text>
+</g>
+    </g>
+    <g id="g310">
+      <g clip-path="url(#clipPath314)" id="g312"><text id="text318" style="font-variant:normal;font-weight:normal;font-size:11.03999996px;font-family:Arial;-inkscape-font-specification:Arial;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,498.53,527.38)"><tspan id="tspan320" y="0" x="0 3.1132801 10.4328 17.752319 20.865601 23.97888 31.298401 33.69408 39.832321 45.937439 49.05072 57.683998 60.079681 62.475361 65.588638 68.70192 76.617599 83.937119 91.256638 94.369919 102.2856 108.42384 114.52896 116.92464 120.03792 126.17616 129.24529 136.60896 142.74719 148.84128 151.95456 158.0928 161.76912 167.90736 173.42735 176.54063 179.65392 187.5696 194.88911 201.02736 207.13248 210.24576 216.384 220.06032 226.19856 231.71857 234.83183">IVP, Elad Gil, CVS Health Ventures, NVentures, </tspan></text>
+</g>
+    </g>
+    <g id="g322">
+      <g clip-path="url(#clipPath326)" id="g324"><text id="text330" style="font-variant:normal;font-weight:normal;font-size:11.03999996px;font-family:Arial;-inkscape-font-specification:Arial;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,498.53,513.7)"><tspan id="tspan332" y="0" x="0 7.9156799 14.05392 16.43856 18.83424 22.05792 28.196159 31.87248 38.010719 40.417439 46.555679 49.624802 57.59568 63.700802 69.839043 72.223679 75.33696 81.475197 86.995201 93.100319 96.809761 102.948 106.01712 112.76256 118.9008 125.03904 131.13312 137.27136 143.37648 146.48976 148.88544 155.02368 161.1288 164.24208 167.35536 175.27104 181.40929 187.5144 189.91008 193.02336 199.16161 201.54623 210.17952 213.2928 216.40608 223.7256 229.24561 232.95505 235.35072 241.48895 247.59409 249.98976 256.12799">California Healthcare Foundation, CapitalG, Scribble </tspan></text>
+</g>
+    </g>
+    <g id="g334">
+      <g clip-path="url(#clipPath338)" id="g336"><text id="text342" style="font-variant:normal;font-weight:normal;font-size:11.03999996px;font-family:Arial;-inkscape-font-specification:Arial;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,498.53,500.02)"><tspan id="tspan344" y="0" x="0 7.31952 13.45776 19.56288 22.676161 28.8144 32.490719 38.62896 44.14896 47.262241 50.375519 57.12096 63.215038 65.610718 68.006401 74.144638 81.927841 87.447838 90.561119 97.306557 103.40064 109.53888 115.644 118.75728 121.87056 129.19008 132.30336 136.0128 138.40848 144.54672 147.61584 154.97952 161.11777 167.21184 170.32512 176.46336 180.13968 186.27792 191.79791 194.91119 198.02448 205.34399 212.66351 215.77679 223.09631 229.23456 235.45007 241.58832 243.97296 247.08624 250.19952 257.51904 260.63232">Ventures, Fellows Fund, Atria Ventures, SV Angel, K. </tspan></text>
+</g>
+    </g>
+    <g id="g346">
+      <g clip-path="url(#clipPath350)" id="g348"><text id="text354" style="font-variant:normal;font-weight:normal;font-size:11.03999996px;font-family:Arial;-inkscape-font-specification:Arial;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,498.53,486.34)"><tspan id="tspan356" y="0" x="0 7.31952 13.45776 19.56288 22.676161 28.8144 32.490719 38.62896 44.14896 47.262241 50.375519 58.291199 64.429443 70.534561 76.672798 82.777924 85.173599 91.311836 94.380959 97.527359 104.84688 110.98512 117.09024 120.20352 126.34176 130.01808 136.15633 141.67632 144.7896 147.90288 154.04112 156.42577 162.65231 168.79056 171.85968 177.37968 183.51791 189.65616 195.7944 201.88847 205.00175 212.32127 218.45952 224.56464 227.67792 233.81616 237.49248 243.63072">Ventures, Redpoint Ventures, Lightspeed Venture </tspan></text>
+</g>
+    </g>
+    <g id="g358">
+      <g clip-path="url(#clipPath362)" id="g360"><text id="text366" style="font-variant:normal;font-weight:normal;font-size:11.03999996px;font-family:Arial;-inkscape-font-specification:Arial;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,498.53,472.66)"><tspan id="tspan368" y="0" x="0 7.31952 13.45776 17.134081 20.26944 26.407681 32.512798 36.22224 41.742241 44.855518 47.9688 55.288319 61.426559 66.946564 72.46656 78.571678 87.801117 93.939362 97.615677 100.75104 108.07056 114.2088 120.31392 123.4272 129.56544 133.24176 139.38 142.49329 149.81281 155.95103 159.62737 162.76273 168.90096 175.00607 178.71552 184.23552 187.3488 190.46208 197.7816 203.91985 210.02496 213.73441 219.36481 222.47807 230.39375 236.532 242.63712 245.03281 248.14607 254.28432 256.66895 259.78223">Partners, Bessemer Venture Partners, Spark Capital, </tspan></text>
+</g>
+    </g>
+    <g id="g370">
+      <g clip-path="url(#clipPath374)" id="g372"><text id="text378" style="font-variant:normal;font-weight:normal;font-size:11.03999996px;font-family:Arial;-inkscape-font-specification:Arial;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,498.53,458.98)"><tspan id="tspan380" y="0" x="0 7.31952 9.7152004 15.85344 21.958561 28.0968 34.20192 40.34016">Alphabet</tspan></text>
+</g>
+    </g>
+    <g id="g382">
+      <g clip-path="url(#clipPath386)" id="g384"><text id="text390" style="font-variant:normal;font-weight:normal;font-size:11.03999996px;font-family:Arial;-inkscape-font-specification:Arial;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,15,399.07)"><tspan id="tspan392" y="0" x="0 6.1382399 12.24336 15.35664 21.494881 25.1712 28.306561 35.62608 38.739361 44.877602 51.093121 57.231361 60.30048 67.664162 75.568802 78.682083 82.391518 89.711037 95.849281 99.525597 101.97648 108.07056 113.59056 116.70384 124.61952">Later Stage VC (Series C)</tspan></text>
+</g>
+    </g>
+    <g id="g394">
+      <g clip-path="url(#clipPath398)" id="g396"><text id="text402" style="font-variant:normal;font-weight:normal;font-size:11.03999996px;font-family:Arial;-inkscape-font-specification:Arial;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,180.5,399.07)"><tspan id="tspan404" y="0" x="0 6.1382399 12.24336 15.9528 22.69824 28.79232 34.930561 38.60688 44.745121 50.883362 57.021599">22-Feb-2024</tspan></text>
+</g>
+    </g>
+    <g id="g406">
+      <g clip-path="url(#clipPath410)" id="g408"><text id="text414" style="font-variant:normal;font-weight:normal;font-size:11.03999996px;font-family:Arial;-inkscape-font-specification:Arial;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,263.42,399.07)"><tspan id="tspan416" y="0" x="0 6.1382399 12.24336 18.381599 24.486719 27.6 33.738239 39.843361">$150.00M</tspan></text>
+</g>
+    </g>
+    <g id="g418">
+      <g clip-path="url(#clipPath422)" id="g420"><text id="text426" style="font-variant:normal;font-weight:normal;font-size:11.03999996px;font-family:Arial;-inkscape-font-specification:Arial;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,323.09,399.07)"><tspan id="tspan428" y="0" x="0 6.1382399 12.24336 18.381599 24.486719 27.6 33.738239 39.843361">$213.90M</tspan></text>
+</g>
+    </g>
+    <g id="g430">
+      <g clip-path="url(#clipPath434)" id="g432"><text id="text438" style="font-variant:normal;font-weight:normal;font-size:11.03999996px;font-family:Arial;-inkscape-font-specification:Arial;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,382.73,399.07)"><tspan id="tspan440" y="0" x="0 6.1382399 12.24336 18.381599 24.486719 27.6 33.738239 39.843361">$700.00M</tspan></text>
+</g>
+    </g>
+    <g id="g442">
+      <g clip-path="url(#clipPath446)" id="g444"><text id="text450" style="font-variant:normal;font-weight:normal;font-size:11.03999996px;font-family:Arial;-inkscape-font-specification:Arial;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,442.37,399.07)"><tspan id="tspan452" y="0" x="0 6.1382399 12.24336 18.381599 24.486719 27.6 33.738239 39.843361">$850.00M</tspan></text>
+</g>
+    </g>
+    <g id="g454">
+      <g clip-path="url(#clipPath458)" id="g456"><text id="text462" style="font-variant:normal;font-weight:normal;font-size:11.03999996px;font-family:Arial;-inkscape-font-specification:Arial;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,498.53,433.3)"><tspan id="tspan464" y="0" x="0 7.9156799 14.05392 20.15904 26.297279 32.402401 34.79808 40.936321 44.00544 47.15184 54.471359 60.6096 66.714722 69.828003 75.96624 79.642563 85.7808 91.300797 94.414078 97.527359 103.6656 106.05024 112.2768 118.41504 121.48416 127.00416 133.1424 139.28064 145.41888 151.51295 154.62624 161.94576 168.084 174.18912 177.3024 183.44064 187.11696 193.2552 196.36848 203.688 209.82623 213.50256 216.63792 222.77615 228.88129 232.59071 238.11072 241.224">Redpoint Ventures, Lightspeed Venture Partners, </tspan></text>
+</g>
+    </g>
+    <g id="g466">
+      <g clip-path="url(#clipPath470)" id="g468"><text id="text474" style="font-variant:normal;font-weight:normal;font-size:11.03999996px;font-family:Arial;-inkscape-font-specification:Arial;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,498.53,419.59)"><tspan id="tspan476" y="0" x="0 8.9975996 15.13584 20.65584 26.17584 29.244961 37.911362 44.049599 50.15472 56.292961 59.96928 66.107521 68.514236 71.627518 78.947037 82.656479 85.052162 91.278717 97.416962 103.52208 112.75152 115.8648 118.97808 126.89376 134.21329 141.53281 144.64607 152.56177 158.7 164.80511 167.20081 170.31409 176.45232 179.52144 186.88512 193.02336 199.11745 202.23071 208.36896 212.04527 218.18352 223.70352 226.8168 229.93008 237.2496 243.38783 245.77248 251.29248 257.43073 261.10703">Mass General Brigham, CVS Health Ventures, Kaiser </tspan></text>
+</g>
+    </g>
+    <g id="g478">
+      <g clip-path="url(#clipPath482)" id="g480"><text id="text486" style="font-variant:normal;font-weight:normal;font-size:11.03999996px;font-family:Arial;-inkscape-font-specification:Arial;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,498.53,405.91)"><tspan id="tspan488" y="0" x="0 7.31952 13.45776 17.134081 26.385599 32.523842 38.62896 44.7672 50.872318 53.9856 60.12384 63.192959 70.556641 76.694878 82.788963 85.902237 92.040482 95.716797 101.85504 107.37504 110.48832 113.6016 121.51728 128.83681 134.97504 141.08015 144.19344 150.33168 154.008 160.14624 165.66624 168.77953 171.89281 179.80849 182.20416 188.43073 190.8264 193.93968 200.07793 202.46255 205.57584 208.68912 214.82736 220.93248 227.07072 232.4472 238.58543 241.65456 244.10544 250.21056 256.34879">Permanente Ventures, NVentures, Digital Innovation </tspan></text>
+</g>
+    </g>
+    <g id="g490">
+      <g clip-path="url(#clipPath494)" id="g492"><text id="text498" style="font-variant:normal;font-weight:normal;font-size:11.03999996px;font-family:Arial;-inkscape-font-specification:Arial;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,498.53,392.23)"><tspan id="tspan500" y="0" x="0 6.74544 12.83952 18.97776 25.08288 28.196159 31.309441 34.422722 41.742241 49.06176 52.175041 55.288319 63.9216 70.059837 72.444481 78.582718 84.798241 90.936478 93.321121 98.841118 101.9544 105.06768 114.06528 120.20352 126.30864 132.44688 135.51601 142.87968 149.01791 155.112 158.22528 164.36353 168.03984 174.17809 179.69807 182.81136 185.92464 193.84032 199.97856 202.3632 208.50143 214.60657 217.71983 225.03935 231.26591 237.40416 243.50928 247.21872 253.35696">Fund, IVP, Gaingels, Mana Ventures, Union Square </tspan></text>
+</g>
+    </g>
+    <g id="g502">
+      <g clip-path="url(#clipPath506)" id="g504"><text id="text510" style="font-variant:normal;font-weight:normal;font-size:11.03999996px;font-family:Arial;-inkscape-font-specification:Arial;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,498.53,378.55)"><tspan id="tspan512" y="0" x="0 7.31952 13.45776 19.56288 22.676161 28.8144 32.490719 38.62896 44.14896 47.262241 50.375519 57.695042 63.833279 69.353279 74.873283 80.978401 90.20784 96.346077 100.0224 103.15776 110.47728 116.61552 122.72064 125.83392 131.97215 135.64848 141.78671 144.89999 152.21951 158.35776 162.03407 165.16943 171.30768 177.4128 181.12224 186.64224 189.75552 192.8688 203.77632 206.172 209.28528 212.39856 214.79424 220.93248 227.14799 230.26128 236.39952 242.50464">Ventures, Bessemer Venture Partners, Wittington </tspan></text>
+</g>
+    </g>
+    <g id="g514">
+      <g clip-path="url(#clipPath518)" id="g516"><text id="text522" style="font-variant:normal;font-weight:normal;font-size:11.03999996px;font-family:Arial;-inkscape-font-specification:Arial;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,498.53,364.87)"><tspan id="tspan524" y="0" x="0 7.31952 13.45776 19.56288 22.676161 28.8144 32.490719 38.62896 44.14896 47.262241 50.375519 57.695042 63.833279 69.9384 73.647842 79.278236 82.391518 90.307198 96.445442 102.55056 104.94624 108.05952 114.19776 116.5824 119.69568 122.80896 130.12848 136.26672 143.56416 150.39792 157.71744 164.55119 167.66447 174.49825 180.63647 186.15648 192.2616 198.39984 204.50496 206.90063 213.03888 219.25439 221.65009 227.78831">Ventures, Spark Capital, ApSTAT Technologies</tspan></text>
+</g>
+    </g>
+    <g id="g526">
+      <g clip-path="url(#clipPath530)" id="g528"><text id="text534" style="font-variant:normal;font-weight:normal;font-size:11.03999996px;font-family:Arial;-inkscape-font-specification:Arial;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,15,304.99)"><tspan id="tspan536" y="0" x="0 6.1382399 12.24336 15.35664 21.494881 25.1712 28.306561 35.62608 38.739361 44.877602 51.093121 57.231361 60.30048 67.664162 75.568802 78.682083 82.391518 89.711037 95.849281 99.525597 101.97648 108.07056 113.59056 116.70384 124.02336">Later Stage VC (Series B)</tspan></text>
+</g>
+    </g>
+    <g id="g538">
+      <g clip-path="url(#clipPath542)" id="g540"><text id="text546" style="font-variant:normal;font-weight:normal;font-size:11.03999996px;font-family:Arial;-inkscape-font-specification:Arial;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,181.34,304.99)"><tspan id="tspan548" y="0" x="0 6.1382399 12.24336 15.9528 24.586081 30.106079 33.21936 36.928799 43.067039 49.172161 55.310398">20-Oct-2023</tspan></text>
+</g>
+    </g>
+    <g id="g550">
+      <g clip-path="url(#clipPath554)" id="g552"><text id="text558" style="font-variant:normal;font-weight:normal;font-size:11.03999996px;font-family:Arial;-inkscape-font-specification:Arial;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,266.42,304.99)"><tspan id="tspan560" y="0" x="0 6.1382399 12.24336 18.381599 21.45072 27.588961 33.7272">$30.00M</tspan></text>
+</g>
+    </g>
+    <g id="g562">
+      <g clip-path="url(#clipPath566)" id="g564"><text id="text570" style="font-variant:normal;font-weight:normal;font-size:11.03999996px;font-family:Arial;-inkscape-font-specification:Arial;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,326.09,304.99)"><tspan id="tspan572" y="0" x="0 6.1382399 12.24336 18.381599 21.45072 27.588961 33.7272">$63.90M</tspan></text>
+</g>
+    </g>
+    <g id="g574">
+      <g clip-path="url(#clipPath578)" id="g576"><text id="text582" style="font-variant:normal;font-weight:normal;font-size:11.03999996px;font-family:Arial;-inkscape-font-specification:Arial;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,382.73,304.99)"><tspan id="tspan584" y="0" x="0 6.1382399 12.24336 18.381599 24.486719 27.6 33.738239 39.843361">$175.50M</tspan></text>
+</g>
+    </g>
+    <g id="g586">
+      <g clip-path="url(#clipPath590)" id="g588"><text id="text594" style="font-variant:normal;font-weight:normal;font-size:11.03999996px;font-family:Arial;-inkscape-font-specification:Arial;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,442.37,304.99)"><tspan id="tspan596" y="0" x="0 6.1382399 12.24336 18.381599 24.486719 27.6 33.738239 39.843361">$205.50M</tspan></text>
+</g>
+    </g>
+    <g id="g598">
+      <g clip-path="url(#clipPath602)" id="g600"><text id="text606" style="font-variant:normal;font-weight:normal;font-size:11.03999996px;font-family:Arial;-inkscape-font-specification:Arial;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,498.53,332.35)"><tspan id="tspan608" y="0" x="0 7.31952 13.45776 19.56288 23.27232 28.902719 32.015999 39.931679 46.06992 52.175041 54.570721 57.683998 63.822239 66.206879 69.32016 72.433441 80.349121 87.66864 94.988159 98.10144 106.01712 112.15536 118.26048 120.65616 123.76944 129.90768 132.97681 140.34048 146.47871 152.5728 155.68608 161.82433 165.50064 171.63889 177.15887 180.27216 183.38544 190.70496 196.8432 199.22784 204.74783 210.88608 214.56239">Spark Capital, CVS Health Ventures, Kaiser </tspan></text>
+</g>
+    </g>
+    <g id="g610">
+      <g clip-path="url(#clipPath614)" id="g612"><text id="text618" style="font-variant:normal;font-weight:normal;font-size:11.03999996px;font-family:Arial;-inkscape-font-specification:Arial;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,498.53,318.67)"><tspan id="tspan620" y="0" x="0 7.31952 13.45776 17.134081 26.385599 32.523842 38.62896 44.7672 50.872318 53.9856 60.12384 63.192959 70.556641 76.694878 82.788963 85.902237 92.040482 95.716797 101.85504 107.37504 110.48832 113.6016 119.73984 122.12448 125.34816 131.4864 138.78384 144.92207 147.30672 153.44496 156.51408 159.66048 167.57616 173.7144 179.81952 182.21519 185.32848 191.46672 194.53584 197.68224 206.67984 212.81808 218.19456 224.33279 227.40192 235.3728 237.75745 240.15312 246.29137 248.67599 254.196 257.30927">Permanente Ventures, LifePoint Health, Mayo Clinic, </tspan></text>
+</g>
+    </g>
+    <g id="g622">
+      <g clip-path="url(#clipPath626)" id="g624"><text id="text630" style="font-variant:normal;font-weight:normal;font-size:11.03999996px;font-family:Arial;-inkscape-font-specification:Arial;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,498.53,304.99)"><tspan id="tspan632" y="0" x="0 7.31952 15.2352 22.55472 30.4704 33.583679 42.216961 45.926399 52.06464 58.169762 64.307999 67.377121 70.523521 77.84304 83.981277 89.501282 95.021278 101.1264 110.35584 116.49408 120.1704 123.30576 130.62527 136.76352 142.86864 145.98192 152.12016 155.79648 161.93472 165.048 172.36752 178.50575 182.18208 185.31744 191.45567 197.56081 201.27023 206.79024 209.90352 213.0168 220.93248 228.84816">SCAN Group, Bessemer Venture Partners, UC </tspan></text>
+</g>
+    </g>
+    <g id="g634">
+      <g clip-path="url(#clipPath638)" id="g636"><text id="text642" style="font-variant:normal;font-weight:normal;font-size:11.03999996px;font-family:Arial;-inkscape-font-specification:Arial;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,498.53,291.31)"><tspan id="tspan644" y="0" x="0 3.1132801 9.2515202 14.628 20.766239 26.28624 29.35536 38.61792 44.756161 50.861279 53.97456 59.49456 62.607841 65.721123 73.040642 82.270081 88.408318 92.084641 94.535522 100.05552 106.1496 112.28784 115.35696 123.32784 129.43295 131.82864 134.22432 140.36256 146.57808 152.71632 155.78545 161.92368 165.16943 168.28271 176.19839 182.33664 186.01295 192.1512 194.55792 200.69617 203.0808 209.21904 215.43456 220.83311">Investments, American College of Cardiology </tspan></text>
+</g>
+    </g>
+    <g id="g646">
+      <g clip-path="url(#clipPath650)" id="g648"><text id="text654" style="font-variant:normal;font-weight:normal;font-size:11.03999996px;font-family:Arial;-inkscape-font-specification:Arial;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,498.53,277.61)"><tspan id="tspan656" y="0" x="0 6.74544 12.83952 18.97776 25.08288 31.221121 37.326241 40.439522 42.835201 48.973438 55.07856 58.191841 61.305119 69.220802 75.359039 77.743683 83.142242 89.280479 92.956802 98.476799 100.92768 103.9968 109.41744 112.53072 118.66896 121.8816 124.99488 132.91055 139.0488 141.43344 143.82912 147.0528 153.19104 156.86736 163.0056 165.41232 171.55057 174.61967 177.76608 180.87936 184.58881 189.98737 192.38304 198.52129 204.6264">Foundation, University of California, Irvine </tspan></text>
+</g>
+    </g>
+    <g id="g658">
+      <g clip-path="url(#clipPath662)" id="g660"><text id="text666" style="font-variant:normal;font-weight:normal;font-size:11.03999996px;font-family:Arial;-inkscape-font-specification:Arial;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,15,253.97)"><tspan id="tspan668" y="0" x="0 6.1382399 12.24336 15.35664 21.494881 25.1712 28.306561 35.62608 38.739361 44.877602 51.093121 57.231361 60.30048 67.664162 75.568802 78.682083 82.391518 89.711037 95.849281 99.525597 101.97648 108.07056 113.59056 116.70384 124.02336 130.16161">Later Stage VC (Series A1)</tspan></text>
+</g>
+    </g>
+    <g id="g670">
+      <g clip-path="url(#clipPath674)" id="g672"><text id="text678" style="font-variant:normal;font-weight:normal;font-size:11.03999996px;font-family:Arial;-inkscape-font-specification:Arial;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,179.66,253.97)"><tspan id="tspan680" y="0" x="0 6.1382399 12.24336 15.9528 24.950399 31.08864 36.465118 40.174561 46.312801 52.417919 58.55616">18-May-2023</tspan></text>
+</g>
+    </g>
+    <g id="g682">
+      <g clip-path="url(#clipPath686)" id="g684"><text id="text690" style="font-variant:normal;font-weight:normal;font-size:11.03999996px;font-family:Arial;-inkscape-font-specification:Arial;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,269.54,253.97)"><tspan id="tspan692" y="0" x="0 6.1382399 12.24336 15.35664 21.494881 27.6">$6.40M</tspan></text>
+</g>
+    </g>
+    <g id="g694">
+      <g clip-path="url(#clipPath698)" id="g696"><text id="text702" style="font-variant:normal;font-weight:normal;font-size:11.03999996px;font-family:Arial;-inkscape-font-specification:Arial;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,326.09,253.97)"><tspan id="tspan704" y="0" x="0 6.1382399 12.24336 18.381599 21.45072 27.588961 33.7272">$33.90M</tspan></text>
+</g>
+    </g>
+    <g id="g706">
+      <g clip-path="url(#clipPath710)" id="g708"><text id="text714" style="font-variant:normal;font-weight:normal;font-size:11.03999996px;font-family:Arial;-inkscape-font-specification:Arial;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,382.73,253.97)"><tspan id="tspan716" y="0" x="0 6.1382399 12.24336 18.381599 24.486719 27.6 33.738239 39.843361">$132.50M</tspan></text>
+</g>
+    </g>
+    <g id="g718">
+      <g clip-path="url(#clipPath722)" id="g720"><text id="text726" style="font-variant:normal;font-weight:normal;font-size:11.03999996px;font-family:Arial;-inkscape-font-specification:Arial;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,442.37,253.97)"><tspan id="tspan728" y="0" x="0 6.1382399 12.24336 18.381599 24.486719 27.6 33.738239 39.843361">$138.90M</tspan></text>
+</g>
+    </g>
+    <g id="g730">
+      <g clip-path="url(#clipPath734)" id="g732"><text id="text738" style="font-variant:normal;font-weight:normal;font-size:11.03999996px;font-family:Arial;-inkscape-font-specification:Arial;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,498.53,253.97)"><tspan id="tspan740" y="0" x="0 3.1132801 10.4328 17.752319 20.865601 28.781281 34.919521 41.024639 43.420319 46.5336">IKS Health</tspan></text>
+</g>
+    </g>
+    <g id="g742">
+      <g clip-path="url(#clipPath746)" id="g744"><text id="text750" style="font-variant:normal;font-weight:normal;font-size:11.03999996px;font-family:Arial;-inkscape-font-specification:Arial;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,15,217.37)"><tspan id="tspan752" y="0" x="0 7.31952 13.45776 17.134081 19.584961 24.961439 28.07472 35.394241 38.507519 44.64576 50.861279 56.999519 60.068642 67.43232 75.33696 78.450241 82.159683 89.479202 95.617439 99.293762 101.74464 107.83872 113.35872 116.472 123.79152 129.92976">Early Stage VC (Series A1)</tspan></text>
+</g>
+    </g>
+    <g id="g754">
+      <g clip-path="url(#clipPath758)" id="g756"><text id="text762" style="font-variant:normal;font-weight:normal;font-size:11.03999996px;font-family:Arial;-inkscape-font-specification:Arial;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,180.14,217.37)"><tspan id="tspan764" y="0" x="0 6.1382399 12.24336 15.9528 23.27232 29.410561 35.62608 39.335522 45.473759 51.57888 57.717121">11-Aug-2022</tspan></text>
+</g>
+    </g>
+    <g id="g766">
+      <g clip-path="url(#clipPath770)" id="g768"><text id="text774" style="font-variant:normal;font-weight:normal;font-size:11.03999996px;font-family:Arial;-inkscape-font-specification:Arial;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,266.42,217.37)"><tspan id="tspan776" y="0" x="0 6.1382399 12.24336 18.381599 21.45072 27.588961 33.7272">$12.50M</tspan></text>
+</g>
+    </g>
+    <g id="g778">
+      <g clip-path="url(#clipPath782)" id="g780"><text id="text786" style="font-variant:normal;font-weight:normal;font-size:11.03999996px;font-family:Arial;-inkscape-font-specification:Arial;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,326.09,217.37)"><tspan id="tspan788" y="0" x="0 6.1382399 12.24336 18.381599 21.45072 27.588961 33.7272">$27.50M</tspan></text>
+</g>
+    </g>
+    <g id="g790">
+      <g clip-path="url(#clipPath794)" id="g792"><text id="text798" style="font-variant:normal;font-weight:normal;font-size:11.03999996px;font-family:Arial;-inkscape-font-specification:Arial;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,382.73,217.37)"><tspan id="tspan800" y="0" x="0 6.1382399 12.24336 18.381599 24.486719 27.6 33.738239 39.843361">$120.00M</tspan></text>
+</g>
+    </g>
+    <g id="g802">
+      <g clip-path="url(#clipPath806)" id="g804"><text id="text810" style="font-variant:normal;font-weight:normal;font-size:11.03999996px;font-family:Arial;-inkscape-font-specification:Arial;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,442.37,217.37)"><tspan id="tspan812" y="0" x="0 6.1382399 12.24336 18.381599 24.486719 27.6 33.738239 39.843361">$132.50M</tspan></text>
+</g>
+    </g>
+    <g id="g814">
+      <g clip-path="url(#clipPath818)" id="g816"><text id="text822" style="font-variant:normal;font-weight:normal;font-size:11.03999996px;font-family:Arial;-inkscape-font-specification:Arial;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,498.53,237.89)"><tspan id="tspan824" y="0" x="0 10.90752 13.3032 16.416479 19.52976 21.92544 28.063681 34.279202 37.392479 43.53072 49.635841 52.749119 60.068642 66.206879 72.311996 75.425278 81.563522 85.239838 91.378082 96.898079 100.01136 103.12464 111.04032 118.35984 127.35744 135.27312 138.3864 145.70592 151.84416 154.91328 161.05151 164.772 170.91023 174.58656 177.03745 182.55743 188.65152 194.17152 197.28481 200.39809 211.3056 217.44383 219.82848 225.34848 228.46176 230.85744 236.99568 240.672">Wittington Ventures, UPMC Enterprises, Whistler </tspan></text>
+</g>
+    </g>
+    <g id="g826">
+      <g clip-path="url(#clipPath830)" id="g828"><text id="text834" style="font-variant:normal;font-weight:normal;font-size:11.03999996px;font-family:Arial;-inkscape-font-specification:Arial;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,498.53,224.21)"><tspan id="tspan836" y="0" x="0 7.9156799 14.05392 20.15904 22.55472 25.667999 31.80624 34.19088 37.304161 44.62368 50.761921 54.43824 57.573601 63.711842 69.816963 73.526398 79.046402 82.159683 85.272957 92.592484 98.730721 104.25072 109.77072 115.87584 125.10528 131.24352 134.91985 138.05521 145.37473 151.51295 157.61807 160.73135 166.8696 170.54591 176.68416 179.79744 187.11696 193.2552 196.93152 200.06688 206.20512 212.31024 216.01968 221.53967 224.65295 227.76624 235.08575 237.48145 239.87712 242.2728 248.41104 252.08736">Capital Partners, Bessemer Venture Partners, Pillar </tspan></text>
+</g>
+    </g>
+    <g id="g838">
+      <g clip-path="url(#clipPath842)" id="g840"><text id="text846" style="font-variant:normal;font-weight:normal;font-size:11.03999996px;font-family:Arial;-inkscape-font-specification:Arial;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,498.53,210.53)"><tspan id="tspan848" y="0" x="0 7.31952 15.2352 18.34848 21.46176 29.377439 35.515678 37.900318 44.038559 50.143681 53.256962 60.576481 66.80304 72.941277 79.046402 82.755836 88.894081 91.963203 99.326881 105.46512 111.5592 114.67248 120.81072 124.48704 130.62527 136.14528 139.25856 142.37184 149.69136 152.80464 156.51408 158.90976 165.048 168.11713 175.4808 181.61903 187.71312 190.8264 196.96465 200.64096 206.77921 212.29919 215.41248 218.52576 225.84528 231.98352 237.50352 243.60864 249.74689 255.85201">VC, Union Square Ventures, Atria Ventures, Yoshua </tspan></text>
+</g>
+    </g>
+    <g id="g850">
+      <g clip-path="url(#clipPath854)" id="g852"><text id="text858" style="font-variant:normal;font-weight:normal;font-size:11.03999996px;font-family:Arial;-inkscape-font-specification:Arial;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,498.53,196.85)"><tspan id="tspan860" y="0" x="0 7.31952 13.45776 19.56288 25.78944 28.18512 34.32336 37.392479 40.538879 46.67712 52.782242 58.920479 65.025597 67.42128 72.941277 76.054558 79.167839 85.306084 90.682564 96.820801 102.3408 105.40992 107.8608 113.3808 118.9008 125.00592 134.23537 140.3736 146.47871">Bengio, Leonis Investissement</tspan></text>
+</g>
+    </g>
+    <g id="g862">
+      <g clip-path="url(#clipPath866)" id="g864"><text id="text870" style="font-variant:normal;font-weight:normal;font-size:11.03999996px;font-family:Arial;-inkscape-font-specification:Arial;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,15,174.05)"><tspan id="tspan872" y="0" x="0 7.31952 13.45776 17.134081 19.584961 24.961439 28.07472 35.394241 38.507519 44.64576 50.861279 56.999519 60.068642 67.43232 75.33696 78.450241 82.159683 89.479202 95.617439 99.293762 101.74464 107.83872 113.35872 116.472 123.79152">Early Stage VC (Series A)</tspan></text>
+</g>
+    </g>
+    <g id="g874">
+      <g clip-path="url(#clipPath878)" id="g876"><text id="text882" style="font-variant:normal;font-weight:normal;font-size:11.03999996px;font-family:Arial;-inkscape-font-specification:Arial;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,181.34,174.05)"><tspan id="tspan884" y="0" x="0 6.1382399 12.24336 15.9528 24.586081 30.106079 33.21936 36.928799 43.067039 49.172161 55.310398">06-Oct-2020</tspan></text>
+</g>
+    </g>
+    <g id="g886">
+      <g clip-path="url(#clipPath890)" id="g888"><text id="text894" style="font-variant:normal;font-weight:normal;font-size:11.03999996px;font-family:Arial;-inkscape-font-specification:Arial;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,266.42,174.05)"><tspan id="tspan896" y="0" x="0 6.1382399 12.24336 18.381599 21.45072 27.588961 33.7272">$10.00M</tspan></text>
+</g>
+    </g>
+    <g id="g898">
+      <g clip-path="url(#clipPath902)" id="g900"><text id="text906" style="font-variant:normal;font-weight:normal;font-size:11.03999996px;font-family:Arial;-inkscape-font-specification:Arial;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,326.09,174.05)"><tspan id="tspan908" y="0" x="0 6.1382399 12.24336 18.381599 21.45072 27.588961 33.7272">$15.00M</tspan></text>
+</g>
+    </g>
+    <g id="g910">
+      <g clip-path="url(#clipPath914)" id="g912"><text id="text918" style="font-variant:normal;font-weight:normal;font-size:11.03999996px;font-family:Arial;-inkscape-font-specification:Arial;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,385.73,174.05)"><tspan id="tspan920" y="0" x="0 6.1382399 12.24336 18.381599 21.45072 27.588961 33.7272">$48.00M</tspan></text>
+</g>
+    </g>
+    <g id="g922">
+      <g clip-path="url(#clipPath926)" id="g924"><text id="text930" style="font-variant:normal;font-weight:normal;font-size:11.03999996px;font-family:Arial;-inkscape-font-specification:Arial;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,445.37,174.05)"><tspan id="tspan932" y="0" x="0 6.1382399 12.24336 18.381599 21.45072 27.588961 33.7272">$58.00M</tspan></text>
+</g>
+    </g>
+    <g id="g934">
+      <g clip-path="url(#clipPath938)" id="g936"><text id="text942" style="font-variant:normal;font-weight:normal;font-size:11.03999996px;font-family:Arial;-inkscape-font-specification:Arial;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,498.53,180.89)"><tspan id="tspan944" y="0" x="0 7.9156799 15.2352 24.2328 32.148479 35.261761 42.58128 48.719521 51.788639 57.92688 61.647362 67.785599 71.461922 73.912804 79.4328 85.526878 91.046883 94.160156 97.273438 105.18912 111.32736 113.712 119.85024 125.95536 129.06863 136.38815 142.61472 148.75296 154.85808 158.56752 164.70576 167.77489 175.13857 181.27679 187.37088 190.48416 196.62241 200.29872 206.43697 211.95695 215.07024 218.18352 225.50304 231.64128 238.45296">UPMC Enterprises, Union Square Ventures, KdT </tspan></text>
+</g>
+    </g>
+    <g id="g946">
+      <g clip-path="url(#clipPath950)" id="g948"><text id="text954" style="font-variant:normal;font-weight:normal;font-size:11.03999996px;font-family:Arial;-inkscape-font-specification:Arial;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,498.53,167.21)"><tspan id="tspan956" y="0" x="0 7.31952 13.45776 19.56288 22.676161 28.8144 32.490719 38.62896 44.14896 47.262241 50.375519 57.695042 60.090721 62.486401 64.88208 71.020317 74.69664 77.832001 85.15152 93.0672 96.180481 99.293762 106.61328 112.75152 118.27152 123.79152 129.89664 139.12608 145.26431 148.94064 152.076 159.39552 165.53375 171.63889 174.75217 180.8904 184.56673 190.70496 193.81824 201.13776 207.276 210.95232 214.08768 220.22592 226.33104 230.04048">Ventures, Pillar VC, Bessemer Venture Partners</tspan></text>
+</g>
+    </g>
+    <g id="g958">
+      <g clip-path="url(#clipPath962)" id="g960"><text id="text966" style="font-variant:normal;font-weight:normal;font-size:11.03999996px;font-family:Arial;-inkscape-font-specification:Arial;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,15,151.97)"><tspan id="tspan968" y="0" x="0 7.31952 13.45776 19.56288 25.70112 28.770241 36.741119 42.846241 48.984482 55.0896">Seed Round</tspan></text>
+</g>
+    </g>
+    <g id="g970">
+      <g clip-path="url(#clipPath974)" id="g972"><text id="text978" style="font-variant:normal;font-weight:normal;font-size:11.03999996px;font-family:Arial;-inkscape-font-specification:Arial;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,181.1,151.97)"><tspan id="tspan980" y="0" x="0 6.1382399 12.24336 15.9528 21.472799 27.61104 33.71616 37.425598 43.563839 49.668961 55.807201">31-Jan-2019</tspan></text>
+</g>
+    </g>
+    <g id="g982">
+      <g clip-path="url(#clipPath986)" id="g984"><text id="text990" style="font-variant:normal;font-weight:normal;font-size:11.03999996px;font-family:Arial;-inkscape-font-specification:Arial;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,269.54,151.97)"><tspan id="tspan992" y="0" x="0 6.1382399 12.24336 15.35664 21.494881 27.6">$5.00M</tspan></text>
+</g>
+    </g>
+    <g id="g994">
+      <g clip-path="url(#clipPath998)" id="g996"><text id="text1002" style="font-variant:normal;font-weight:normal;font-size:11.03999996px;font-family:Arial;-inkscape-font-specification:Arial;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,329.21,151.97)"><tspan id="tspan1004" y="0" x="0 6.1382399 12.24336 15.35664 21.494881 27.6">$5.00M</tspan></text>
+</g>
+    </g>
+    <g id="g1006">
+      <g clip-path="url(#clipPath1010)" id="g1008"><text id="text1014" style="font-variant:normal;font-weight:normal;font-size:11.03999996px;font-family:Arial;-inkscape-font-specification:Arial;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,385.73,151.97)"><tspan id="tspan1016" y="0" x="0 6.1382399 12.24336 18.381599 21.45072 27.588961 33.7272">$15.00M</tspan></text>
+</g>
+    </g>
+    <g id="g1018">
+      <g clip-path="url(#clipPath1022)" id="g1020"><text id="text1026" style="font-variant:normal;font-weight:normal;font-size:11.03999996px;font-family:Arial;-inkscape-font-specification:Arial;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,445.37,151.97)"><tspan id="tspan1028" y="0" x="0 6.1382399 12.24336 18.381599 21.45072 27.588961 33.7272">$20.00M</tspan></text>
+</g>
+    </g>
+    <g id="g1030">
+      <g clip-path="url(#clipPath1034)" id="g1032">
+        <path id="path1038" style="fill:none;stroke:#000000;stroke-width:0.14;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" d="m 12.54,600.42 0,-452.62"/>
+        <path id="path1040" style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" d="m 12.48,147.74 0.96,0 0,452.74 -0.96,0 0,-452.74 z"/>
+        <path id="path1042" style="fill:none;stroke:#000000;stroke-width:0.14;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" d="m 164.84,599.46 0,-451.66"/>
+        <path id="path1044" style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" d="m 164.78,147.74 0.96001,0 0,451.78 -0.96001,0 0,-451.78 z"/>
+        <path id="path1046" style="fill:none;stroke:#000000;stroke-width:0.14;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" d="m 257.48,599.46 0,-451.66"/>
+        <path id="path1048" style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" d="m 257.42,147.74 0.95999,0 0,451.78 -0.95999,0 0,-451.78 z"/>
+        <path id="path1050" style="fill:none;stroke:#000000;stroke-width:0.14;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" d="m 317.15,599.46 0,-451.66"/>
+        <path id="path1052" style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" d="m 317.09,147.74 0.95999,0 0,451.78 -0.95999,0 0,-451.78 z"/>
+        <path id="path1054" style="fill:none;stroke:#000000;stroke-width:0.14;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" d="m 376.79,599.46 0,-451.66"/>
+        <path id="path1056" style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" d="m 376.73,147.74 0.95999,0 0,451.78 -0.95999,0 0,-451.78 z"/>
+        <path id="path1058" style="fill:none;stroke:#000000;stroke-width:0.14;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" d="m 436.43,599.46 0,-451.66"/>
+        <path id="path1060" style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" d="m 436.37,147.74 0.95999,0 0,451.78 -0.95999,0 0,-451.78 z"/>
+        <path id="path1062" style="fill:none;stroke:#000000;stroke-width:0.14;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" d="m 496.07,599.46 0,-451.66"/>
+        <path id="path1064" style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" d="m 496.01,147.74 0.96002,0 0,451.78 -0.96002,0 0,-451.78 z"/>
+        <path id="path1066" style="fill:none;stroke:#000000;stroke-width:0.14;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" d="m 765.28,599.46 0,-451.66"/>
+        <path id="path1068" style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" d="m 765.22,147.74 0.96002,0 0,451.78 -0.96002,0 0,-451.78 z"/>
+        <path id="path1070" style="fill:none;stroke:#000000;stroke-width:0.14;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" d="m 13.5,600.42 752.62,0"/>
+        <path id="path1072" style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" d="m 13.44,599.52 752.74,0 0,0.96 -752.74,0 0,-0.96 z"/>
+        <path id="path1074" style="fill:none;stroke:#000000;stroke-width:0.14;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" d="m 13.5,569.94 752.62,0"/>
+        <path id="path1076" style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" d="m 13.44,569.02 752.74,0 0,0.984 -752.74,0 0,-0.984 z"/>
+        <path id="path1078" style="fill:none;stroke:#000000;stroke-width:0.14;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" d="m 13.5,541 752.62,0"/>
+        <path id="path1080" style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" d="m 13.44,540.1 752.74,0 0,0.96 -752.74,0 0,-0.96 z"/>
+        <path id="path1082" style="fill:none;stroke:#000000;stroke-width:0.14;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" d="m 13.5,454.12 752.62,0"/>
+        <path id="path1084" style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" d="m 13.44,453.22 752.74,0 0,0.95999 -752.74,0 0,-0.95999 z"/>
+        <path id="path1086" style="fill:none;stroke:#000000;stroke-width:0.14;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" d="m 13.5,352.81 752.62,0"/>
+        <path id="path1088" style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" d="m 13.44,351.91 752.74,0 0,0.96002 -752.74,0 0,-0.96002 z"/>
+        <path id="path1090" style="fill:none;stroke:#000000;stroke-width:0.14;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" d="m 13.5,265.91 752.62,0"/>
+        <path id="path1092" style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" d="m 13.44,265.01 752.74,0 0,0.95999 -752.74,0 0,-0.95999 z"/>
+        <path id="path1094" style="fill:none;stroke:#000000;stroke-width:0.14;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" d="m 13.5,250.67 752.62,0"/>
+        <path id="path1096" style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" d="m 13.44,249.77 752.74,0 0,0.95999 -752.74,0 0,-0.95999 z"/>
+        <path id="path1098" style="fill:none;stroke:#000000;stroke-width:0.14;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" d="m 13.5,192.83 752.62,0"/>
+        <path id="path1100" style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" d="m 13.44,191.93 752.74,0 0,0.95999 -752.74,0 0,-0.95999 z"/>
+        <path id="path1102" style="fill:none;stroke:#000000;stroke-width:0.14;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" d="m 13.5,163.91 752.62,0"/>
+        <path id="path1104" style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" d="m 13.44,163.01 752.74,0 0,0.95999 -752.74,0 0,-0.95999 z"/>
+        <path id="path1106" style="fill:none;stroke:#000000;stroke-width:0.14;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" d="m 13.5,148.67 752.62,0"/>
+        <path id="path1108" style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" d="m 13.44,147.74 752.74,0 0,0.98401 -752.74,0 0,-0.98401 z"/>
+      </g>
+    </g>
+  </g>
+</svg>
