@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" viewBox="63.01625 228.45 639 533" height="533" width="639" xml:space="preserve" version="1.1" id="svg2">
+  <metadata id="metadata8">
+    <rdf:RDF>
+      <cc:Work rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs id="defs6">
+    <clipPath id="clipPath16" clipPathUnits="userSpaceOnUse">
+      <path style="clip-rule:evenodd" id="path18" d="m 50.4,182.88 511.2,0 0,426.36 -511.2,0 0,-426.36 z"/>
+    </clipPath>
+    <clipPath id="clipPath26" clipPathUnits="userSpaceOnUse">
+      <path style="clip-rule:evenodd" id="path28" d="m 50.4,182.88 511.2,0 0,426.36 -511.2,0 0,-426.36 z"/>
+    </clipPath>
+    <clipPath id="clipPath42" clipPathUnits="userSpaceOnUse">
+      <path style="clip-rule:evenodd" id="path44" d="m 50.52,182.88 511.08,0 0,426.24 -511.08,0 0,-426.24 z"/>
+    </clipPath>
+    <clipPath id="clipPath54" clipPathUnits="userSpaceOnUse">
+      <path style="clip-rule:evenodd" id="path56" d="m 50.52,182.88 511.08,0 0,426.24 -511.08,0 0,-426.24 z"/>
+    </clipPath>
+    <clipPath id="clipPath66" clipPathUnits="userSpaceOnUse">
+      <path style="clip-rule:evenodd" id="path68" d="m 184.68,522.72 211.8,0 0,46.56 -211.8,0 0,-46.56 z"/>
+    </clipPath>
+    <clipPath id="clipPath80" clipPathUnits="userSpaceOnUse">
+      <path style="clip-rule:evenodd" id="path82" d="m 50.52,182.88 511.08,0 0,426.24 -511.08,0 0,-426.24 z"/>
+    </clipPath>
+    <clipPath id="clipPath94" clipPathUnits="userSpaceOnUse">
+      <path style="clip-rule:evenodd" id="path96" d="m 50.52,182.88 511.08,0 0,426.24 -511.08,0 0,-426.24 z"/>
+    </clipPath>
+    <clipPath id="clipPath108" clipPathUnits="userSpaceOnUse">
+      <path style="clip-rule:evenodd" id="path110" d="m 50.52,182.88 511.08,0 0,426.24 -511.08,0 0,-426.24 z"/>
+    </clipPath>
+  </defs>
+  <g transform="matrix(1.25,0,0,-1.25,0,990)" id="g10">
+    <g id="g12">
+      <g clip-path="url(#clipPath16)" id="g14">
+        <path id="path20" style="fill:none;stroke:#000000;stroke-width:0.14;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:0" d="m 50.483,182.84 511.18,0 0,426.36 -511.18,0 0,-426.36 z"/>
+      </g>
+    </g>
+    <g id="g22">
+      <g clip-path="url(#clipPath26)" id="g24">
+        <path id="path30" style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none" d="m 50.483,182.84 511.18,0 0,426.36 -511.18,0 0,-426.36 z"/>
+      </g>
+    </g>
+    <path id="path32" style="fill:#005aa4;fill-opacity:1;fill-rule:evenodd;stroke:none" d="m 306.07,584.58 c 68.22,0 123.53,-55.3 123.53,-123.52 0,-68.23 -55.31,-123.53 -123.53,-123.53 -0.69,0 -1.39,0.01 -2.09,0.02 l 2.09,123.51 0,123.52 z"/>
+    <path id="path34" style="fill:#dac78a;fill-opacity:1;fill-rule:evenodd;stroke:none" d="m 303.98,337.55 c -68.21,1.15 -122.57,57.38 -121.42,125.59 0.81,47.99 29.34,91.16 73.16,110.72 l 50.35,-112.8 -2.09,-123.51 z"/>
+    <path id="path36" style="fill:#226b5a;fill-opacity:1;fill-rule:evenodd;stroke:none" d="m 255.72,573.86 c 15.85,7.07 33,10.72 50.35,10.72 l 0,-123.52 -50.35,112.8 z"/>
+    <g id="g38">
+      <g clip-path="url(#clipPath42)" id="g40"><text id="text46" style="font-variant:normal;font-weight:normal;font-size:26.83200073px;font-family:'Roboto Condensed';-inkscape-font-specification:RobotoCondensed-Regular;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,353.4,456.55)"><tspan id="tspan48" y="0" x="0 13.152008 26.304016">50%</tspan></text>
+</g>
+    </g>
+    <g id="g50">
+      <g clip-path="url(#clipPath54)" id="g52"><text id="text58" style="font-variant:normal;font-weight:normal;font-size:26.8560009px;font-family:'Roboto Condensed';-inkscape-font-specification:RobotoCondensed-Regular;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,214.97,449.52)"><tspan id="tspan60" y="0" x="0 13.151864 26.303728">43%</tspan></text>
+</g>
+    </g>
+    <g id="g62">
+      <g clip-path="url(#clipPath66)" id="g64"><text id="text70" style="font-variant:normal;font-weight:normal;font-size:26.8560009px;font-family:'Roboto Condensed';-inkscape-font-specification:RobotoCondensed-Regular;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,275.62,536.57)"><tspan id="tspan72" y="0" x="0 13.151864">7%</tspan></text>
+</g>
+    </g>
+    <path id="path74" style="fill:#005aa4;fill-opacity:1;fill-rule:evenodd;stroke:none" d="m 143.41,286.88 12.082,0 0,12.082 -12.082,0 0,-12.082 z"/>
+    <g id="g76">
+      <g clip-path="url(#clipPath80)" id="g78"><text id="text84" style="font-variant:normal;font-weight:normal;font-size:22.29599953px;font-family:'Roboto Condensed';-inkscape-font-specification:RobotoCondensed-Regular;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,165.83578,286.18)"><tspan id="tspan86" y="0" x="0 11.549328 21.983856 27.08964 32.195423 37.591057 48.38232 59.374249 63.632786 68.738571 82.138466 92.57299 103.36426 113.79878 120.57677 131.25655 136.36234 141.46812 153.79781 158.90359 171.74609 182.8049 199.70528 204.81105 215.60233 220.7081 230.87508 237.56387 244.34186 255.02165 261.71045 266.81622 276.4704">Selling, General &amp; Administrative</tspan></text>
+</g>
+    </g>
+    <path id="path88" style="fill:#dac78a;fill-opacity:1;fill-rule:evenodd;stroke:none" d="m 143.41,246.87 12.082,0 0,12.082 -12.082,0 0,-12.082 z"/>
+    <g id="g90">
+      <g clip-path="url(#clipPath94)" id="g92"><text id="text98" style="font-variant:normal;font-weight:normal;font-size:22.29599953px;font-family:'Roboto Condensed';-inkscape-font-specification:RobotoCondensed-Regular;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,165.83578,246.17)"><tspan id="tspan100" y="0" x="0 11.839176 22.273705 32.440681 42.9198 53.599583 60.600529 70.789803 81.558769 86.664551 98.971947 104.07773 116.69727 127.13179 136.80826 147.24278 152.34857 163.65263 174.64456 191.56723 202.00175 212.79303">Research &amp; Development</tspan></text>
+</g>
+    </g>
+    <path id="path102" style="fill:#226b5a;fill-opacity:1;fill-rule:evenodd;stroke:none" d="m 143.41,206.87 12.082,0 0,12.082 -12.082,0 0,-12.082 z"/>
+    <g id="g104">
+      <g clip-path="url(#clipPath108)" id="g106"><text id="text112" style="font-variant:normal;font-weight:normal;font-size:22.29599953px;font-family:'Roboto Condensed';-inkscape-font-specification:RobotoCondensed-Regular;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,165.83578,206.16)"><tspan id="tspan114" y="0" x="0 12.641832 23.879017 34.045994 40.779385 45.885166 57.14465 64.190186 69.295967 80.845299 91.525078 96.630867 107.06539 117.23237 122.33815 130.69916 135.80493 148.66972 159.68394 169.85092 176.58432 181.69011 192.94958 199.99512 205.10091 218.43391 229.44814 240.70761 251.9671 262.13406 267.23987 278.78918 290.07095 295.17676">Cost of Sales / Cost of Goods Sold</tspan></text>
+</g>
+    </g>
+  </g>
+</svg>
