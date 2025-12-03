@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" viewBox="23.13563 21.752517 480.86437 193" height="193" width="480.86437" xml:space="preserve" version="1.1" id="svg2">
+  <metadata id="metadata8">
+    <rdf:RDF>
+      <cc:Work rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs id="defs6">
+    <clipPath id="clipPath16" clipPathUnits="userSpaceOnUse">
+      <path style="clip-rule:evenodd" id="path18" d="m 15.36,440.21 387.84,0 0,159.07 -387.84,0 0,-159.07 z"/>
+    </clipPath>
+    <clipPath id="clipPath26" clipPathUnits="userSpaceOnUse">
+      <path id="path28" d="m 0,0 304.49,0 0,129.75 L 0,129.75 0,0 Z"/>
+    </clipPath>
+    <clipPath id="clipPath34" clipPathUnits="userSpaceOnUse">
+      <path style="clip-rule:evenodd" id="path36" d="m 0.75,0.0046997 303.75,0 0,129.0000003 -303.75,0 0,-129.0000003 z"/>
+    </clipPath>
+    <clipPath id="clipPath144" clipPathUnits="userSpaceOnUse">
+      <path style="clip-rule:evenodd" id="path146" d="m 0,0.0046997 304.5,0 0,129.7500003 -304.5,0 L 0,0.0046997 Z"/>
+    </clipPath>
+  </defs>
+  <g transform="matrix(1.25,0,0,-1.25,0,765)" id="g10">
+    <g id="g12">
+      <g clip-path="url(#clipPath16)" id="g14">
+        <g transform="matrix(5.3905,0,0,2.2092,15.36,440.21)" id="g20">
+          <g transform="scale(0.23646,0.55489)" id="g22">
+            <g clip-path="url(#clipPath26)" id="g24">
+              <g id="g30">
+                <g clip-path="url(#clipPath34)" id="g32"><path id="path38" style="fill:#f2dcdb;fill-opacity:1;fill-rule:evenodd;stroke:none" d="m 123.3,39.23 60.9,0 0,13.575 -60.9,0 0,-13.575 z"/><text id="text40" style="font-variant:normal;font-weight:bold;font-size:9.80000019px;font-family:Arial;-inkscape-font-specification:'Arial Bold';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,144.35,119.2)"><tspan id="tspan42" y="0" x="0 2.9890001 9.0061998 14.2786 20.295799 24.794001 27.792801 33.810001">Investor</tspan></text>
+<text id="text44" style="font-variant:normal;font-weight:bold;font-size:9.80000019px;font-family:Arial;-inkscape-font-specification:'Arial Bold';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,262.4,119.2)"><tspan id="tspan46" y="0" x="0 2.9890001 9.0061998 14.2786 20.295799 24.794001 27.792801 33.810001">Investee</tspan></text>
+<text id="text48" style="font-variant:normal;font-weight:normal;font-size:9.80000019px;font-family:Arial;-inkscape-font-specification:Arial;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,2.25,93.555)"><tspan id="tspan50" y="0" x="0 6.7718 12.0442 15.0332 18.0222 24.784201 30.056601 32.3008 37.5732">Net Sales</tspan></text>
+<text id="text52" style="font-variant:normal;font-weight:normal;font-size:9.80000019px;font-family:Arial;-inkscape-font-specification:Arial;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,163.15,93.555)"><tspan id="tspan54" y="0" x="0 5.2747998 10.5496">100</tspan></text>
+<text id="text56" style="font-variant:normal;font-weight:normal;font-size:9.80000019px;font-family:Arial;-inkscape-font-specification:Arial;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,288.73,93.555)"><tspan id="tspan58" y="0" x="0 5.2747998">20</tspan></text>
+<text id="text60" style="font-variant:normal;font-weight:normal;font-size:9.80000019px;font-family:Arial;-inkscape-font-specification:Arial;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,2.25,80.73)"><tspan id="tspan62" y="0" x="0 6.7718 14.2982 21.8246">COGS</tspan></text>
+<text id="text64" style="font-variant:normal;font-weight:normal;font-size:9.80000019px;font-family:Arial;-inkscape-font-specification:Arial;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,168.42,80.73)"><tspan id="tspan66" y="0" x="0 5.2747998">30</tspan></text>
+<text id="text68" style="font-variant:normal;font-weight:normal;font-size:9.80000019px;font-family:Arial;-inkscape-font-specification:Arial;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,293.97,80.73)"><tspan id="tspan70" y="0" x="0">4</tspan></text>
+<text id="text72" style="font-variant:normal;font-weight:normal;font-size:9.80000019px;font-family:Arial;-inkscape-font-specification:Arial;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,2.25,67.905)"><tspan id="tspan74" y="0" x="0 6.7620001 14.2884 21.0504 27.812401">SG&amp;A </tspan></text>
+<text id="text76" style="font-variant:normal;font-weight:normal;font-size:9.80000019px;font-family:Arial;-inkscape-font-specification:Arial;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,173.68,67.905)"><tspan id="tspan78" y="0" x="0">5</tspan></text>
+<text id="text80" style="font-variant:normal;font-weight:normal;font-size:9.80000019px;font-family:Arial;-inkscape-font-specification:Arial;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,293.97,67.905)"><tspan id="tspan82" y="0" x="0">2</tspan></text>
+<text id="text84" style="font-variant:normal;font-weight:normal;font-size:9.80000019px;font-family:Arial;-inkscape-font-specification:Arial;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,2.25,55.08)"><tspan id="tspan86" y="0" x="0 6.7718 13.5338">D&amp;A</tspan></text>
+<text id="text88" style="font-variant:normal;font-weight:normal;font-size:9.80000019px;font-family:Arial;-inkscape-font-specification:Arial;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,173.68,55.08)"><tspan id="tspan90" y="0" x="0">5</tspan></text>
+<text id="text92" style="font-variant:normal;font-weight:normal;font-size:9.80000019px;font-family:Arial;-inkscape-font-specification:Arial;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,293.97,55.08)"><tspan id="tspan94" y="0" x="0">2</tspan></text>
+<text id="text96" style="font-variant:normal;font-weight:normal;font-size:9.80000019px;font-family:Arial;-inkscape-font-specification:Arial;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,2.25,42.255)"><tspan id="tspan98" y="0" x="0 7.5264001 10.5154 15.7878 21.0602 24.059 27.048 29.302 34.574402 39.837002 45.109402 53.3708">Other Income</tspan></text>
+<text id="text100" style="font-variant:normal;font-weight:normal;font-size:9.80000019px;font-family:Arial;-inkscape-font-specification:Arial;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,173.68,42.255)"><tspan id="tspan102" y="0" x="0">4</tspan></text>
+<text id="text104" style="font-variant:normal;font-weight:normal;font-size:9.80000019px;font-family:Arial;-inkscape-font-specification:Arial;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,2.25,29.43)"><tspan id="tspan106" y="0" x="0 6.7620001 9.7608004 15.0332 18.0222 23.2946 28.557199 31.5462 38.308201 41.306999 46.579399 48.833401 51.077599">Pretax Profit</tspan></text>
+<text id="text108" style="font-variant:normal;font-weight:normal;font-size:9.80000019px;font-family:Arial;-inkscape-font-specification:Arial;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,168.42,29.43)"><tspan id="tspan110" y="0" x="0 5.2747998">64</tspan></text>
+<text id="text112" style="font-variant:normal;font-weight:normal;font-size:9.80000019px;font-family:Arial;-inkscape-font-specification:Arial;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,288.73,29.43)"><tspan id="tspan114" y="0" x="0 5.2747998">12</tspan></text>
+<text id="text116" style="font-variant:normal;font-weight:normal;font-size:9.80000019px;font-family:Arial;-inkscape-font-specification:Arial;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,2.25,16.605)"><tspan id="tspan118" y="0" x="0 5.2723999 10.5448 15.8074 18.7964 25.558399 30.820999 36.093399 41.365799 46.638199 51.900799">Tax Expense</tspan></text>
+<text id="text120" style="font-variant:normal;font-weight:normal;font-size:9.80000019px;font-family:Arial;-inkscape-font-specification:Arial;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,168.42,16.605)"><tspan id="tspan122" y="0" x="0 5.2747998">13</tspan></text>
+<text id="text124" style="font-variant:normal;font-weight:normal;font-size:9.80000019px;font-family:Arial;-inkscape-font-specification:Arial;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,293.97,16.605)"><tspan id="tspan126" y="0" x="0">2</tspan></text>
+<text id="text128" style="font-variant:normal;font-weight:normal;font-size:9.80000019px;font-family:Arial;-inkscape-font-specification:Arial;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,2.25,3.7797)"><tspan id="tspan130" y="0" x="0 6.7718 12.0442 15.0332 18.0222 20.276199 25.548599 30.811199 36.083599 44.345001 49.617401 52.6064 55.595402 60.867802 63.8568 70.628601 75.901001 84.162399 92.423798 97.696198">Net Income to Common</tspan></text>
+<text id="text132" style="font-variant:normal;font-weight:normal;font-size:9.80000019px;font-family:Arial;-inkscape-font-specification:Arial;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,168.42,3.7797)"><tspan id="tspan134" y="0" x="0 5.2747998">51</tspan></text>
+<text id="text136" style="font-variant:normal;font-weight:normal;font-size:9.80000019px;font-family:Arial;-inkscape-font-specification:Arial;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,288.73,3.7797)"><tspan id="tspan138" y="0" x="0 5.2747998">10</tspan></text>
+</g>
+              </g>
+              <g id="g140">
+                <g clip-path="url(#clipPath144)" id="g142">
+                  <path id="path148" style="fill:none;stroke:#000000;stroke-width:0.75;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" d="m 123.68,26.78 60.15,0"/>
+                  <path id="path150" style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" d="m 123.3,26.405 60.9,0 0,0.75 -60.9,0 0,-0.75 z"/>
+                  <path id="path152" style="fill:none;stroke:#000000;stroke-width:0.75;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" d="m 123.68,1.1547 60.15,0"/>
+                  <path id="path154" style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" d="m 123.3,0.7547 60.9,0 0,0.77499 -60.9,0 0,-0.77499 z"/>
+                  <path id="path156" style="fill:none;stroke:#000000;stroke-width:0.75;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" d="m 123.68,-0.3703 60.15,0"/>
+                  <path id="path158" style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" d="m 123.3,-0.7453 60.9,0 0,0.75 -60.9,0 0,-0.75 z"/>
+                  <path id="path160" style="fill:none;stroke:#000000;stroke-width:0.75;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" d="m 243.98,26.78 60.15,0"/>
+                  <path id="path162" style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" d="m 243.6,26.405 60.9,0 0,0.75 -60.9,0 0,-0.75 z"/>
+                  <path id="path164" style="fill:none;stroke:#000000;stroke-width:0.75;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" d="m 243.98,1.1547 60.15,0"/>
+                  <path id="path166" style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" d="m 243.6,0.7547 60.9,0 0,0.77499 -60.9,0 0,-0.77499 z"/>
+                  <path id="path168" style="fill:none;stroke:#000000;stroke-width:0.75;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" d="m 243.98,-0.3703 60.15,0"/>
+                  <path id="path170" style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" d="m 243.6,-0.7453 60.9,0 0,0.75 -60.9,0 0,-0.75 z"/>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
