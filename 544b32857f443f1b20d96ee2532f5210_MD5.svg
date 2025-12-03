@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" viewBox="0.6 3.0095948 167 58.790405" height="58.790405" width="167" xml:space="preserve" version="1.1" id="svg2">
+  <metadata id="metadata8">
+    <rdf:RDF>
+      <cc:Work rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs id="defs6">
+    <clipPath id="clipPath16" clipPathUnits="userSpaceOnUse">
+      <path style="clip-rule:evenodd" id="path18" d="m 1.92,563.04 131.66,0 0,48 -131.66,0 0,-48 z"/>
+    </clipPath>
+    <clipPath id="clipPath26" clipPathUnits="userSpaceOnUse">
+      <path style="clip-rule:evenodd" id="path28" d="m 1.92,563.04 131.66,0 0,48 -131.66,0 0,-48 z"/>
+    </clipPath>
+    <clipPath id="clipPath36" clipPathUnits="userSpaceOnUse">
+      <path style="clip-rule:evenodd" id="path38" d="m 1.92,563.04 131.66,0 0,48 -131.66,0 0,-48 z"/>
+    </clipPath>
+    <clipPath id="clipPath46" clipPathUnits="userSpaceOnUse">
+      <path style="clip-rule:evenodd" id="path48" d="m 1.92,600 131.66,0 0,11.04 -131.66,0 0,-11.04 z"/>
+    </clipPath>
+    <clipPath id="clipPath58" clipPathUnits="userSpaceOnUse">
+      <path style="clip-rule:evenodd" id="path60" d="m 1.92,588 131.66,0 0,11.04 -131.66,0 0,-11.04 z"/>
+    </clipPath>
+    <clipPath id="clipPath70" clipPathUnits="userSpaceOnUse">
+      <path style="clip-rule:evenodd" id="path72" d="m 1.92,576 131.66,0 0,11.04 -131.66,0 0,-11.04 z"/>
+    </clipPath>
+    <clipPath id="clipPath82" clipPathUnits="userSpaceOnUse">
+      <path style="clip-rule:evenodd" id="path84" d="m 1.92,564 131.66,0 0,11.04 -131.66,0 0,-11.04 z"/>
+    </clipPath>
+    <clipPath id="clipPath94" clipPathUnits="userSpaceOnUse">
+      <path style="clip-rule:evenodd" id="path96" d="m 0,561 135.62,0 0,51.96 L 0,612.96 0,561 Z"/>
+    </clipPath>
+  </defs>
+  <g transform="matrix(1.25,0,0,-1.25,0,765)" id="g10">
+    <g id="g12">
+      <g clip-path="url(#clipPath16)" id="g14">
+        <path id="path20" style="fill:#2673b2;fill-opacity:1;fill-rule:evenodd;stroke:none" d="m 1.44,587.4 131.78,0 0,12.12 -131.78,0 0,-12.12 z"/>
+      </g>
+    </g>
+    <g id="g22">
+      <g clip-path="url(#clipPath26)" id="g24">
+        <path id="path30" style="fill:#e0d19e;fill-opacity:1;fill-rule:evenodd;stroke:none" d="m 1.44,575.4 131.78,0 0,12.12 -131.78,0 0,-12.12 z"/>
+      </g>
+    </g>
+    <g id="g32">
+      <g clip-path="url(#clipPath36)" id="g34">
+        <path id="path40" style="fill:#38957f;fill-opacity:1;fill-rule:evenodd;stroke:none" d="m 1.44,563.4 131.78,0 0,12.12 -131.78,0 0,-12.12 z"/>
+      </g>
+    </g>
+    <g id="g42">
+      <g clip-path="url(#clipPath46)" id="g44"><text id="text50" style="font-variant:normal;font-weight:bold;font-size:8.03999996px;font-family:Calibri;-inkscape-font-specification:Calibri-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,61.08,604.32)"><tspan id="tspan52" y="0" x="0 4.1968799 7.9113598">CFO</tspan></text>
+</g>
+    </g>
+    <g id="g54">
+      <g clip-path="url(#clipPath58)" id="g56"><text id="text62" style="font-variant:normal;font-weight:bold;font-size:8.03999996px;font-family:Calibri;-inkscape-font-specification:Calibri-Bold;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,3,592.32)"><tspan id="tspan64" y="0" x="0 5.2983599 9.3424797 12.13236 13.91724 16.063919 20.381399 23.742121 28.06764 34.66848">Net Income</tspan></text>
+</g>
+    </g>
+    <g id="g66">
+      <g clip-path="url(#clipPath70)" id="g68"><text id="text74" style="font-variant:normal;font-weight:bold;font-size:8.03999996px;font-family:Calibri;-inkscape-font-specification:Calibri-Bold;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,3,580.32)"><tspan id="tspan76" y="0" x="0 3.9637201 7.4209199 9.9535198 11.77056 17.03676 21.36228 25.67976 28.18824 32.38512 36.35688 39.564838 43.88232 45.69936 47.846039 50.635921 54.696121 61.288921">+/- Non-Cash Items</tspan></text>
+</g>
+    </g>
+    <g id="g78">
+      <g clip-path="url(#clipPath82)" id="g80"><text id="text86" style="font-variant:normal;font-weight:bold;font-size:8.03999996px;font-family:Calibri;-inkscape-font-specification:Calibri-Bold;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,3,568.32)"><tspan id="tspan88" y="0" x="0 4.1968799 8.5143604 12.48612 16.8036 20.614559 24.706921 27.938999 29.756041 31.66152 35.979 37.79604 45.08028 49.4058 52.29216 56.15136 58.048801 62.36628 66.201363 68.018402 72.199203 76.170959 80.488441 82.401962 85.159683 89.131439">Changes in Working Capital</tspan></text>
+</g>
+    </g>
+    <g id="g90">
+      <g clip-path="url(#clipPath94)" id="g92">
+        <path id="path98" style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" d="m 0.48,562.56 1.92,0 0,37.92 -1.92,0 0,-37.92 z"/>
+        <path id="path100" style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" d="m 132.14,562.56 1.92,0 0,36 -1.92,0 0,-36 z"/>
+        <path id="path102" style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" d="m 2.4,598.56 131.66,0 0,1.92 -131.66,0 0,-1.92 z"/>
+        <path id="path104" style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" d="m 2.4,586.56 131.66,0 0,1.92 -131.66,0 0,-1.92 z"/>
+        <path id="path106" style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" d="m 2.4,574.56 131.66,0 0,1.92 -131.66,0 0,-1.92 z"/>
+        <path id="path108" style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" d="m 2.4,562.56 131.66,0 0,1.92 -131.66,0 0,-1.92 z"/>
+      </g>
+    </g>
+  </g>
+</svg>
