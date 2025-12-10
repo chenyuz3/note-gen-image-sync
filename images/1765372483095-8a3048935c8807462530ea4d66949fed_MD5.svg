@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" viewBox="63.02125 353.4875 618.0875 396.2125" height="396.2125" width="618.0875" xml:space="preserve" version="1.1" id="svg2">
+  <metadata id="metadata8">
+    <rdf:RDF>
+      <cc:Work rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs id="defs6">
+    <clipPath id="clipPath16" clipPathUnits="userSpaceOnUse">
+      <path style="clip-rule:evenodd" id="path18" d="m 50.4,242.16 494.52,0 0,317.04 -494.52,0 0,-317.04 z"/>
+    </clipPath>
+    <clipPath id="clipPath26" clipPathUnits="userSpaceOnUse">
+      <path style="clip-rule:evenodd" id="path28" d="m 50.4,242.16 494.52,0 0,317.04 -494.52,0 0,-317.04 z"/>
+    </clipPath>
+    <clipPath id="clipPath48" clipPathUnits="userSpaceOnUse">
+      <path style="clip-rule:evenodd" id="path50" d="m 50.52,242.16 494.28,0 0,316.92 -494.28,0 0,-316.92 z"/>
+    </clipPath>
+    <clipPath id="clipPath60" clipPathUnits="userSpaceOnUse">
+      <path style="clip-rule:evenodd" id="path62" d="m 50.52,242.16 494.28,0 0,316.92 -494.28,0 0,-316.92 z"/>
+    </clipPath>
+    <clipPath id="clipPath72" clipPathUnits="userSpaceOnUse">
+      <path style="clip-rule:evenodd" id="path74" d="m 50.52,242.16 494.28,0 0,316.92 -494.28,0 0,-316.92 z"/>
+    </clipPath>
+    <clipPath id="clipPath84" clipPathUnits="userSpaceOnUse">
+      <path style="clip-rule:evenodd" id="path86" d="m 50.52,242.16 494.28,0 0,316.92 -494.28,0 0,-316.92 z"/>
+    </clipPath>
+    <clipPath id="clipPath96" clipPathUnits="userSpaceOnUse">
+      <path style="clip-rule:evenodd" id="path98" d="m 50.52,242.16 494.28,0 0,316.92 -494.28,0 0,-316.92 z"/>
+    </clipPath>
+    <clipPath id="clipPath108" clipPathUnits="userSpaceOnUse">
+      <path style="clip-rule:evenodd" id="path110" d="m 50.52,242.16 494.28,0 0,316.92 -494.28,0 0,-316.92 z"/>
+    </clipPath>
+    <clipPath id="clipPath120" clipPathUnits="userSpaceOnUse">
+      <path style="clip-rule:evenodd" id="path122" d="m 50.52,242.16 494.28,0 0,316.92 -494.28,0 0,-316.92 z"/>
+    </clipPath>
+    <clipPath id="clipPath132" clipPathUnits="userSpaceOnUse">
+      <path style="clip-rule:evenodd" id="path134" d="m 50.52,242.16 494.28,0 0,316.92 -494.28,0 0,-316.92 z"/>
+    </clipPath>
+    <clipPath id="clipPath144" clipPathUnits="userSpaceOnUse">
+      <path style="clip-rule:evenodd" id="path146" d="m 50.52,242.16 494.28,0 0,316.92 -494.28,0 0,-316.92 z"/>
+    </clipPath>
+  </defs>
+  <g transform="matrix(1.25,0,0,-1.25,0,1052.4)" id="g10">
+    <g id="g12">
+      <g clip-path="url(#clipPath16)" id="g14">
+        <path id="path20" style="fill:none;stroke:#000000;stroke-width:0.14;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:0" d="m 50.487,242.12 494.33,0 0,316.94 -494.33,0 0,-316.94 z"/>
+      </g>
+    </g>
+    <g id="g22">
+      <g clip-path="url(#clipPath26)" id="g24">
+        <path id="path30" style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none" d="m 50.487,242.12 494.33,0 0,316.94 -494.33,0 0,-316.94 z"/>
+      </g>
+    </g>
+    <path id="path32" style="fill:#2673b2;fill-opacity:1;fill-rule:evenodd;stroke:none" d="M 396.77,323.15 C 354,268.41 274.95,258.71 220.21,301.47 c -54.74,42.77 -64.44,121.82 -21.67,176.56 42.76,54.74 121.81,64.44 176.55,21.67 19.28,-15.06 33.75,-35.42 41.63,-58.59 l -119.07,-40.52 99.12,-77.44 z"/>
+    <path id="path34" style="fill:none;stroke:#ffffff;stroke-width:1.75660002;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" d="M 396.77,323.15 C 354,268.41 274.95,258.71 220.21,301.47 c -54.74,42.77 -64.44,121.82 -21.67,176.56 42.76,54.74 121.81,64.44 176.55,21.67 19.28,-15.06 33.75,-35.42 41.63,-58.59 l -119.07,-40.52 99.12,-77.44 z"/>
+    <path id="path36" style="fill:#d0b86a;fill-opacity:1;fill-rule:evenodd;stroke:none" d="m 416.72,441.11 c 6.27,-18.42 8.18,-38.05 5.58,-57.33 l -124.65,16.81 119.07,40.52 z"/>
+    <path id="path38" style="fill:none;stroke:#ffffff;stroke-width:1.75660002;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" d="m 416.72,441.11 c 6.27,-18.42 8.18,-38.05 5.58,-57.33 l -124.65,16.81 119.07,40.52 z"/>
+    <path id="path40" style="fill:#38957f;fill-opacity:1;fill-rule:evenodd;stroke:none" d="m 422.3,383.78 c -2.98,-22.12 -11.8,-43.04 -25.53,-60.63 l -99.12,77.44 124.65,-16.81 z"/>
+    <path id="path42" style="fill:none;stroke:#ffffff;stroke-width:1.75660002;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" d="m 422.3,383.78 c -2.98,-22.12 -11.8,-43.04 -25.53,-60.63 l -99.12,77.44 124.65,-16.81 z"/>
+    <g id="g44">
+      <g clip-path="url(#clipPath48)" id="g46"><text id="text52" style="font-variant:normal;font-weight:normal;font-size:12.38399982px;font-family:Calibri;-inkscape-font-specification:Calibri;writing-mode:lr-tb;fill:#404040;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,132.43,437.33)"><tspan id="tspan54" y="0" x="0 6.7245121 12.656448 19.158049 24.89184">Range</tspan></text>
+</g>
+    </g>
+    <g id="g56">
+      <g clip-path="url(#clipPath60)" id="g58"><text id="text64" style="font-variant:normal;font-weight:normal;font-size:12.35999966px;font-family:Calibri;-inkscape-font-specification:Calibri;writing-mode:lr-tb;fill:#404040;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,133.85,422.28)"><tspan id="tspan66" y="0" x="0 6.3035998 9.3936005 15.6972 22.000799">4,460</tspan></text>
+</g>
+    </g>
+    <g id="g68">
+      <g clip-path="url(#clipPath72)" id="g70"><text id="text76" style="font-variant:normal;font-weight:normal;font-size:12.35999966px;font-family:Calibri;-inkscape-font-specification:Calibri;writing-mode:lr-tb;fill:#404040;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,137.23,407.23)"><tspan id="tspan78" y="0" x="0 6.3120198 12.62404">84%</tspan></text>
+</g>
+    </g>
+    <g id="g80">
+      <g clip-path="url(#clipPath84)" id="g82"><text id="text88" style="font-variant:normal;font-weight:normal;font-size:12.35999966px;font-family:Calibri;-inkscape-font-specification:Calibri;writing-mode:lr-tb;fill:#404040;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,433.49,426.41)"><tspan id="tspan90" y="0" x="0 5.6114402 12.10044 18.25572 23.422199 26.264999 32.136002 34.978802 37.77216 43.371239 49.52652 53.86488 56.70768 62.862961">Special Series</tspan></text>
+</g>
+    </g>
+    <g id="g92">
+      <g clip-path="url(#clipPath96)" id="g94"><text id="text100" style="font-variant:normal;font-weight:normal;font-size:12.38399982px;font-family:Calibri;-inkscape-font-specification:Calibri;writing-mode:lr-tb;fill:#404040;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,457.8,411.38)"><tspan id="tspan102" y="0" x="0 6.3119879 12.623976">389</tspan></text>
+</g>
+    </g>
+    <g id="g104">
+      <g clip-path="url(#clipPath108)" id="g106"><text id="text112" style="font-variant:normal;font-weight:normal;font-size:12.35999966px;font-family:Calibri;-inkscape-font-specification:Calibri;writing-mode:lr-tb;fill:#404040;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,459.77,396.34)"><tspan id="tspan114" y="0" x="0 6.3120198">7%</tspan></text>
+</g>
+    </g>
+    <g id="g116">
+      <g clip-path="url(#clipPath120)" id="g118"><text id="text124" style="font-variant:normal;font-weight:normal;font-size:12.35999966px;font-family:Calibri;-inkscape-font-specification:Calibri;writing-mode:lr-tb;fill:#404040;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,423.36,350.38)"><tspan id="tspan126" y="0" x="0 3.1147201 8.3059196 14.75784 21.24684">Icona</tspan></text>
+</g>
+    </g>
+    <g id="g128">
+      <g clip-path="url(#clipPath132)" id="g130"><text id="text136" style="font-variant:normal;font-weight:normal;font-size:12.38399982px;font-family:Calibri;-inkscape-font-specification:Calibri;writing-mode:lr-tb;fill:#404040;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,427.44,335.35)"><tspan id="tspan138" y="0" x="0 6.3119879 12.623976">446</tspan></text>
+</g>
+    </g>
+    <g id="g140">
+      <g clip-path="url(#clipPath144)" id="g142"><text id="text148" style="font-variant:normal;font-weight:normal;font-size:12.35999966px;font-family:Calibri;-inkscape-font-specification:Calibri;writing-mode:lr-tb;fill:#404040;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,429.41,320.3)"><tspan id="tspan150" y="0" x="0 6.3120198">9%</tspan></text>
+</g>
+    </g>
+  </g>
+</svg>
