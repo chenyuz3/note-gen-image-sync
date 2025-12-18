@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" viewBox="63 263.4 639 463.2" height="463.2" width="639" xml:space="preserve" version="1.1" id="svg2">
+  <metadata id="metadata8">
+    <rdf:RDF>
+      <cc:Work rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs id="defs6">
+    <clipPath id="clipPath16" clipPathUnits="userSpaceOnUse">
+      <path style="clip-rule:evenodd" id="path18" d="m 50.4,210.72 511.2,0 0,370.56 -511.2,0 0,-370.56 z"/>
+    </clipPath>
+    <clipPath id="clipPath26" clipPathUnits="userSpaceOnUse">
+      <path style="clip-rule:evenodd" id="path28" d="m 50.4,210.72 511.2,0 0,370.56 -511.2,0 0,-370.56 z"/>
+    </clipPath>
+    <clipPath id="clipPath44" clipPathUnits="userSpaceOnUse">
+      <path style="clip-rule:evenodd" id="path46" d="m 50.52,210.72 511.08,0 0,370.44 -511.08,0 0,-370.44 z"/>
+    </clipPath>
+    <clipPath id="clipPath56" clipPathUnits="userSpaceOnUse">
+      <path style="clip-rule:evenodd" id="path58" d="m 50.52,210.72 511.08,0 0,370.44 -511.08,0 0,-370.44 z"/>
+    </clipPath>
+    <clipPath id="clipPath68" clipPathUnits="userSpaceOnUse">
+      <path style="clip-rule:evenodd" id="path70" d="m 50.52,210.72 511.08,0 0,370.44 -511.08,0 0,-370.44 z"/>
+    </clipPath>
+    <clipPath id="clipPath80" clipPathUnits="userSpaceOnUse">
+      <path style="clip-rule:evenodd" id="path82" d="m 50.52,210.72 511.08,0 0,370.44 -511.08,0 0,-370.44 z"/>
+    </clipPath>
+    <clipPath id="clipPath92" clipPathUnits="userSpaceOnUse">
+      <path style="clip-rule:evenodd" id="path94" d="m 50.52,210.72 511.08,0 0,370.44 -511.08,0 0,-370.44 z"/>
+    </clipPath>
+    <clipPath id="clipPath104" clipPathUnits="userSpaceOnUse">
+      <path style="clip-rule:evenodd" id="path106" d="m 50.52,210.72 511.08,0 0,370.44 -511.08,0 0,-370.44 z"/>
+    </clipPath>
+  </defs>
+  <g transform="matrix(1.25,0,0,-1.25,0,990)" id="g10">
+    <g id="g12">
+      <g clip-path="url(#clipPath16)" id="g14">
+        <path id="path20" style="fill:none;stroke:#000000;stroke-width:0.14;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:0" d="m 50.47,210.65 511.2,0 0,370.57 -511.2,0 0,-370.57 z"/>
+      </g>
+    </g>
+    <g id="g22">
+      <g clip-path="url(#clipPath26)" id="g24">
+        <path id="path30" style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none" d="m 50.47,210.65 511.2,0 0,370.57 -511.2,0 0,-370.57 z"/>
+      </g>
+    </g>
+    <path id="path32" style="fill:#005aa4;fill-opacity:1;fill-rule:evenodd;stroke:none" d="m 306.07,518.27 c 75.23,0 136.22,-60.99 136.22,-136.22 0,-75.23 -60.99,-136.22 -136.22,-136.22 -22.35,0 -44.35,5.5 -64.08,16.01 l 64.08,120.21 0,136.22 z"/>
+    <path id="path34" style="fill:#eadfbc;fill-opacity:1;fill-rule:evenodd;stroke:none" d="m 241.99,261.84 c -11.86,6.33 -22.73,14.38 -32.23,23.88 l 96.31,96.33 -64.08,-120.21 z"/>
+    <path id="path36" style="fill:#226b5a;fill-opacity:1;fill-rule:evenodd;stroke:none" d="m 209.76,285.72 c -36.8,36.79 -49.42,91.32 -32.54,140.53 l 128.85,-44.2 -96.31,-96.33 z"/>
+    <path id="path38" style="fill:#8cd5f2;fill-opacity:1;fill-rule:evenodd;stroke:none" d="m 177.22,426.25 c 18.89,55.05 70.66,92.02 128.85,92.02 l 0,-136.22 -128.85,44.2 z"/>
+    <g id="g40">
+      <g clip-path="url(#clipPath44)" id="g42"><text id="text48" style="font-variant:normal;font-weight:normal;font-size:11.25599957px;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,449.18,341.59)"><tspan id="tspan50" y="0" x="0 5.8418641 11.120928 14.554008 19.371576 24.65064 28.083719">Servers</tspan></text>
+</g>
+    </g>
+    <g id="g52">
+      <g clip-path="url(#clipPath56)" id="g54"><text id="text60" style="font-variant:normal;font-weight:normal;font-size:11.25599957px;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,141.41,255.6)"><tspan id="tspan62" y="0" x="0 5.8418641 9.1736403 14.824152 18.257233 23.671368 29.220575 34.499641 37.020985 42.862846 47.556599 52.621799 55.90855 61.187614 69.56208">Storage Systems</tspan></text>
+</g>
+    </g>
+    <g id="g64">
+      <g clip-path="url(#clipPath68)" id="g66"><text id="text72" style="font-variant:normal;font-weight:normal;font-size:11.25599957px;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,113.33,349.32)"><tspan id="tspan74" y="0" x="0 6.9111838 12.190248 15.477 22.838425 28.53396 31.967039 37.08852">Network </tspan></text>
+</g>
+    </g>
+    <g id="g76">
+      <g clip-path="url(#clipPath80)" id="g78"><text id="text84" style="font-variant:normal;font-weight:normal;font-size:11.25599957px;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,101.47,335.81)"><tspan id="tspan86" y="0" x="0 2.8477681 8.2506475 11.841312 15.274392 20.666016 25.798752 29.130527 32.563606 38.000256 43.200527 46.532303 51.968952 55.402031">Infrastructure</tspan></text>
+</g>
+    </g>
+    <g id="g88">
+      <g clip-path="url(#clipPath92)" id="g90"><text id="text96" style="font-variant:normal;font-weight:normal;font-size:11.25599957px;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,145.42,502.03)"><tspan id="tspan98" y="0" x="0 6.427176 12.899376 19.202736 22.050505 24.448032 30.605064 33.148918 39.913776 43.245552 48.625919 53.904984 57.338062 60.039505 66.466682">DCPI &amp; Other DC</tspan></text>
+</g>
+    </g>
+    <g id="g100">
+      <g clip-path="url(#clipPath104)" id="g102"><text id="text108" style="font-variant:normal;font-weight:bold;font-size:13.80000019px;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, Bold';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,204.14,558.74)"><tspan id="tspan110" y="0" x="0 7.0380001 14.076 21.114 28.152 30.8706 38.667599 45.1674 49.321201 55.779598 59.077801 66.874802 73.485001 80.219398 84.456001 91.024803 95.537399 98.835602 102.5616 109.3512 113.8362 118.3488 124.8072 131.10001 135.33659 139.8078 146.556 152.90401 157.07159 163.81979 168.3324 174.9426 178.22701 185.7204 192.62041 196.09801 199.53419 203.7708">2025 Data Center Infrastructure Split </tspan></text>
+</g>
+    </g>
+  </g>
+</svg>
