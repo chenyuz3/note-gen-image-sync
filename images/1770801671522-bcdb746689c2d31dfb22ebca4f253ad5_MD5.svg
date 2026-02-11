@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" viewBox="15.5875 14.3875 327.65 123.65" height="123.65" width="327.65" xml:space="preserve" version="1.1" id="svg2">
+  <metadata id="metadata8">
+    <rdf:RDF>
+      <cc:Work rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs id="defs6">
+    <clipPath id="clipPath16" clipPathUnits="userSpaceOnUse">
+      <path style="clip-rule:evenodd" id="path18" d="m 13.44,501.58 261.14,0 0,97.944 -261.14,0 0,-97.944 z"/>
+    </clipPath>
+    <clipPath id="clipPath68" clipPathUnits="userSpaceOnUse">
+      <path style="clip-rule:evenodd" id="path70" d="m 13.44,574.68 260.66,0 0,24.84 -260.66,0 0,-24.84 z"/>
+    </clipPath>
+    <clipPath id="clipPath84" clipPathUnits="userSpaceOnUse">
+      <path style="clip-rule:evenodd" id="path86" d="m 11.52,499.54 265.1,0 0,101.9 -265.1,0 0,-101.9 z"/>
+    </clipPath>
+  </defs>
+  <g transform="matrix(1.25,0,0,-1.25,0,765)" id="g10">
+    <g id="g12">
+      <g clip-path="url(#clipPath16)" id="g14"><path id="path20" style="fill:#137cb1;fill-opacity:1;fill-rule:evenodd;stroke:none" d="m 12.96,574.56 261.26,0 0,25.44 -261.26,0 0,-25.44 z"/><path id="path22" style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none" d="m 12.96,501.94 261.26,0 0,72.744 -261.26,0 0,-72.744 z"/><text id="text24" style="font-variant:normal;font-weight:bold;font-size:9.96000004px;font-family:Roboto;-inkscape-font-specification:Roboto-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,14.88,563.74)"><tspan id="tspan26" y="0" x="0 6.7030802 11.73288 17.42004 20.278561">Avg. </tspan></text>
+<text id="text28" style="font-variant:normal;font-weight:normal;font-size:9.96000004px;font-family:Roboto;-inkscape-font-specification:Roboto-Regular;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,153.5,563.74)"><tspan id="tspan30" y="0" x="0 5.6273999 8.2468796 13.8942">7.7%</tspan></text>
+<text id="text32" style="font-variant:normal;font-weight:bold;font-size:9.96000004px;font-family:Roboto;-inkscape-font-specification:Roboto-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,14.88,549.22)"><tspan id="tspan34" y="0" x="0 8.7548399 14.1432 19.78056 22.41996 27.808319">Median</tspan></text>
+<text id="text36" style="font-variant:normal;font-weight:normal;font-size:9.96000004px;font-family:Roboto;-inkscape-font-specification:Roboto-Regular;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,153.5,549.22)"><tspan id="tspan38" y="0" x="0 5.6273999 8.2468796 13.8942">5.3%</tspan></text>
+<text id="text40" style="font-variant:normal;font-weight:bold;font-size:9.96000004px;font-family:Roboto;-inkscape-font-specification:Roboto-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,14.88,534.7)"><tspan id="tspan42" y="0" x="0 6.474 12.1014 17.260679 19.90008 23.26656 25.90596 30.93576 36.32412 38.853958 45.92556 48.56496 51.931438 54.4314 60.785881 66.184196 69.550682">Positive Hit Rate</tspan></text>
+<text id="text44" style="font-variant:normal;font-weight:normal;font-size:9.96000004px;font-family:Roboto;-inkscape-font-specification:Roboto-Regular;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,153.5,534.7)"><tspan id="tspan46" y="0" x="0 5.6400199 11.28004">92%</tspan></text>
+<text id="text48" style="font-variant:normal;font-weight:bold;font-size:9.96000004px;font-family:Roboto;-inkscape-font-specification:Roboto-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,14.88,520.18)"><tspan id="tspan50" y="0" x="0 8.7548399 14.1432">Max</tspan></text>
+<text id="text52" style="font-variant:normal;font-weight:normal;font-size:9.96000004px;font-family:Roboto;-inkscape-font-specification:Roboto-Regular;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,153.5,520.18)"><tspan id="tspan54" y="0" x="0 5.6273999 11.2548 13.87428 19.521601">22.6%</tspan></text>
+<text id="text56" style="font-variant:normal;font-weight:bold;font-size:9.96000004px;font-family:Roboto;-inkscape-font-specification:Roboto-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,14.88,505.66)"><tspan id="tspan58" y="0" x="0 8.7548399 11.39424">Min</tspan></text>
+<text id="text60" style="font-variant:normal;font-weight:normal;font-size:9.96000004px;font-family:Roboto;-inkscape-font-specification:Roboto-Regular;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,153.5,505.66)"><tspan id="tspan62" y="0" x="0 2.74896 8.3863201 11.0058 16.65312">-4.4%</tspan></text>
+</g>
+    </g>
+    <g id="g64">
+      <g clip-path="url(#clipPath68)" id="g66"><text id="text72" style="font-variant:normal;font-weight:bold;font-size:9.96000004px;font-family:Roboto;-inkscape-font-specification:Roboto-Bold;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,25.32,591.24)"><tspan id="tspan74" y="0" x="0 6.1254001 12.5994 19.0734 21.583321 27.33024 33.07716 38.824081 41.334 46.732319 54.052921 59.680321 62.578678 65.058723 71.552643 75.277679 80.885162 83.424957 89.171883 94.9188 103.67364 106.18356 112.53804 117.93636 121.30284 126.6912 129.21107 134.83849 138.444 140.95392 147.43788 152.95572 158.59308 161.49144 163.97148 166.61089 172.14864 174.65855 179.80788 182.32776 191.0826 196.47096 202.10832 204.74773 210.13608 215.65392 218.16383 223.79124 230.26524 236.39064">S&amp;P 500 Fwd. P/E 12M Rate of Chg. in &gt; Median EPS </tspan></text>
+<text id="text76" style="font-variant:normal;font-weight:bold;font-size:9.96000004px;font-family:Roboto;-inkscape-font-specification:Roboto-Bold;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,26.88,578.28)"><tspan id="tspan78" y="0" x="0 6.8325601 10.42812 16.055519 23.37612 26.742599 32.270401 34.780319 40.178638 42.68856 49.39164 54.580799 59.730122 65.357521 73.98288 82.638123 88.265518 93.912842 99.301201 102.66768 105.30708 110.33688 115.72524 120.28692 122.79684 128.19516 133.58353 139.22089 141.7308 148.2048 153.8322 156.4716 159.11099 164.30016 169.30008 171.82993 177.45732 182.97516 188.00496 190.64436 194.27975 199.90717 205.41504 214.04041 219.42876 224.97649 228.34296">Growth + Accommodative* Fed Policy Environments</tspan></text>
+</g>
+    </g>
+    <g id="g80">
+      <g clip-path="url(#clipPath84)" id="g82">
+        <path id="path88" style="fill:none;stroke:#000000;stroke-width:0.14;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" d="m 12.54,600.42 0,-98.78"/>
+        <path id="path90" style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" d="m 12.48,501.58 0.96,0 0,98.904 -0.96,0 0,-98.904 z"/>
+        <path id="path92" style="fill:none;stroke:#000000;stroke-width:0.14;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" d="m 273.68,599.46 0,-97.82"/>
+        <path id="path94" style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" d="m 273.62,501.58 0.96002,0 0,97.944 -0.96002,0 0,-97.944 z"/>
+        <path id="path96" style="fill:none;stroke:#000000;stroke-width:0.14;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" d="m 13.5,600.42 261.02,0"/>
+        <path id="path98" style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" d="m 13.44,599.52 261.14,0 0,0.96 -261.14,0 0,-0.96 z"/>
+        <path id="path100" style="fill:none;stroke:#d9d9d9;stroke-width:0.14;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" d="m 13.5,560.56 260.06,0"/>
+        <path id="path102" style="fill:#d9d9d9;fill-opacity:1;fill-rule:evenodd;stroke:none" d="m 13.44,559.66 260.18,0 0,0.96 -260.18,0 0,-0.96 z"/>
+        <path id="path104" style="fill:none;stroke:#d9d9d9;stroke-width:0.14;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" d="m 13.5,546.04 260.06,0"/>
+        <path id="path106" style="fill:#d9d9d9;fill-opacity:1;fill-rule:evenodd;stroke:none" d="m 13.44,545.14 260.18,0 0,0.96 -260.18,0 0,-0.96 z"/>
+        <path id="path108" style="fill:none;stroke:#d9d9d9;stroke-width:0.14;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" d="m 13.5,531.52 260.06,0"/>
+        <path id="path110" style="fill:#d9d9d9;fill-opacity:1;fill-rule:evenodd;stroke:none" d="m 13.44,530.62 260.18,0 0,0.96 -260.18,0 0,-0.96 z"/>
+        <path id="path112" style="fill:none;stroke:#d9d9d9;stroke-width:0.14;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" d="m 13.5,517 260.06,0"/>
+        <path id="path114" style="fill:#d9d9d9;fill-opacity:1;fill-rule:evenodd;stroke:none" d="m 13.44,516.1 260.18,0 0,0.96 -260.18,0 0,-0.96 z"/>
+        <path id="path116" style="fill:none;stroke:#000000;stroke-width:0.14;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" d="m 13.5,502.48 261.02,0"/>
+        <path id="path118" style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" d="m 13.44,501.58 261.14,0 0,0.96 -261.14,0 0,-0.96 z"/>
+      </g>
+    </g>
+  </g>
+</svg>
