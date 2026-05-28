@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" viewBox="16.8 15.595 248.2875 73.483125" height="73.483125" width="248.2875" xml:space="preserve" version="1.1" id="svg2">
+  <metadata id="metadata8">
+    <rdf:RDF>
+      <cc:Work rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs id="defs6">
+    <clipPath id="clipPath16" clipPathUnits="userSpaceOnUse">
+      <path style="clip-rule:evenodd" id="path18" d="m 13.44,538.54 198.98,0 0,60.984 -198.98,0 0,-60.984 z"/>
+    </clipPath>
+    <clipPath id="clipPath26" clipPathUnits="userSpaceOnUse">
+      <path style="clip-rule:evenodd" id="path28" d="m 13.44,538.54 198.98,0 0,60.984 -198.98,0 0,-60.984 z"/>
+    </clipPath>
+    <clipPath id="clipPath38" clipPathUnits="userSpaceOnUse">
+      <path style="clip-rule:evenodd" id="path40" d="m 13.44,538.54 198.98,0 0,60.984 -198.98,0 0,-60.984 z"/>
+    </clipPath>
+    <clipPath id="clipPath50" clipPathUnits="userSpaceOnUse">
+      <path style="clip-rule:evenodd" id="path52" d="m 13.44,570 198.98,0 0,14.28 -198.98,0 0,-14.28 z"/>
+    </clipPath>
+    <clipPath id="clipPath62" clipPathUnits="userSpaceOnUse">
+      <path style="clip-rule:evenodd" id="path64" d="m 13.44,538.54 198.98,0 0,60.984 -198.98,0 0,-60.984 z"/>
+    </clipPath>
+    <clipPath id="clipPath74" clipPathUnits="userSpaceOnUse">
+      <path style="clip-rule:evenodd" id="path76" d="m 13.44,554.74 198.98,0 0,14.28 -198.98,0 0,-14.28 z"/>
+    </clipPath>
+    <clipPath id="clipPath86" clipPathUnits="userSpaceOnUse">
+      <path style="clip-rule:evenodd" id="path88" d="m 13.44,538.54 198.98,0 0,60.984 -198.98,0 0,-60.984 z"/>
+    </clipPath>
+    <clipPath id="clipPath98" clipPathUnits="userSpaceOnUse">
+      <path style="clip-rule:evenodd" id="path100" d="m 13.44,539.5 198.98,0 0,14.28 -198.98,0 0,-14.28 z"/>
+    </clipPath>
+    <clipPath id="clipPath110" clipPathUnits="userSpaceOnUse">
+      <path style="clip-rule:evenodd" id="path112" d="m 11.52,536.5 202.94,0 0,64.944 -202.94,0 0,-64.944 z"/>
+    </clipPath>
+  </defs>
+  <g transform="matrix(1.25,0,0,-1.25,0,765)" id="g10">
+    <g id="g12">
+      <g clip-path="url(#clipPath16)" id="g14">
+        <path id="path20" style="fill:#005aa4;fill-opacity:1;fill-rule:evenodd;stroke:none" d="m 12.96,584.64 199.1,0 0,15.36 -199.1,0 0,-15.36 z"/>
+      </g>
+    </g>
+    <g id="g22">
+      <g clip-path="url(#clipPath26)" id="g24"><text id="text30" style="font-variant:normal;font-weight:bold;font-size:11.03999996px;font-family:'Roboto Condensed';-inkscape-font-specification:RobotoCondensed-Bold;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,62.904,588.72)"><tspan id="tspan32" y="0" x="0 6.348 11.85696 16.86912 19.651199 25.1712 30.45936 32.998562 36.332642 41.830559 44.369759 51.093121 56.381279 59.737438 62.276642 68.392799 73.680962 78.582718 83.87088 89.2584 94.690079">Upside to Net Revenue</tspan></text>
+</g>
+    </g>
+    <g id="g34">
+      <g clip-path="url(#clipPath38)" id="g36"><text id="text42" style="font-variant:normal;font-weight:normal;font-size:11.03999996px;font-family:'Roboto Condensed';-inkscape-font-specification:RobotoCondensed-Regular;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,14.88,573.48)"><tspan id="tspan44" y="0" x="0 6.8337598 12.00048 15.25728 17.78544 23.64768 28.8144 33.484322 36.012482 43.18848 45.71664 48.973438 54.239521 56.767681 62.155201 67.553757 72.952316 78.350883 83.385117 85.913277 88.673279 94.060799 99.205437 102.5616 107.72832 113.01648 118.05072">Net Rev with 10bps Increase</tspan></text>
+</g>
+    </g>
+    <g id="g46">
+      <g clip-path="url(#clipPath50)" id="g48"><text id="text54" style="font-variant:normal;font-weight:normal;font-size:11.03999996px;font-family:'Aptos Narrow';-inkscape-font-specification:'Aptos Narrow';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,169.7,573.12)"><tspan id="tspan56" y="0" x="0 5.6399798 11.27996 16.919941">$137</tspan></text>
+</g>
+    </g>
+    <g id="g58">
+      <g clip-path="url(#clipPath62)" id="g60"><text id="text66" style="font-variant:normal;font-weight:normal;font-size:11.03999996px;font-family:'Roboto Condensed';-inkscape-font-specification:RobotoCondensed-Regular;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,14.88,558.22)"><tspan id="tspan68" y="0" x="0 4.09584 6.6240001 12.34272 15.59952 20.88768 24.14448 29.399521 34.433762 36.961922 43.563839 48.840961 54.383041 56.911201 63.744961 68.911682 72.124321 74.652481 80.514717 85.681442">/ Status Quo Net Rev</tspan></text>
+</g>
+    </g>
+    <g id="g70">
+      <g clip-path="url(#clipPath74)" id="g72"><text id="text78" style="font-variant:normal;font-weight:normal;font-size:11.03999996px;font-family:'Aptos Narrow';-inkscape-font-specification:'Aptos Narrow';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,169.7,557.86)"><tspan id="tspan80" y="0" x="0 5.6399798 11.27996 16.919941">$117</tspan></text>
+</g>
+    </g>
+    <g id="g82">
+      <g clip-path="url(#clipPath86)" id="g84"><text id="text90" style="font-variant:normal;font-weight:bold;font-size:11.03999996px;font-family:'Roboto Condensed';-inkscape-font-specification:RobotoCondensed-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,14.88,542.98)"><tspan id="tspan92" y="0" x="0 5.52 8.0592003 15.11376 17.65296 23.98992 29.49888 34.51104 37.293121 42.813122 48.10128 50.64048 53.97456 59.472481 62.011681 68.735039 74.023201 77.379356 79.918556 86.034721 91.322884">= % Upside to Net Rev</tspan></text>
+</g>
+    </g>
+    <g id="g94">
+      <g clip-path="url(#clipPath98)" id="g96"><text id="text102" style="font-variant:normal;font-weight:bold;font-size:11.03999996px;font-family:'Aptos Narrow';-inkscape-font-specification:'Aptos Narrow Bold';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,172.82,542.62)"><tspan id="tspan104" y="0" x="0 5.6399798 11.27996">17%</tspan></text>
+</g>
+    </g>
+    <g id="g106">
+      <g clip-path="url(#clipPath110)" id="g108">
+        <path id="path114" style="fill:none;stroke:#000000;stroke-width:0.14;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" d="m 152.48,554.68 59.52,0"/>
+        <path id="path116" style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" d="m 152.42,553.78 59.64,0 0,0.96 -59.64,0 0,-0.96 z"/>
+      </g>
+    </g>
+  </g>
+</svg>
