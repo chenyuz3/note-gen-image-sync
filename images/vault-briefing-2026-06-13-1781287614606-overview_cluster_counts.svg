@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="460" viewBox="0 0 1100 460">
+<rect width="100%" height="100%" fill="#ffffff"/>
+<text x="30" y="38" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="24" fill="#1f2937" font-weight="700">过去24小时主题聚类分布</text>
+<text x="30" y="92" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="14" fill="#374151">AI模型、Agent与应用基础设施</text>
+<rect x="260" y="76" width="322" height="20" rx="6" fill="#4F8EF7" opacity="0.82"/>
+<text x="592" y="92" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="14" fill="#111827" font-weight="600">17</text>
+<text x="30" y="126" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="14" fill="#374151">AI算力基础设施、半导体与数据中心</text>
+<rect x="260" y="110" width="132" height="20" rx="6" fill="#4F8EF7" opacity="0.82"/>
+<text x="402" y="126" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="14" fill="#111827" font-weight="600">7</text>
+<text x="30" y="160" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="14" fill="#374151">Workflow / Skills / 工具链维护</text>
+<rect x="260" y="144" width="56" height="20" rx="6" fill="#4F8EF7" opacity="0.82"/>
+<text x="326" y="160" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="14" fill="#111827" font-weight="600">3</text>
+<text x="30" y="194" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="14" fill="#374151">其他新增/修改</text>
+<rect x="260" y="178" width="208" height="20" rx="6" fill="#4F8EF7" opacity="0.82"/>
+<text x="478" y="194" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="14" fill="#111827" font-weight="600">11</text>
+<text x="30" y="228" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="14" fill="#374151">Oracle 4Q26 财报与AI基础设施融资</text>
+<rect x="260" y="212" width="151" height="20" rx="6" fill="#4F8EF7" opacity="0.82"/>
+<text x="421" y="228" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="14" fill="#111827" font-weight="600">8</text>
+<text x="30" y="262" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="14" fill="#374151">支付网络与 agentic commerce</text>
+<rect x="260" y="246" width="75" height="20" rx="6" fill="#4F8EF7" opacity="0.82"/>
+<text x="345" y="262" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="14" fill="#111827" font-weight="600">4</text>
+<text x="30" y="296" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="14" fill="#374151">GPU vs ASIC 硬件终局研究项目</text>
+<rect x="260" y="280" width="720" height="20" rx="6" fill="#4F8EF7" opacity="0.82"/>
+<text x="990" y="296" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="14" fill="#111827" font-weight="600">38</text>
+<text x="30" y="330" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="14" fill="#374151">Jason personal / Dayflow / 本人观点与行为记录</text>
+<rect x="260" y="314" width="37" height="20" rx="6" fill="#4F8EF7" opacity="0.82"/>
+<text x="307" y="330" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="14" fill="#111827" font-weight="600">2</text>
+<text x="30" y="364" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="14" fill="#374151">公司与行业更新（非AI主线）</text>
+<rect x="260" y="348" width="227" height="20" rx="6" fill="#4F8EF7" opacity="0.82"/>
+<text x="497" y="364" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="14" fill="#111827" font-weight="600">12</text>
+<text x="30" y="398" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="14" fill="#374151">宏观、税务与市场策略</text>
+<rect x="260" y="382" width="246" height="20" rx="6" fill="#4F8EF7" opacity="0.82"/>
+<text x="516" y="398" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="14" fill="#111827" font-weight="600">13</text>
+</svg>
