@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="324" viewBox="0 0 1100 324">
+<rect width="100%" height="100%" fill="#ffffff"/>
+<text x="30" y="38" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="24" fill="#1f2937" font-weight="700">过去24小时笔记分布：按一级文件夹</text>
+<text x="30" y="92" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="14" fill="#374151">Investment</text>
+<rect x="260" y="76" width="720" height="20" rx="6" fill="#7C8A9E" opacity="0.82"/>
+<text x="990" y="92" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="14" fill="#111827" font-weight="600">71</text>
+<text x="30" y="126" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="14" fill="#374151">Attachment</text>
+<rect x="260" y="110" width="10" height="20" rx="6" fill="#7C8A9E" opacity="0.82"/>
+<text x="280" y="126" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="14" fill="#111827" font-weight="600">1</text>
+<text x="30" y="160" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="14" fill="#374151">Copilot</text>
+<rect x="260" y="144" width="20" height="20" rx="6" fill="#7C8A9E" opacity="0.82"/>
+<text x="290" y="160" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="14" fill="#111827" font-weight="600">2</text>
+<text x="30" y="194" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="14" fill="#374151">※INBOX</text>
+<rect x="260" y="178" width="385" height="20" rx="6" fill="#7C8A9E" opacity="0.82"/>
+<text x="655" y="194" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="14" fill="#111827" font-weight="600">38</text>
+<text x="30" y="228" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="14" fill="#374151">.</text>
+<rect x="260" y="212" width="10" height="20" rx="6" fill="#7C8A9E" opacity="0.82"/>
+<text x="280" y="228" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="14" fill="#111827" font-weight="600">1</text>
+<text x="30" y="262" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="14" fill="#374151">Dayflow</text>
+<rect x="260" y="246" width="20" height="20" rx="6" fill="#7C8A9E" opacity="0.82"/>
+<text x="290" y="262" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="14" fill="#111827" font-weight="600">2</text>
+</svg>
