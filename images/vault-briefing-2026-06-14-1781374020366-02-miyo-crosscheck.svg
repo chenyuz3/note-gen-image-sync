@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="540" viewBox="0 0 960 540" role="img" aria-label="Miyo cross-check 结果">
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1"><stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#f3e8ff"/></linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%"><feDropShadow dx="0" dy="14" stdDeviation="18" flood-color="#0f172a" flood-opacity="0.12"/></filter>
+    <style>
+      .title{font:700 34px -apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Hiragino Sans GB',Arial,sans-serif;fill:#0f172a}
+      .subtitle{font:400 18px -apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Hiragino Sans GB',Arial,sans-serif;fill:#475569}
+      .label{font:600 24px -apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Hiragino Sans GB',Arial,sans-serif;fill:#111827}
+      .value{font:700 30px -apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Hiragino Sans GB',Arial,sans-serif;fill:#7c3aed}
+      .note{font:400 16px -apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Hiragino Sans GB',Arial,sans-serif;fill:#64748b}
+      .footer{font:500 15px -apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Hiragino Sans GB',Arial,sans-serif;fill:#64748b}
+    </style>
+  </defs>
+  <rect width="960" height="540" rx="34" fill="url(#bg)"/>
+  <rect x="38" y="38" width="884" height="464" rx="30" fill="#ffffff" opacity="0.82" filter="url(#shadow)"/>
+  <text x="70" y="92" class="title">Miyo cross-check 结果</text>
+  <text x="70" y="124" class="subtitle">日期级 metadata cross-check，不替代精确 24h 脚本</text>
+  <rect x="70" y="122" width="18" height="18" rx="5" fill="#7c3aed" opacity="0.95"/><text x="105" y="138" class="label">Miyo 返回条目</text><text x="720" y="138" class="value" text-anchor="end">2 条</text><text x="105" y="170" class="note">Claude AI chats / ChatGPT chats 中的腾讯 WLB 调查记录</text><rect x="70" y="198" width="18" height="18" rx="5" fill="#ef4444" opacity="0.95"/><text x="105" y="214" class="label">仍存在且在 vault 内</text><text x="720" y="214" class="value" text-anchor="end">0 条</text><text x="105" y="246" class="note">最终纳入前必须 Path.is_file()；本次均未通过</text><rect x="70" y="274" width="18" height="18" rx="5" fill="#f97316" opacity="0.95"/><text x="105" y="290" class="label">剔除状态</text><text x="720" y="290" class="value" text-anchor="end">2 stale</text><text x="105" y="322" class="note">标记为 miyo_stale_deleted_or_missing，不进入 cluster/source table</text>
+  <text x="70" y="472" class="footer">VAULT_BRIEFING_2026_06_14 · read-only vault scan · Asia/Singapore</text>
+</svg>
