@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="920" height="320" viewBox="0 0 920 320">
+<rect width="100%" height="100%" fill="#f8fafc"/>
+<text x="40" y="50" font-size="24" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-weight="700" fill="#0f172a">新增 vs 修改</text>
+<text x="40" y="82" font-size="15" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" fill="#475569">纳入 34 篇仍存在 Markdown；新增 21 / 修改 13。</text>
+<g><rect x="40" y="115" width="469.4117647058824" height="42" fill="#16a34a"/><rect x="509.4117647058824" y="115" width="290.5882352941176" height="42" fill="#f59e0b"/></g>
+<text x="40" y="205" font-size="15" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" fill="#0f172a">窗口：2026-06-17T07:04:52.114498+08:00 → 2026-06-18T07:04:52.114498+08:00</text>
+<text x="40" y="245" font-size="13" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" fill="#64748b">Attachment 路径已按规则硬排除；Miyo 日期级 cross-check 噪音较大，仅作补盲。</text>
+</svg>
