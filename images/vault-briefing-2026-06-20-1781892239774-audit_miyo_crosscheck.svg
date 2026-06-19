@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="540" viewBox="0 0 960 540">
+<rect width="100%" height="100%" rx="0" fill="#f8fafc"/>
+<style>text{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Noto Sans SC,Arial,sans-serif;} .title{font-size:28px;font-weight:700;fill:#0f172a} .sub{font-size:15px;fill:#475569} .small{font-size:13px;fill:#64748b} .num{font-size:42px;font-weight:800;fill:#0f172a}</style>
+
+<text x="42" y="54" class="title">Miyo index-native cross-check</text>
+<text x="42" y="84" class="sub">mcp_miyo_list_files(mtime_after=2026-06-19, limit=200)</text>
+<g transform="translate(60,140)">
+  <circle cx="140" cy="140" r="112" fill="#eef2ff" stroke="#c7d2fe" stroke-width="3"/>
+  <text x="112" y="154" class="num">0</text>
+  <text x="306" y="105" class="sub">Miyo returned: No files found matching the date-level filter.</text>
+  <text x="306" y="145" class="sub">Role: semantic/index cross-check only; formal inclusion still follows collector timestamp + filesystem existence.</text>
+  <text x="306" y="185" class="sub">Stale / deleted / attachment Miyo candidates: 0 observed in this run.</text>
+</g>
+<text x="42" y="500" class="small">This visual supports the coverage note: Miyo did not find an indexed modified Markdown note that would change the zero-candidate conclusion.</text>
+
+</svg>
