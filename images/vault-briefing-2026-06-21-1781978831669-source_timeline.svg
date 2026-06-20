@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="640" viewBox="0 0 1120 640">
+<rect width="100%" height="100%" fill="#f8fafc"/>
+<style>text{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Noto Sans SC,Arial,sans-serif;} .title{font-size:30px;font-weight:800;fill:#0f172a} .sub{font-size:16px;fill:#475569} .small{font-size:13px;fill:#64748b} .num{font-size:52px;font-weight:850;fill:#0f172a} .label{font-size:15px;font-weight:700;fill:#334155}</style>
+
+<text x="44" y="58" class="title">Source timeline：10:05 Intel → 20:00 BIS</text>
+<text x="44" y="90" class="sub">两篇 note 均为 2026-06-20 新建；没有 modified_existing。</text>
+<line x1="120" y1="320" x2="1000" y2="320" stroke="#cbd5e1" stroke-width="5" stroke-linecap="round"/>
+<g transform="translate(210,220)">
+  <circle cx="0" cy="100" r="22" fill="#10b981"/>
+  <text x="-86" y="10" class="label">10:05 SGT</text>
+  <text x="-150" y="45" class="sub">Intel CEO / No Priors</text>
+  <rect x="-150" y="145" width="300" height="78" rx="18" fill="#ecfdf5" stroke="#bbf7d0"/>
+  <text x="-128" y="176" class="small">源类型：YouTube transcript note</text>
+  <text x="-128" y="202" class="small">性质：管理层 narrative + execution claims</text>
+</g>
+<g transform="translate(830,220)">
+  <circle cx="0" cy="100" r="22" fill="#6366f1"/>
+  <text x="-82" y="10" class="label">20:00 SGT</text>
+  <text x="-155" y="45" class="sub">BIS FAQ / 合规观澜</text>
+  <rect x="-155" y="145" width="310" height="78" rx="18" fill="#eef2ff" stroke="#c7d2fe"/>
+  <text x="-132" y="176" class="small">源类型：WeChat article note</text>
+  <text x="-132" y="202" class="small">性质：政策 FAQ 解读 + compliance implication</text>
+</g>
+<text x="44" y="590" class="small">这张图支撑“今日新增数据点”的时间定位：同一天新增两个不同方向的半导体/AI 基础设施材料。</text>
+
+</svg>
