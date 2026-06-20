@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="640" viewBox="0 0 1120 640">
+<rect width="100%" height="100%" fill="#f8fafc"/>
+<style>text{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Noto Sans SC,Arial,sans-serif;} .title{font-size:30px;font-weight:800;fill:#0f172a} .sub{font-size:16px;fill:#475569} .small{font-size:13px;fill:#64748b} .num{font-size:52px;font-weight:850;fill:#0f172a} .label{font-size:15px;font-weight:700;fill:#334155}</style>
+
+<text x="44" y="58" class="title">Cluster map：政策控制 vs 产业执行</text>
+<text x="44" y="90" class="sub">两个新增 note 分别落在 AI 硬件出口管制与 Intel/AI 基础设施供给侧两个方向。</text>
+<g transform="translate(86,160)">
+  <rect x="0" y="0" width="420" height="250" rx="30" fill="#eef2ff" stroke="#c7d2fe" stroke-width="2"/>
+  <text x="32" y="50" class="label">AI hardware export control / BIS FAQ</text>
+  <text x="32" y="105" class="num">1</text>
+  <text x="32" y="155" class="sub">边际：从芯片型号扩展到硬件系统与 .z 物项</text>
+  <text x="32" y="190" class="small">连接：2025 BIS guidance、2026 case-by-case rule</text>
+  <rect x="530" y="0" width="420" height="250" rx="30" fill="#ecfdf5" stroke="#bbf7d0" stroke-width="2"/>
+  <text x="562" y="50" class="label">Intel turnaround / foundry / AI infrastructure</text>
+  <text x="562" y="105" class="num">1</text>
+  <text x="562" y="155" class="sub">边际：CEO 访谈把转型框架压实到执行层</text>
+  <text x="562" y="190" class="small">连接：BofA Foundry、SEMIVISION、Tegus expert</text>
+</g>
+<path d="M506 285 C548 250, 566 250, 616 285" fill="none" stroke="#94a3b8" stroke-width="4" stroke-dasharray="8 8"/>
+<text x="410" y="470" class="sub">共同主题：AI 基础设施进入“控制层”竞争——一边是监管许可与地理穿透，另一边是 CPU/Foundry/packaging 的系统供给能力。</text>
+<text x="44" y="590" class="small">这张图支撑主题连接判断：两篇不是重复摘要，而是围绕 AI 硬件控制权的两个不同侧面。</text>
+
+</svg>
