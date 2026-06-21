@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="640" viewBox="0 0 1120 640">
+<rect width="100%" height="100%" fill="#f8fafc"/>
+<style>text{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Noto Sans SC,Arial,sans-serif;} .title{font-size:30px;font-weight:800;fill:#0f172a} .sub{font-size:16px;fill:#475569} .small{font-size:13px;fill:#64748b} .num{font-size:56px;font-weight:850;fill:#0f172a} .label{font-size:15px;font-weight:750;fill:#334155}</style>
+
+<text x="44" y="58" class="title">Miyo cross-check：metadata 与 semantic 均未补入候选</text>
+<text x="44" y="90" class="sub">Miyo 只作为 index-native 补盲；不能覆盖 pre-run precise 24h JSON。</text>
+<g transform="translate(90,155)">
+  <rect x="0" y="0" width="430" height="260" rx="28" fill="#eef2ff" stroke="#c7d2fe" stroke-width="2"/>
+  <text x="30" y="55" class="label">mcp_miyo_list_files</text>
+  <text x="30" y="110" class="num">0</text>
+  <text x="30" y="160" class="sub">mtime_after=2026-06-21, limit=200</text>
+  <text x="30" y="198" class="small">No files found matching the given filters.</text>
+  <rect x="540" y="0" width="430" height="260" rx="28" fill="#ecfdf5" stroke="#bbf7d0" stroke-width="2"/>
+  <text x="570" y="55" class="label">mcp_miyo_search</text>
+  <text x="570" y="110" class="num">0</text>
+  <text x="570" y="160" class="sub">自然语言查询 + mtime_after=2026-06-21</text>
+  <text x="570" y="198" class="small">No results found in the user's knowledge base.</text>
+</g>
+<text x="150" y="500" class="sub">结论：Miyo 没有提供 miyo_only_unverified_existing 候选；本日报没有 Miyo lag 导致的补入项。</text>
+<text x="44" y="590" class="small">这张图支撑备注中的 Miyo 状态：metadata 与 semantic cross-check 都未改变正式覆盖。</text>
+
+</svg>
