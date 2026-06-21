@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="640" viewBox="0 0 1120 640">
+<rect width="100%" height="100%" fill="#f8fafc"/>
+<style>text{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Noto Sans SC,Arial,sans-serif;} .title{font-size:30px;font-weight:800;fill:#0f172a} .sub{font-size:16px;fill:#475569} .small{font-size:13px;fill:#64748b} .num{font-size:56px;font-weight:850;fill:#0f172a} .label{font-size:15px;font-weight:750;fill:#334155}</style>
+
+<text x="44" y="58" class="title">Source table 审计：0 行，但保留字段结构</text>
+<text x="44" y="90" class="sub">为了便于未来审计，本次仍生成 source_table.csv，只包含表头。</text>
+<g transform="translate(60,150)">
+  <rect x="0" y="0" width="1000" height="70" rx="18" fill="#0f172a"/>
+  <text x="24" y="44" fill="#fff" font-size="15" font-weight="700">change_type</text>
+  <text x="170" y="44" fill="#fff" font-size="15" font-weight="700">cluster</text>
+  <text x="330" y="44" fill="#fff" font-size="15" font-weight="700">folder</text>
+  <text x="470" y="44" fill="#fff" font-size="15" font-weight="700">modified_at</text>
+  <text x="650" y="44" fill="#fff" font-size="15" font-weight="700">path</text>
+  <text x="870" y="44" fill="#fff" font-size="15" font-weight="700">status</text>
+  <rect x="0" y="86" width="1000" height="240" rx="22" fill="#ffffff" stroke="#e5e7eb" stroke-width="2"/>
+  <text x="360" y="220" class="num">0 rows</text>
+  <text x="265" y="270" class="sub">没有新增、修改、Jason personal 或主题 cluster 候选。</text>
+</g>
+<text x="44" y="590" class="small">这张图支撑正文的 Source table 解释：今日 source table 为空，但不是省略；CSV 已生成并可审计。</text>
+
+</svg>
