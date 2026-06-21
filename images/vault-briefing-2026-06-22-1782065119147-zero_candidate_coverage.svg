@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="640" viewBox="0 0 1120 640">
+<rect width="100%" height="100%" fill="#f8fafc"/>
+<style>text{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Noto Sans SC,Arial,sans-serif;} .title{font-size:30px;font-weight:800;fill:#0f172a} .sub{font-size:16px;fill:#475569} .small{font-size:13px;fill:#64748b} .num{font-size:56px;font-weight:850;fill:#0f172a} .label{font-size:15px;font-weight:750;fill:#334155}</style>
+
+<text x="44" y="58" class="title">覆盖审计：当前窗口 0 篇正式候选</text>
+<text x="44" y="90" class="sub">窗口：2026-06-21T02:00:22.412729+08:00 → 2026-06-22T02:00:22.412729+08:00 · discovery method: mdfind</text>
+<g transform="translate(54,145)">
+  <rect x="0" y="0" width="235" height="150" rx="26" fill="#eff6ff" stroke="#bfdbfe"/><text x="26" y="72" class="num">0</text><text x="28" y="115" class="label">正式纳入 Markdown</text>
+  <rect x="265" y="0" width="235" height="150" rx="26" fill="#ecfdf5" stroke="#bbf7d0"/><text x="291" y="72" class="num">0</text><text x="293" y="115" class="label">新增 created</text>
+  <rect x="530" y="0" width="235" height="150" rx="26" fill="#fffbeb" stroke="#fde68a"/><text x="556" y="72" class="num">0</text><text x="558" y="115" class="label">修改 existing</text>
+  <rect x="795" y="0" width="235" height="150" rx="26" fill="#f5f3ff" stroke="#ddd6fe"/><text x="821" y="72" class="num">0</text><text x="823" y="115" class="label">主题 cluster</text>
+</g>
+<g transform="translate(70,370)">
+  <rect x="0" y="0" width="470" height="46" rx="14" fill="#e0f2fe"/><text x="18" y="30" class="sub">mdfind before filters：21,021 条 Markdown path</text>
+  <rect x="0" y="66" width="470" height="46" rx="14" fill="#f1f5f9"/><text x="18" y="96" class="sub">当前存在性 + precise 24h + Attachment 排除后：0</text>
+  <rect x="560" y="0" width="420" height="46" rx="14" fill="#fee2e2"/><text x="578" y="30" class="sub">missing/deleted after discovery：5,724（剔除）</text>
+  <rect x="560" y="66" width="420" height="46" rx="14" fill="#dcfce7"/><text x="578" y="96" class="sub">Miyo metadata cross-check：0</text>
+</g>
+<text x="44" y="590" class="small">这张图支撑 TL;DR：今天不是内容分析窗口，而是“精确过滤后无仍存在候选”的审计结果。</text>
+
+</svg>
