@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="700" viewBox="0 0 1200 700">
+  <rect width="100%" height="100%" fill="#fbfbfd"/>
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#eef5ff"/><stop offset="1" stop-color="#f8f1ff"/></linearGradient>
+    <filter id="shadow" x="-10%" y="-10%" width="120%" height="120%"><feDropShadow dx="0" dy="8" stdDeviation="14" flood-color="#334155" flood-opacity="0.14"/></filter>
+  </defs>
+  <rect x="34" y="34" width="1132" height="632" rx="30" fill="url(#g)" filter="url(#shadow)"/>
+  <text x="70" y="95" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="34" font-weight="700" fill="#172033">Anthropic governance stack / 风险治理栈</text>
+  
+<text x="70" y="145" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial" font-size="22" fill="#475569">Dario 访谈与旧笔记连接后形成的治理栈：企业信任、发布节奏、政府制衡、地缘风险不是互斥叙事。</text>
+<g font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial">
+  <rect x="110" y="210" width="980" height="86" rx="22" fill="#eff6ff" stroke="#3b82f6"/><text x="145" y="263" font-size="25" font-weight="800" fill="#1e40af">Enterprise trust：企业市场比广告/成瘾型消费市场更接近 Anthropic 的价值约束</text>
+  <rect x="110" y="325" width="980" height="86" rx="22" fill="#ecfdf5" stroke="#10b981"/><text x="145" y="378" font-size="25" font-weight="800" fill="#065f46">Deployment throttle：Mythos 先给防御者、补漏洞，再逐步放开</text>
+  <rect x="110" y="440" width="980" height="86" rx="22" fill="#fff7ed" stroke="#f97316"/><text x="145" y="493" font-size="25" font-weight="800" fill="#9a3412">Checks & balances：LTBT、pre-release testing、政府/立法/司法制衡</text>
+  <rect x="110" y="555" width="980" height="86" rx="22" fill="#fef2f2" stroke="#ef4444"/><text x="145" y="608" font-size="25" font-weight="800" fill="#991b1b">Geopolitics：民主国家领先与红线约束并行，避免威权 AI 与自主武器风险</text>
+</g>
+
+</svg>
