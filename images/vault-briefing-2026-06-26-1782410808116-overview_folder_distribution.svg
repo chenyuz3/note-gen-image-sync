@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="700" viewBox="0 0 1200 700">
+  <rect width="100%" height="100%" fill="#fbfbfd"/>
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#eef5ff"/><stop offset="1" stop-color="#f8f1ff"/></linearGradient>
+    <filter id="shadow" x="-10%" y="-10%" width="120%" height="120%"><feDropShadow dx="0" dy="8" stdDeviation="14" flood-color="#334155" flood-opacity="0.14"/></filter>
+  </defs>
+  <rect x="34" y="34" width="1132" height="632" rx="30" fill="url(#g)" filter="url(#shadow)"/>
+  <text x="70" y="95" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="34" font-weight="700" fill="#172033">Folder distribution / 当前候选分布</text>
+  
+<text x="70" y="150" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial" font-size="22" fill="#475569">本次精确窗口内，存在性过滤后候选全部来自 ※INBOX。</text>
+<rect x="110" y="240" width="760" height="110" rx="24" fill="#2563eb" opacity="0.88"/>
+<text x="140" y="308" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial" font-size="32" font-weight="700" fill="white">※INBOX</text>
+<text x="760" y="308" text-anchor="end" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial" font-size="34" font-weight="800" fill="white">2</text>
+<line x1="110" y1="405" x2="870" y2="405" stroke="#94a3b8" stroke-width="2"/>
+<text x="110" y="455" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial" font-size="24" fill="#172033">新增：2 篇</text>
+<text x="110" y="500" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial" font-size="24" fill="#172033">修改既有：0 篇</text>
+<text x="110" y="545" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial" font-size="24" fill="#172033">Attachment 路径：已硬排除</text>
+<circle cx="1010" cy="295" r="98" fill="#dbeafe" stroke="#2563eb" stroke-width="18"/>
+<text x="1010" y="285" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial" font-size="54" font-weight="800" fill="#1e3a8a">2</text>
+<text x="1010" y="333" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial" font-size="22" fill="#1e3a8a">current notes</text>
+
+</svg>
