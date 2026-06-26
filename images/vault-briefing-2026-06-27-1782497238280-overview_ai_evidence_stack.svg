@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="720" viewBox="0 0 1200 720">
+  <rect width="100%" height="100%" fill="#fbfbfd"/>
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#eef5ff"/><stop offset="1" stop-color="#fff7ed"/></linearGradient>
+    <filter id="shadow" x="-10%" y="-10%" width="120%" height="120%"><feDropShadow dx="0" dy="8" stdDeviation="14" flood-color="#334155" flood-opacity="0.14"/></filter>
+  </defs>
+  <rect x="34" y="34" width="1132" height="652" rx="30" fill="url(#g)" filter="url(#shadow)"/>
+  <text x="70" y="94" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="34" font-weight="750" fill="#172033">AI evidence stack / 今日材料的结构关系</text>
+  
+<text x="70" y="148" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial" font-size="22" fill="#475569">今天的五篇材料共同指向一个主题：AI 能力评估必须同时控制测量环境、训练外推和系统实现约束。</text>
+<g font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial">
+  <rect x="115" y="230" width="250" height="112" rx="22" fill="#dbeafe" stroke="#3b82f6"/><text x="240" y="276" text-anchor="middle" font-size="25" font-weight="800" fill="#1e3a8a">测量污染</text><text x="240" y="314" text-anchor="middle" font-size="20" fill="#1e40af">Web/Git reward hacking</text>
+  <path d="M375 286 H475" stroke="#64748b" stroke-width="5"/>
+  <rect x="485" y="230" width="250" height="112" rx="22" fill="#fef3c7" stroke="#f59e0b"/><text x="610" y="276" text-anchor="middle" font-size="25" font-weight="800" fill="#92400e">外推脆弱</text><text x="610" y="314" text-anchor="middle" font-size="20" fill="#92400e">scaling law fitting</text>
+  <path d="M745 286 H845" stroke="#64748b" stroke-width="5"/>
+  <rect x="855" y="230" width="250" height="112" rx="22" fill="#dcfce7" stroke="#22c55e"/><text x="980" y="276" text-anchor="middle" font-size="25" font-weight="800" fill="#166534">系统约束</text><text x="980" y="314" text-anchor="middle" font-size="20" fill="#166534">parallelism / interconnect</text>
+  <rect x="210" y="455" width="780" height="96" rx="24" fill="#fef2f2" stroke="#ef4444"/><text x="600" y="494" text-anchor="middle" font-size="25" font-weight="800" fill="#991b1b">治理边界</text><text x="600" y="530" text-anchor="middle" font-size="20" fill="#991b1b">Anthropic/export control：能力扩散、企业收入、国家安全三者存在张力</text>
+</g>
+</svg>
