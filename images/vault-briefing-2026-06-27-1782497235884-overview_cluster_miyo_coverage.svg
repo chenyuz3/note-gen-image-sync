@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="720" viewBox="0 0 1200 720">
+  <rect width="100%" height="100%" fill="#fbfbfd"/>
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#eef5ff"/><stop offset="1" stop-color="#fff7ed"/></linearGradient>
+    <filter id="shadow" x="-10%" y="-10%" width="120%" height="120%"><feDropShadow dx="0" dy="8" stdDeviation="14" flood-color="#334155" flood-opacity="0.14"/></filter>
+  </defs>
+  <rect x="34" y="34" width="1132" height="652" rx="30" fill="url(#g)" filter="url(#shadow)"/>
+  <text x="70" y="94" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="34" font-weight="750" fill="#172033">Cluster + Miyo / 主题与交叉验证</text>
+  
+<text x="70" y="150" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial" font-size="22" fill="#475569">5 篇候选被合并为 3 个主题 cluster；Miyo 日期级 cross-check 未补入候选，按 index lag 记录。</text>
+<g font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial">
+  <rect x="90" y="220" width="300" height="132" rx="22" fill="#eff6ff" stroke="#3b82f6"/><text x="120" y="265" font-size="25" font-weight="800" fill="#1e40af">AI 评测有效性</text><text x="120" y="306" font-size="20" fill="#1e3a8a">Reward hacking + Scaling laws</text><text x="120" y="337" font-size="18" fill="#64748b">current notes: 2</text>
+  <rect x="450" y="220" width="300" height="132" rx="22" fill="#ecfdf5" stroke="#10b981"/><text x="480" y="265" font-size="25" font-weight="800" fill="#065f46">分布式训练栈</text><text x="480" y="306" font-size="20" fill="#064e3b">Megatron + ScaleUP</text><text x="480" y="337" font-size="18" fill="#64748b">current notes: 2</text>
+  <rect x="810" y="220" width="300" height="132" rx="22" fill="#fff7ed" stroke="#f97316"/><text x="840" y="265" font-size="25" font-weight="800" fill="#9a3412">治理与出口管制</text><text x="840" y="306" font-size="20" fill="#7c2d12">Anthropic / export control</text><text x="840" y="337" font-size="18" fill="#64748b">current notes: 1</text>
+  <rect x="90" y="445" width="1020" height="96" rx="22" fill="#f8fafc" stroke="#cbd5e1"/>
+  <text x="120" y="484" font-size="24" font-weight="800" fill="#334155">Miyo cross-check</text>
+  <text x="120" y="520" font-size="20" fill="#64748b">list_files(mtime_after=2026-06-26): 0；semantic search: 0 → 未补入可验证候选，记录为 index lag/date-index gap。</text>
+</g>
+</svg>
