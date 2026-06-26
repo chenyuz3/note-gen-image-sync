@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="720" viewBox="0 0 1200 720">
+  <rect width="100%" height="100%" fill="#fbfbfd"/>
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#eef5ff"/><stop offset="1" stop-color="#fff7ed"/></linearGradient>
+    <filter id="shadow" x="-10%" y="-10%" width="120%" height="120%"><feDropShadow dx="0" dy="8" stdDeviation="14" flood-color="#334155" flood-opacity="0.14"/></filter>
+  </defs>
+  <rect x="34" y="34" width="1132" height="652" rx="30" fill="url(#g)" filter="url(#shadow)"/>
+  <text x="70" y="94" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="34" font-weight="750" fill="#172033">Coverage / 文件夹与变更类型</text>
+  
+<text x="70" y="150" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial" font-size="22" fill="#475569">精确窗口内保留 5 篇候选；全部为新建，且全部位于 ※INBOX；Attachment 路径已硬排除。</text>
+<g font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial">
+  <rect x="100" y="230" width="760" height="118" rx="24" fill="#2563eb" opacity="0.88"/>
+  <text x="135" y="302" font-size="34" font-weight="800" fill="white">※INBOX</text>
+  <text x="800" y="302" text-anchor="end" font-size="38" font-weight="850" fill="white">5</text>
+  <circle cx="1010" cy="290" r="100" fill="#dbeafe" stroke="#2563eb" stroke-width="18"/>
+  <text x="1010" y="287" text-anchor="middle" font-size="56" font-weight="850" fill="#1e3a8a">5</text>
+  <text x="1010" y="333" text-anchor="middle" font-size="22" fill="#1e3a8a">current notes</text>
+  <rect x="100" y="435" width="470" height="86" rx="20" fill="#ecfdf5" stroke="#10b981"/>
+  <text x="130" y="489" font-size="28" font-weight="800" fill="#065f46">新增 5</text>
+  <rect x="630" y="435" width="470" height="86" rx="20" fill="#f8fafc" stroke="#94a3b8"/>
+  <text x="660" y="489" font-size="28" font-weight="800" fill="#475569">修改既有 0</text>
+  <text x="100" y="590" font-size="21" fill="#64748b">脚本发现 Markdown 21038 个；存在性 / 精确 24h / attachment 过滤后正式保留 5 个。</text>
+</g>
+</svg>
