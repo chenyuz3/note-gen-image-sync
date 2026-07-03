@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="520" viewBox="0 0 900 520">
+<rect width="100%" height="100%" fill="#fff"/>
+<text x="32" y="38" font-family="Arial" font-size="24" font-weight="700" fill="#17202a">HDD 量价路径合成图</text>
+<text x="32" y="62" font-family="Arial" font-size="13" fill="#64748b">Google expert call: price floor ($/TB) + procurement path (EB)</text>
+<line x1="80" x2="800" y1="430.0" y2="430.0" stroke="#e8ebef"/><text x="35" y="434.0" font-family="Arial" font-size="12" fill="#b56576">$0</text>
+<line x1="80" x2="800" y1="378.3333333333333" y2="378.3333333333333" stroke="#e8ebef"/><text x="35" y="382.3333333333333" font-family="Arial" font-size="12" fill="#b56576">$5</text>
+<line x1="80" x2="800" y1="326.6666666666667" y2="326.6666666666667" stroke="#e8ebef"/><text x="35" y="330.6666666666667" font-family="Arial" font-size="12" fill="#b56576">$10</text>
+<line x1="80" x2="800" y1="275.0" y2="275.0" stroke="#e8ebef"/><text x="35" y="279.0" font-family="Arial" font-size="12" fill="#b56576">$15</text>
+<line x1="80" x2="800" y1="223.33333333333334" y2="223.33333333333334" stroke="#e8ebef"/><text x="35" y="227.33333333333334" font-family="Arial" font-size="12" fill="#b56576">$20</text>
+<line x1="80" x2="800" y1="171.66666666666663" y2="171.66666666666663" stroke="#e8ebef"/><text x="35" y="175.66666666666663" font-family="Arial" font-size="12" fill="#b56576">$25</text>
+<line x1="80" x2="800" y1="120.0" y2="120.0" stroke="#e8ebef"/><text x="35" y="124.0" font-family="Arial" font-size="12" fill="#b56576">$30</text>
+<rect x="77.0" y="288.11538461538464" width="38" height="141.88461538461536" rx="8" fill="#4f7cac" opacity="0.38"/><text x="115.0" y="280.11538461538464" font-family="Arial" font-size="12" fill="#315f93">238EB</text>
+<rect x="317.0" y="257.11538461538464" width="38" height="172.88461538461536" rx="8" fill="#4f7cac" opacity="0.38"/><text x="355.0" y="249.11538461538464" font-family="Arial" font-size="12" fill="#315f93">290EB</text>
+<rect x="557.0" y="209.4230769230769" width="38" height="220.5769230769231" rx="8" fill="#4f7cac" opacity="0.38"/><text x="595.0" y="201.4230769230769" font-family="Arial" font-size="12" fill="#315f93">370EB</text>
+<rect x="797.0" y="140.86538461538458" width="38" height="289.1346153846154" rx="8" fill="#4f7cac" opacity="0.38"/><text x="835.0" y="132.86538461538458" font-family="Arial" font-size="12" fill="#315f93">485EB</text>
+<polyline points="80.0,275.0 320.0,244.0 560.0,171.66666666666663 800.0,151.0" fill="none" stroke="#b56576" stroke-width="4"/>
+<circle cx="80.0" cy="275.0" r="6" fill="#b56576"/><text x="67.0" y="262.0" font-family="Arial" font-size="13" font-weight="700" fill="#8a3340">$15</text>
+<circle cx="320.0" cy="244.0" r="6" fill="#b56576"/><text x="307.0" y="231.0" font-family="Arial" font-size="13" font-weight="700" fill="#8a3340">$18</text>
+<circle cx="560.0" cy="171.66666666666663" r="6" fill="#b56576"/><text x="547.0" y="158.66666666666663" font-family="Arial" font-size="13" font-weight="700" fill="#8a3340">$25</text>
+<circle cx="800.0" cy="151.0" r="6" fill="#b56576"/><text x="787.0" y="138.0" font-family="Arial" font-size="13" font-weight="700" fill="#8a3340">$27</text>
+<text x="64.0" y="458" font-family="Arial" font-size="13" fill="#334155">2025</text>
+<text x="304.0" y="458" font-family="Arial" font-size="13" fill="#334155">2026</text>
+<text x="544.0" y="458" font-family="Arial" font-size="13" fill="#334155">2027</text>
+<text x="784.0" y="458" font-family="Arial" font-size="13" fill="#334155">2028</text>
+<text x="610" y="105" font-family="Arial" font-size="13" fill="#315f93">Bars: procurement EB</text><text x="610" y="128" font-family="Arial" font-size="13" fill="#8a3340">Line: price floor $/TB</text></svg>
