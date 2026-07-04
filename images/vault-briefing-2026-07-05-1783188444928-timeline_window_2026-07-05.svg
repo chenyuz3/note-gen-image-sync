@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="720" viewBox="0 0 1200 720" role="img" aria-label="vault briefing visual">
+<defs><style><![CDATA[.title{font:700 38px -apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;fill:#18202b}.label{font:600 24px -apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;fill:#263241}.small{font:500 18px -apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;fill:#5b6675}.num{font:800 76px -apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;fill:#0f172a}]]></style><linearGradient id="g" x1="0" x2="1"><stop stop-color="#eef4ff"/><stop offset="1" stop-color="#fff8ed"/></linearGradient></defs>
+<rect width="100%" height="100%" rx="34" fill="url(#g)"/><rect x="26" y="26" width="1148" height="668" rx="28" fill="white" opacity="0.72"/>
+
+<text x="70" y="95" class="title">新增发生在窗口末段</text>
+<text x="70" y="160" class="small">创建/修改时间均为 2026-07-05 00:02 SGT，距离 02:00 检测约 2 小时。</text>
+<line x1="120" y1="360" x2="1080" y2="360" stroke="#cbd5e1" stroke-width="10" stroke-linecap="round"/>
+<circle cx="120" cy="360" r="18" fill="#64748b"/><text x="78" y="420" class="small">07-04 02:00</text>
+<circle cx="1000" cy="360" r="24" fill="#2563eb"/><text x="820" y="315" class="label">00:02 新建 + 修改</text><text x="805" y="420" class="small">White House / Mount Rushmore speech note</text>
+<circle cx="1080" cy="360" r="18" fill="#64748b"/><text x="1015" y="470" class="small">07-05 02:00</text>
+<rect x="90" y="520" width="1020" height="88" rx="22" fill="#f8fafc"/><text x="125" y="574" class="small">解释：时间戳显示这是新的 ingest/processed note，不是旧 note touch；因此按 newly_created 处理。</text>
+
+</svg>
