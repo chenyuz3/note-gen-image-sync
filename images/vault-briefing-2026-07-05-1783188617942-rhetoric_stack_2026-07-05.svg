@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="720" viewBox="0 0 1200 720" role="img" aria-label="vault briefing visual">
+<defs><style><![CDATA[.title{font:700 38px -apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;fill:#18202b}.label{font:600 24px -apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;fill:#263241}.small{font:500 18px -apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;fill:#5b6675}.num{font:800 76px -apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;fill:#0f172a}]]></style><linearGradient id="g" x1="0" x2="1"><stop stop-color="#eef4ff"/><stop offset="1" stop-color="#fff8ed"/></linearGradient></defs>
+<rect width="100%" height="100%" rx="34" fill="url(#g)"/><rect x="26" y="26" width="1148" height="668" rx="28" fill="white" opacity="0.72"/>
+
+<text x="70" y="90" class="title">Mount Rushmore 演讲的四层修辞结构</text>
+<text x="70" y="145" class="small">从仪式性纪念进入身份边界，再把政治对手重写为文明威胁。</text>
+<g transform="translate(95 210)"><rect width="230" height="260" rx="28" fill="#eff6ff"/><text x="30" y="62" class="label">250周年</text><text x="30" y="112" class="small">1776 / 独立宣言</text><text x="30" y="152" class="small">Founding Fathers</text><text x="30" y="192" class="small">国家起源仪式</text></g>
+<path d="M335 340 L405 340" stroke="#94a3b8" stroke-width="7" marker-end="url(#arrow)"/>
+<g transform="translate(405 210)"><rect width="230" height="260" rx="28" fill="#f0fdf4"/><text x="30" y="62" class="label">例外论</text><text x="30" y="112" class="small">稀有 / 无价 / 奇迹</text><text x="30" y="152" class="small">美国非世界常态</text></g>
+<path d="M645 340 L715 340" stroke="#94a3b8" stroke-width="7"/>
+<g transform="translate(715 210)"><rect width="230" height="260" rx="28" fill="#fff7ed"/><text x="30" y="62" class="label">文化身份</text><text x="30" y="112" class="small">freedom + language</text><text x="30" y="152" class="small">God-given rights</text><text x="30" y="192" class="small">American character</text></g>
+<path d="M955 340 L1020 340" stroke="#94a3b8" stroke-width="7"/>
+<g transform="translate(1020 210)"><rect width="120" height="260" rx="28" fill="#fef2f2"/><text x="24" y="62" class="label">反共</text><text x="24" y="112" class="small">enemy</text><text x="24" y="152" class="small">exile</text></g>
+<text x="95" y="570" class="small">边际新增：相比 2月国情咨文的政策绩效叙事，本次样本把“美国黄金时代”推进到文化战争和身份防御框架。</text>
+
+</svg>
