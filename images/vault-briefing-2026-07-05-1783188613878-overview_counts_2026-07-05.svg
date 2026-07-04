@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="720" viewBox="0 0 1200 720" role="img" aria-label="vault briefing visual">
+<defs><style><![CDATA[.title{font:700 38px -apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;fill:#18202b}.label{font:600 24px -apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;fill:#263241}.small{font:500 18px -apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;fill:#5b6675}.num{font:800 76px -apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;fill:#0f172a}]]></style><linearGradient id="g" x1="0" x2="1"><stop stop-color="#eef4ff"/><stop offset="1" stop-color="#fff8ed"/></linearGradient></defs>
+<rect width="100%" height="100%" rx="34" fill="url(#g)"/><rect x="26" y="26" width="1148" height="668" rx="28" fill="white" opacity="0.72"/>
+
+<text x="70" y="95" class="title">24小时覆盖概览</text>
+<text x="70" y="160" class="small">脚本窗口：2026-07-04 02:00 → 2026-07-05 02:00 SGT</text>
+<g transform="translate(90 235)"><rect width="280" height="230" rx="28" fill="#eef2ff"/><text x="42" y="88" class="num">1</text><text x="42" y="145" class="label">保留候选笔记</text><text x="42" y="185" class="small">存在性过滤后仍在 vault</text></g>
+<g transform="translate(460 235)"><rect width="280" height="230" rx="28" fill="#ecfdf5"/><text x="42" y="88" class="num">1</text><text x="42" y="145" class="label">新增</text><text x="42" y="185" class="small">modified existing = 0</text></g>
+<g transform="translate(830 235)"><rect width="280" height="230" rx="28" fill="#fff7ed"/><text x="42" y="88" class="num">1</text><text x="42" y="145" class="label">主题 cluster</text><text x="42" y="185" class="small">US politics / rhetoric</text></g>
+<text x="90" y="565" class="small">Miyo date-level cross-check：list_files(mtime_after=2026-07-04) 返回 No files found；本页按预运行脚本 + 当前文件系统存在性为准。</text>
+
+</svg>
