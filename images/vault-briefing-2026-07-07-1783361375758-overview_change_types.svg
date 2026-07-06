@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="216" viewBox="0 0 960 216">
+<rect width="100%" height="100%" fill="#ffffff"/>
+<text x="32" y="38" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial" font-size="24" font-weight="700" fill="#1d1d1f">New vs modified / 新增与修改</text>
+<text x="32" y="94" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial" font-size="16" fill="#424245">newly_created</text>
+<rect x="210" y="77" width="620" height="24" rx="8" fill="#ff9f0a" opacity="0.82"/>
+<text x="842" y="95" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial" font-size="15" fill="#1d1d1f">93</text>
+<text x="32" y="142" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial" font-size="16" fill="#424245">modified_existing</text>
+<rect x="210" y="125" width="20" height="24" rx="8" fill="#ff9f0a" opacity="0.82"/>
+<text x="242" y="143" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial" font-size="15" fill="#1d1d1f">3</text>
+</svg>
