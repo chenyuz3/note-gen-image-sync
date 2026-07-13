@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="760" viewBox="0 0 1400 760">
+<rect width="100%" height="100%" fill="#ffffff"/>
+<text x="70" y="78" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="42" font-weight="700" fill="#14213d">过去 24 小时：笔记所在顶层目录</text>
+<text x="70" y="128" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="24" fill="#64748b">当前仍存在、且已排除 attachment 路径的 21 篇 Markdown</text>
+<text x="70" y="220" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="25" fill="#334155">Investment</text>
+<rect x="340" y="190" width="950" height="42" rx="12" fill="#eef2f7"/>
+<rect x="340" y="190" width="950.0" height="42" rx="12" fill="#486dd7"/>
+<text x="1308.0" y="220" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="26" font-weight="700" fill="#14213d">19</text>
+<text x="70" y="320" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="25" fill="#334155">Other</text>
+<rect x="340" y="290" width="950" height="42" rx="12" fill="#eef2f7"/>
+<rect x="340" y="290" width="50.0" height="42" rx="12" fill="#486dd7"/>
+<text x="408.0" y="320" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="26" font-weight="700" fill="#14213d">1</text>
+<text x="70" y="420" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="25" fill="#334155">Task Management</text>
+<rect x="340" y="390" width="950" height="42" rx="12" fill="#eef2f7"/>
+<rect x="340" y="390" width="50.0" height="42" rx="12" fill="#486dd7"/>
+<text x="408.0" y="420" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="26" font-weight="700" fill="#14213d">1</text>
+<text x="70" y="710" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="20" fill="#94a3b8">Source: precise 24h collector + current filesystem existence filter</text>
+</svg>
