@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="760" viewBox="0 0 1400 760">
+<rect width="100%" height="100%" fill="#ffffff"/>
+<text x="70" y="78" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="42" font-weight="700" fill="#14213d">9 个主题 cluster 的覆盖分布</text>
+<text x="70" y="128" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="24" fill="#64748b">同一篇当前候选只归入一个主 cluster</text>
+<text x="70" y="220" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="25" fill="#334155">Semi / WFE / Network</text>
+<rect x="340" y="190" width="950" height="42" rx="12" fill="#eef2f7"/>
+<rect x="340" y="190" width="950.0" height="42" rx="12" fill="#3d8b7d"/>
+<text x="1308.0" y="220" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="26" font-weight="700" fill="#14213d">6</text>
+<text x="70" y="320" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="25" fill="#334155">AI eval / Agent research</text>
+<rect x="340" y="290" width="950" height="42" rx="12" fill="#eef2f7"/>
+<rect x="340" y="290" width="633.3" height="42" rx="12" fill="#3d8b7d"/>
+<text x="991.3" y="320" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="26" font-weight="700" fill="#14213d">4</text>
+<text x="70" y="420" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="25" fill="#334155">Human-aligned AI</text>
+<rect x="340" y="390" width="950" height="42" rx="12" fill="#eef2f7"/>
+<rect x="340" y="390" width="475.0" height="42" rx="12" fill="#3d8b7d"/>
+<text x="833.0" y="420" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="26" font-weight="700" fill="#14213d">3</text>
+<text x="70" y="520" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="25" fill="#334155">Workflow / Templates</text>
+<rect x="340" y="490" width="950" height="42" rx="12" fill="#eef2f7"/>
+<rect x="340" y="490" width="316.7" height="42" rx="12" fill="#3d8b7d"/>
+<text x="674.7" y="520" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="26" font-weight="700" fill="#14213d">2</text>
+<text x="70" y="620" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="25" fill="#334155">Market / Macro</text>
+<rect x="340" y="590" width="950" height="42" rx="12" fill="#eef2f7"/>
+<rect x="340" y="590" width="316.7" height="42" rx="12" fill="#3d8b7d"/>
+<text x="674.7" y="620" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="26" font-weight="700" fill="#14213d">2</text>
+<text x="70" y="720" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="25" fill="#334155">GPT-5.6 release</text>
+<rect x="340" y="690" width="950" height="42" rx="12" fill="#eef2f7"/>
+<rect x="340" y="690" width="158.3" height="42" rx="12" fill="#3d8b7d"/>
+<text x="516.3" y="720" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="26" font-weight="700" fill="#14213d">1</text>
+<text x="70" y="820" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="25" fill="#334155">Political philosophy</text>
+<rect x="340" y="790" width="950" height="42" rx="12" fill="#eef2f7"/>
+<rect x="340" y="790" width="158.3" height="42" rx="12" fill="#3d8b7d"/>
+<text x="516.3" y="820" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="26" font-weight="700" fill="#14213d">1</text>
+<text x="70" y="920" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="25" fill="#334155">Research operations</text>
+<rect x="340" y="890" width="950" height="42" rx="12" fill="#eef2f7"/>
+<rect x="340" y="890" width="158.3" height="42" rx="12" fill="#3d8b7d"/>
+<text x="516.3" y="920" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="26" font-weight="700" fill="#14213d">1</text>
+<text x="70" y="1020" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="25" fill="#334155">Jason personal</text>
+<rect x="340" y="990" width="950" height="42" rx="12" fill="#eef2f7"/>
+<rect x="340" y="990" width="158.3" height="42" rx="12" fill="#3d8b7d"/>
+<text x="516.3" y="1020" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="26" font-weight="700" fill="#14213d">1</text>
+<text x="70" y="710" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="20" fill="#94a3b8">Source: precise 24h collector + current filesystem existence filter</text>
+</svg>
