@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1500" height="1060" viewBox="0 0 1500 1060">
+<rect width="100%" height="100%" fill="#ffffff"/>
+<text x="64" y="72" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,PingFang SC,Hiragino Sans GB,Arial,sans-serif" font-size="40" font-weight="700" fill="#182230">AI 应用新增不是单一“模型更强”，而是系统层共同移动</text>
+<text x="64" y="116" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,PingFang SC,Hiragino Sans GB,Arial,sans-serif" font-size="22" fill="#667085">今日材料从机器人接口、记忆、企业评估与价值观监控四个侧面补全应用层</text>
+<rect x="110" y="160" width="1280" height="118" rx="25" fill="#4f6fdc16" stroke="#4f6fdc" stroke-width="2"/>
+<text x="144" y="208" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,PingFang SC,Hiragino Sans GB,Arial,sans-serif" font-size="27" font-weight="700" fill="#4f6fdc">基础模型能力</text>
+<text x="144" y="244" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,PingFang SC,Hiragino Sans GB,Arial,sans-serif" font-size="21" fill="#475467">推理、视觉、工具使用、长任务保持</text>
+<path d="M 750.0 280 L 750.0 311" stroke="#98a2b3" stroke-width="3"/>
+<path d="M 742.0 303 L 750.0 313 L 758.0 303" fill="none" stroke="#98a2b3" stroke-width="3"/>
+<rect x="165" y="315" width="1170" height="118" rx="25" fill="#2f7d6d16" stroke="#2f7d6d" stroke-width="2"/>
+<text x="199" y="363" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,PingFang SC,Hiragino Sans GB,Arial,sans-serif" font-size="27" font-weight="700" fill="#2f7d6d">接口与控制</text>
+<text x="199" y="399" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,PingFang SC,Hiragino Sans GB,Arial,sans-serif" font-size="21" fill="#475467">机器人：直接控制 &lt; 代码 / 预训练策略监督</text>
+<path d="M 750.0 435 L 750.0 466" stroke="#98a2b3" stroke-width="3"/>
+<path d="M 742.0 458 L 750.0 468 L 758.0 458" fill="none" stroke="#98a2b3" stroke-width="3"/>
+<rect x="220" y="470" width="1060" height="118" rx="25" fill="#7c5cc416" stroke="#7c5cc4" stroke-width="2"/>
+<text x="254" y="518" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,PingFang SC,Hiragino Sans GB,Arial,sans-serif" font-size="27" font-weight="700" fill="#7c5cc4">记忆与知识</text>
+<text x="254" y="554" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,PingFang SC,Hiragino Sans GB,Arial,sans-serif" font-size="21" fill="#475467">Engram：RAG / 长上下文之上增加权重内化；仍属待验证方案</text>
+<path d="M 750.0 590 L 750.0 621" stroke="#98a2b3" stroke-width="3"/>
+<path d="M 742.0 613 L 750.0 623 L 758.0 613" fill="none" stroke="#98a2b3" stroke-width="3"/>
+<rect x="275" y="625" width="950" height="118" rx="25" fill="#c97a4a16" stroke="#c97a4a" stroke-width="2"/>
+<text x="309" y="673" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,PingFang SC,Hiragino Sans GB,Arial,sans-serif" font-size="27" font-weight="700" fill="#c97a4a">评估与工作流</text>
+<text x="309" y="709" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,PingFang SC,Hiragino Sans GB,Arial,sans-serif" font-size="21" fill="#475467">Hebbia：领域评估、引文追踪、步骤化 Matrix；Glean 强调控制权</text>
+<path d="M 750.0 745 L 750.0 776" stroke="#98a2b3" stroke-width="3"/>
+<path d="M 742.0 768 L 750.0 778 L 758.0 768" fill="none" stroke="#98a2b3" stroke-width="3"/>
+<rect x="330" y="780" width="840" height="118" rx="25" fill="#b35a7f16" stroke="#b35a7f" stroke-width="2"/>
+<text x="364" y="828" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,PingFang SC,Hiragino Sans GB,Arial,sans-serif" font-size="27" font-weight="700" fill="#b35a7f">行为监控</text>
+<text x="364" y="864" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,PingFang SC,Hiragino Sans GB,Arial,sans-serif" font-size="21" fill="#475467">Claude 价值轴：模型与语言差异可检测，但未识别因果来源</text>
+<rect x="160" y="955" width="1180" height="55" rx="27" fill="#101828"/>
+<text x="750" y="991" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,PingFang SC,Hiragino Sans GB,Arial,sans-serif" font-size="22" font-weight="700" fill="#ffffff">Implication：生产级 AI 的瓶颈逐步从“有没有模型”转向“接口、记忆、评估、治理能否闭环”</text>
+</svg>
