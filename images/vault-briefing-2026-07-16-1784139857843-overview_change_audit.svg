@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="680" viewBox="0 0 1440 680">
+<rect width="1440" height="680" fill="#f7f8fa"/>
+<style>text{font-family:-apple-system,BlinkMacSystemFont,"PingFang SC","Noto Sans CJK SC",sans-serif;fill:#172033} .t{font-size:40px;font-weight:700} .s{font-size:21px;fill:#687083} .l{font-size:21px} .v{font-size:22px;font-weight:700} .small{font-size:18px;fill:#687083}</style>
+<text x="70" y="72" class="t">变更审计</text><text x="70" y="108" class="s">精确窗口 + 当前存在性；修改不等于内容变化</text>
+<rect x="70" y="160" width="390" height="180" rx="24" fill="#e8f0fb"/><text x="100" y="215" class="s">新增</text><text x="100" y="290" style="font-size:72px;font-weight:750;fill:#2d67b3">34</text>
+<rect x="520" y="160" width="390" height="180" rx="24" fill="#e9f5f1"/><text x="550" y="215" class="s">修改</text><text x="550" y="290" style="font-size:72px;font-weight:750;fill:#3b8b76">35</text>
+<rect x="970" y="160" width="390" height="180" rx="24" fill="#fff0e5"/><text x="1000" y="215" class="s">批量时间簇</text><text x="1000" y="290" style="font-size:72px;font-weight:750;fill:#b26f31">20</text>
+<line x1="120" y1="450" x2="1320" y2="450" stroke="#ccd3df" stroke-width="6"/>
+<circle cx="250" cy="450" r="18" fill="#8972c6"/><text x="180" y="500" class="l">12:58 · 9 篇</text>
+<circle cx="600" cy="450" r="18" fill="#8972c6"/><text x="530" y="500" class="l">13:07 · 11 篇</text>
+<circle cx="1050" cy="450" r="18" fill="#3f7ad6"/><text x="955" y="500" class="l">22:15 · 9 篇</text>
+<text x="70" y="605" class="small">审计解释：前两个分钟簇高度集中，且跨越无关主题；在没有 before snapshot 时，不把它们解释为 thesis 更新。</text>
+</svg>
