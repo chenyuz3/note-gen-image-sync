@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="650" viewBox="0 0 1400 650">
+<rect width="100%" height="100%" fill="#fff"/>
+<text x="64" y="66" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,PingFang SC,Hiragino Sans GB,Arial,sans-serif" font-size="38" font-weight="700" fill="#172133">过去 24 小时：目录覆盖</text>
+<text x="64" y="106" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,PingFang SC,Hiragino Sans GB,Arial,sans-serif" font-size="20" fill="#667085">精确窗口；当前仍存在；attachment 路径已排除</text>
+<text x="64" y="183" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,PingFang SC,Hiragino Sans GB,Arial,sans-serif" font-size="22" fill="#344054">Investment</text>
+<rect x="470" y="155" width="800" height="38" rx="10" fill="#eef2f6"/>
+<rect x="470" y="155" width="800.0" height="38" rx="10" fill="#4f6fdc"/>
+<text x="1286.0" y="182" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,PingFang SC,Hiragino Sans GB,Arial,sans-serif" font-size="23" font-weight="700" fill="#172133">40</text>
+<text x="64" y="265" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,PingFang SC,Hiragino Sans GB,Arial,sans-serif" font-size="22" fill="#344054">※INBOX</text>
+<rect x="470" y="237" width="800" height="38" rx="10" fill="#eef2f6"/>
+<rect x="470" y="237" width="660.0" height="38" rx="10" fill="#4f6fdc"/>
+<text x="1146.0" y="264" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,PingFang SC,Hiragino Sans GB,Arial,sans-serif" font-size="23" font-weight="700" fill="#172133">33</text>
+<text x="64" y="347" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,PingFang SC,Hiragino Sans GB,Arial,sans-serif" font-size="22" fill="#344054">Dayflow</text>
+<rect x="470" y="319" width="800" height="38" rx="10" fill="#eef2f6"/>
+<rect x="470" y="319" width="40.0" height="38" rx="10" fill="#4f6fdc"/>
+<text x="526.0" y="346" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,PingFang SC,Hiragino Sans GB,Arial,sans-serif" font-size="23" font-weight="700" fill="#172133">2</text>
+<text x="64" y="429" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,PingFang SC,Hiragino Sans GB,Arial,sans-serif" font-size="22" fill="#344054">Publish</text>
+<rect x="470" y="401" width="800" height="38" rx="10" fill="#eef2f6"/>
+<rect x="470" y="401" width="20.0" height="38" rx="10" fill="#4f6fdc"/>
+<text x="506.0" y="428" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,PingFang SC,Hiragino Sans GB,Arial,sans-serif" font-size="23" font-weight="700" fill="#172133">1</text>
+<text x="64" y="616" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,PingFang SC,Hiragino Sans GB,Arial,sans-serif" font-size="16" fill="#98a2b3">Source: pre-run collector + current filesystem existence audit</text>
+</svg>
