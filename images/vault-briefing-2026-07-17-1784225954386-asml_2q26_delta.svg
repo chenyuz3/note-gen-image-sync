@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1500" height="850" viewBox="0 0 1500 850">
+<rect width="100%" height="100%" fill="#fff"/>
+<text x="64" y="66" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,PingFang SC,Hiragino Sans GB,Arial,sans-serif" font-size="38" font-weight="700" fill="#172133">ASML 2Q26：毛利率提前到账，产能应按晶圆而非箱数读</text>
+<text x="64" y="106" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,PingFang SC,Hiragino Sans GB,Arial,sans-serif" font-size="20" fill="#667085">数字来自 ASML 季度材料与笔记汇总；不复刻卖方图表</text>
+<rect x="70" y="155" width="1360" height="102" rx="20" fill="#4f6fdc12" stroke="#4f6fdc" stroke-width="2"/>
+<text x="105" y="195" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,PingFang SC,Hiragino Sans GB,Arial,sans-serif" font-size="21" font-weight="700" fill="#344054">2Q26 收入</text>
+<text x="600" y="217" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,PingFang SC,Hiragino Sans GB,Arial,sans-serif" font-size="42" font-weight="800" fill="#4f6fdc">€9.33bn</text>
+<text x="1400" y="212" text-anchor="end" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,PingFang SC,Hiragino Sans GB,Arial,sans-serif" font-size="20" fill="#667085">较共识 +5.3%</text>
+<rect x="70" y="275" width="1360" height="102" rx="20" fill="#2f7d6d12" stroke="#2f7d6d" stroke-width="2"/>
+<text x="105" y="315" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,PingFang SC,Hiragino Sans GB,Arial,sans-serif" font-size="21" font-weight="700" fill="#344054">2Q26 毛利率</text>
+<text x="600" y="337" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,PingFang SC,Hiragino Sans GB,Arial,sans-serif" font-size="42" font-weight="800" fill="#2f7d6d">54.0%</text>
+<text x="1400" y="332" text-anchor="end" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,PingFang SC,Hiragino Sans GB,Arial,sans-serif" font-size="20" fill="#667085">较共识 +2.0pts</text>
+<rect x="70" y="395" width="1360" height="102" rx="20" fill="#7c5cc412" stroke="#7c5cc4" stroke-width="2"/>
+<text x="105" y="435" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,PingFang SC,Hiragino Sans GB,Arial,sans-serif" font-size="21" font-weight="700" fill="#344054">FY26 指引中点</text>
+<text x="600" y="457" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,PingFang SC,Hiragino Sans GB,Arial,sans-serif" font-size="42" font-weight="800" fill="#7c5cc4">€44bn</text>
+<text x="1400" y="452" text-anchor="end" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,PingFang SC,Hiragino Sans GB,Arial,sans-serif" font-size="20" fill="#667085">较上季中点 +€6bn</text>
+<rect x="70" y="515" width="1360" height="102" rx="20" fill="#c97a4a12" stroke="#c97a4a" stroke-width="2"/>
+<text x="105" y="555" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,PingFang SC,Hiragino Sans GB,Arial,sans-serif" font-size="21" font-weight="700" fill="#344054">Memory 收入指引</text>
+<text x="600" y="577" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,PingFang SC,Hiragino Sans GB,Arial,sans-serif" font-size="42" font-weight="800" fill="#c97a4a">+75% YoY</text>
+<text x="1400" y="572" text-anchor="end" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,PingFang SC,Hiragino Sans GB,Arial,sans-serif" font-size="20" fill="#667085">HBM + DDR + EUV 层数</text>
+<rect x="70" y="635" width="1360" height="102" rx="20" fill="#b35a7f12" stroke="#b35a7f" stroke-width="2"/>
+<text x="105" y="675" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,PingFang SC,Hiragino Sans GB,Arial,sans-serif" font-size="21" font-weight="700" fill="#344054">2027 Low-NA</text>
+<text x="600" y="697" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,PingFang SC,Hiragino Sans GB,Arial,sans-serif" font-size="42" font-weight="800" fill="#b35a7f">约 85 boxes</text>
+<text x="1400" y="692" text-anchor="end" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,PingFang SC,Hiragino Sans GB,Arial,sans-serif" font-size="20" fill="#667085">高产出机型使 wafer capacity 增幅更高</text>
+<text x="64" y="815" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,PingFang SC,Hiragino Sans GB,Arial,sans-serif" font-size="16" fill="#98a2b3">Public synthesis only. Sell-side charts and local paths are not reproduced.</text>
+</svg>
