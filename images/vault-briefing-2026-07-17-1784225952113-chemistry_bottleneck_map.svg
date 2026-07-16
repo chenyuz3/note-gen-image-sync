@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1500" height="1040" viewBox="0 0 1500 1040">
+<rect width="100%" height="100%" fill="#fff"/>
+<text x="64" y="66" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,PingFang SC,Hiragino Sans GB,Arial,sans-serif" font-size="38" font-weight="700" fill="#172133">模型 × 硬件 chemistry：瓶颈不是芯片常数</text>
+<text x="64" y="106" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,PingFang SC,Hiragino Sans GB,Arial,sans-serif" font-size="20" fill="#667085">新研究把模型、负载、SLO、软件与系统拓扑放进同一个判定框架</text>
+<rect x="64" y="150" width="660" height="330" rx="24" fill="#f8fafc" stroke="#e4e7ec"/>
+<rect x="64" y="150" width="9" height="330" rx="5" fill="#4f6fdc"/>
+<text x="96" y="196" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,PingFang SC,Hiragino Sans GB,Arial,sans-serif" font-size="25" font-weight="700" fill="#172133">模型形态</text>
+<text x="694" y="196" text-anchor="end" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,PingFang SC,Hiragino Sans GB,Arial,sans-serif" font-size="16" font-weight="700" fill="#4f6fdc">Facts / structure</text>
+<circle cx="101" cy="231" r="5" fill="#4f6fdc"/>
+<text x="117" y="238" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,PingFang SC,Hiragino Sans GB,Arial,sans-serif" font-size="19" fill="#475467">Dense vs MoE：active 与 total 参数分离</text>
+<circle cx="101" cy="269" r="5" fill="#4f6fdc"/>
+<text x="117" y="276" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,PingFang SC,Hiragino Sans GB,Arial,sans-serif" font-size="19" fill="#475467">Attention 形态改变 KV 容量与带宽</text>
+<circle cx="101" cy="307" r="5" fill="#4f6fdc"/>
+<text x="117" y="314" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,PingFang SC,Hiragino Sans GB,Arial,sans-serif" font-size="19" fill="#475467">Diffusion / 推荐 / 具身会反转瓶颈类型</text>
+<rect x="776" y="150" width="660" height="330" rx="24" fill="#f8fafc" stroke="#e4e7ec"/>
+<rect x="776" y="150" width="9" height="330" rx="5" fill="#2f7d6d"/>
+<text x="808" y="196" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,PingFang SC,Hiragino Sans GB,Arial,sans-serif" font-size="25" font-weight="700" fill="#172133">负载与 SLO</text>
+<text x="1406" y="196" text-anchor="end" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,PingFang SC,Hiragino Sans GB,Arial,sans-serif" font-size="16" font-weight="700" fill="#2f7d6d">Logic</text>
+<circle cx="813" cy="231" r="5" fill="#2f7d6d"/>
+<text x="829" y="238" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,PingFang SC,Hiragino Sans GB,Arial,sans-serif" font-size="19" fill="#475467">Prefill 常偏 compute；decode 常偏 bandwidth</text>
+<circle cx="813" cy="269" r="5" fill="#2f7d6d"/>
+<text x="829" y="276" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,PingFang SC,Hiragino Sans GB,Arial,sans-serif" font-size="19" fill="#475467">batch、TTFT/TPOT 与 prefix reuse 改变最优解</text>
+<circle cx="813" cy="307" r="5" fill="#2f7d6d"/>
+<text x="829" y="314" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,PingFang SC,Hiragino Sans GB,Arial,sans-serif" font-size="19" fill="#475467">正确指标是 goodput，不是裸吞吐</text>
+<rect x="64" y="525" width="660" height="330" rx="24" fill="#f8fafc" stroke="#e4e7ec"/>
+<rect x="64" y="525" width="9" height="330" rx="5" fill="#c97a4a"/>
+<text x="96" y="571" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,PingFang SC,Hiragino Sans GB,Arial,sans-serif" font-size="25" font-weight="700" fill="#172133">软件与互联</text>
+<text x="694" y="571" text-anchor="end" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,PingFang SC,Hiragino Sans GB,Arial,sans-serif" font-size="16" font-weight="700" fill="#c97a4a">Revision</text>
+<circle cx="101" cy="606" r="5" fill="#c97a4a"/>
+<text x="117" y="613" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,PingFang SC,Hiragino Sans GB,Arial,sans-serif" font-size="19" fill="#475467">“20×软件”混入 B200→GB200 硬件切换</text>
+<circle cx="101" cy="644" r="5" fill="#c97a4a"/>
+<text x="117" y="651" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,PingFang SC,Hiragino Sans GB,Arial,sans-serif" font-size="19" fill="#475467">TP All-Reduce 可成为主瓶颈</text>
+<circle cx="101" cy="682" r="5" fill="#c97a4a"/>
+<text x="117" y="689" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,PingFang SC,Hiragino Sans GB,Arial,sans-serif" font-size="19" fill="#475467">MegaMoE 又证明软件可隐藏部分 EP 通信</text>
+<rect x="776" y="525" width="660" height="330" rx="24" fill="#f8fafc" stroke="#e4e7ec"/>
+<rect x="776" y="525" width="9" height="330" rx="5" fill="#7c5cc4"/>
+<text x="808" y="571" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,PingFang SC,Hiragino Sans GB,Arial,sans-serif" font-size="25" font-weight="700" fill="#172133">经济账与边界</text>
+<text x="1406" y="571" text-anchor="end" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,PingFang SC,Hiragino Sans GB,Arial,sans-serif" font-size="16" font-weight="700" fill="#7c5cc4">Implication</text>
+<circle cx="813" cy="606" r="5" fill="#7c5cc4"/>
+<text x="829" y="613" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,PingFang SC,Hiragino Sans GB,Arial,sans-serif" font-size="19" fill="#475467">$/token 主要压在利用率与 token 产出分母</text>
+<circle cx="813" cy="644" r="5" fill="#7c5cc4"/>
+<text x="829" y="651" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,PingFang SC,Hiragino Sans GB,Arial,sans-serif" font-size="19" fill="#475467">Groq/Cerebras 赢在高 TPS、小 batch、短 context 窄角</text>
+<circle cx="813" cy="682" r="5" fill="#7c5cc4"/>
+<text x="829" y="689" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,PingFang SC,Hiragino Sans GB,Arial,sans-serif" font-size="19" fill="#475467">可靠性税重训练、轻容错推理；非 GPU 全替代</text>
+<rect x="190" y="900" width="1120" height="78" rx="24" fill="#101828"/>
+<text x="750" y="949" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,PingFang SC,Hiragino Sans GB,Arial,sans-serif" font-size="22" font-weight="700" fill="#fff">边际：研究从“decode 缺带宽”推进为“workload × SLO × stack × topology”的条件矩阵</text>
+</svg>
