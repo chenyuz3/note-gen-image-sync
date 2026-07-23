@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="720" viewBox="0 0 1200 720">
+<rect width="1200" height="720" fill="#f8fafc"/><text x="70" y="78" font-family="-apple-system,BlinkMacSystemFont,'PingFang SC',sans-serif" font-size="34" font-weight="700" fill="#111827">候选分布：研究库占 13/18</text>
+<text x="70" y="120" font-family="-apple-system,BlinkMacSystemFont,'PingFang SC',sans-serif" font-size="20" fill="#64748b">精确 24h 窗口 · 当前仍存在 · Attachment 路径已排除</text>
+<line x1="220" y1="590" x2="1120" y2="590" stroke="#cbd5e1" stroke-width="2"/>
+<rect x="280" y="190" width="180" height="400" rx="16" fill="#5b7c99"/><text x="370" y="170" text-anchor="middle" font-size="34" font-weight="700" fill="#334155">13</text><text x="370" y="630" text-anchor="middle" font-size="23" fill="#334155">Investment</text>
+<rect x="570" y="467" width="180" height="123" rx="16" fill="#91a9bf"/><text x="660" y="445" text-anchor="middle" font-size="34" font-weight="700" fill="#334155">4</text><text x="660" y="630" text-anchor="middle" font-size="23" fill="#334155">Active project</text>
+<rect x="860" y="559" width="180" height="31" rx="12" fill="#c7d5e0"/><text x="950" y="537" text-anchor="middle" font-size="34" font-weight="700" fill="#334155">1</text><text x="950" y="630" text-anchor="middle" font-size="23" fill="#334155">Vault root</text>
+<text x="70" y="680" font-family="-apple-system,BlinkMacSystemFont,'PingFang SC',sans-serif" font-size="18" fill="#64748b">Source coverage: 18/18 · newly created 13 · modified existing 5</text></svg>
