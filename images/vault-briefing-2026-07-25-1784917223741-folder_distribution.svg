@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="800" viewBox="0 0 1400 800">
+<rect width="1400" height="800" fill="#ffffff"/>
+<text x="70" y="80" font-family="-apple-system,BlinkMacSystemFont,PingFang SC,Helvetica Neue,Arial,sans-serif" font-size="42" font-weight="700" fill="#172033" text-anchor="start">过去 24 小时笔记分布</text>
+<text x="70" y="122" font-family="-apple-system,BlinkMacSystemFont,PingFang SC,Helvetica Neue,Arial,sans-serif" font-size="22" font-weight="400" fill="#667085" text-anchor="start">当前仍存在、后缀为 .md，且已排除路径含 attachment 的候选</text>
+<text x="70" y="233" font-family="-apple-system,BlinkMacSystemFont,PingFang SC,Helvetica Neue,Arial,sans-serif" font-size="27" font-weight="600" fill="#172033" text-anchor="start">※INBOX</text>
+<rect x="270" y="205" width="900" height="42" rx="12" fill="#f7f9fc"/>
+<rect x="270" y="205" width="900.0" height="42" rx="12" fill="#5b7cfa"/>
+<text x="1205" y="236" font-family="-apple-system,BlinkMacSystemFont,PingFang SC,Helvetica Neue,Arial,sans-serif" font-size="26" font-weight="700" fill="#172033" text-anchor="start">7 篇</text>
+<text x="70" y="328" font-family="-apple-system,BlinkMacSystemFont,PingFang SC,Helvetica Neue,Arial,sans-serif" font-size="27" font-weight="600" fill="#172033" text-anchor="start">copilot</text>
+<rect x="270" y="300" width="900" height="42" rx="12" fill="#f7f9fc"/>
+<rect x="270" y="300" width="385.7" height="42" rx="12" fill="#8c78d8"/>
+<text x="1205" y="331" font-family="-apple-system,BlinkMacSystemFont,PingFang SC,Helvetica Neue,Arial,sans-serif" font-size="26" font-weight="700" fill="#172033" text-anchor="start">3 篇</text>
+<text x="70" y="423" font-family="-apple-system,BlinkMacSystemFont,PingFang SC,Helvetica Neue,Arial,sans-serif" font-size="27" font-weight="600" fill="#172033" text-anchor="start">Dayflow</text>
+<rect x="270" y="395" width="900" height="42" rx="12" fill="#f7f9fc"/>
+<rect x="270" y="395" width="257.1" height="42" rx="12" fill="#e49a61"/>
+<text x="1205" y="426" font-family="-apple-system,BlinkMacSystemFont,PingFang SC,Helvetica Neue,Arial,sans-serif" font-size="26" font-weight="700" fill="#172033" text-anchor="start">2 篇</text>
+<text x="70" y="518" font-family="-apple-system,BlinkMacSystemFont,PingFang SC,Helvetica Neue,Arial,sans-serif" font-size="27" font-weight="600" fill="#172033" text-anchor="start">Investment</text>
+<rect x="270" y="490" width="900" height="42" rx="12" fill="#f7f9fc"/>
+<rect x="270" y="490" width="257.1" height="42" rx="12" fill="#5aa47a"/>
+<text x="1205" y="521" font-family="-apple-system,BlinkMacSystemFont,PingFang SC,Helvetica Neue,Arial,sans-serif" font-size="26" font-weight="700" fill="#172033" text-anchor="start">2 篇</text>
+<text x="70" y="613" font-family="-apple-system,BlinkMacSystemFont,PingFang SC,Helvetica Neue,Arial,sans-serif" font-size="27" font-weight="600" fill="#172033" text-anchor="start">Vault root</text>
+<rect x="270" y="585" width="900" height="42" rx="12" fill="#f7f9fc"/>
+<rect x="270" y="585" width="128.6" height="42" rx="12" fill="#9fb3ff"/>
+<text x="1205" y="616" font-family="-apple-system,BlinkMacSystemFont,PingFang SC,Helvetica Neue,Arial,sans-serif" font-size="26" font-weight="700" fill="#172033" text-anchor="start">1 篇</text>
+<rect x="70" y="700" width="1260" height="1" fill="#dfe5ef"/>
+<text x="70" y="750" font-family="-apple-system,BlinkMacSystemFont,PingFang SC,Helvetica Neue,Arial,sans-serif" font-size="24" font-weight="600" fill="#172033" text-anchor="start">覆盖 15 篇：新增 12 篇，修改既有 3 篇</text>
+<text x="1330" y="750" font-family="-apple-system,BlinkMacSystemFont,PingFang SC,Helvetica Neue,Arial,sans-serif" font-size="16" font-weight="600" fill="#667085" text-anchor="end">FILESYSTEM SOURCE OF TRUTH</text>
+</svg>
