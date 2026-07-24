@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="800" viewBox="0 0 1400 800">
+<rect width="1400" height="800" fill="#ffffff"/>
+<text x="70" y="80" font-family="-apple-system,BlinkMacSystemFont,PingFang SC,Helvetica Neue,Arial,sans-serif" font-size="42" font-weight="700" fill="#172033" text-anchor="start">工具体系：政策、执行、语义三层分工</text>
+<text x="70" y="122" font-family="-apple-system,BlinkMacSystemFont,PingFang SC,Helvetica Neue,Arial,sans-serif" font-size="22" font-weight="400" fill="#667085" text-anchor="start">三个新 Copilot skills 让通用能力跨 agent harness 复用；站点分流仍由政策层约束</text>
+<rect x="120" y="185" width="1160" height="125" rx="24" fill="#f7f9fc" stroke="#5b7cfa" stroke-width="3"/>
+<text x="148" y="223" font-family="-apple-system,BlinkMacSystemFont,PingFang SC,Helvetica Neue,Arial,sans-serif" font-size="18" font-weight="700" fill="#5b7cfa" text-anchor="start">Policy &amp; routing</text>
+<text x="148" y="263" font-family="-apple-system,BlinkMacSystemFont,PingFang SC,Helvetica Neue,Arial,sans-serif" font-size="29" font-weight="700" fill="#172033" text-anchor="start">Jarvis Tool Reference</text>
+<text x="148" y="293" font-family="-apple-system,BlinkMacSystemFont,PingFang SC,Helvetica Neue,Arial,sans-serif" font-size="20" font-weight="500" fill="#667085" text-anchor="start">按站点、防护、登录态、PDF 类型选择首选工具与验证路径</text>
+<rect x="120" y="350" width="1160" height="125" rx="24" fill="#f7f9fc" stroke="#8c78d8" stroke-width="3"/>
+<text x="148" y="388" font-family="-apple-system,BlinkMacSystemFont,PingFang SC,Helvetica Neue,Arial,sans-serif" font-size="18" font-weight="700" fill="#8c78d8" text-anchor="start">Execution wrappers</text>
+<text x="148" y="428" font-family="-apple-system,BlinkMacSystemFont,PingFang SC,Helvetica Neue,Arial,sans-serif" font-size="29" font-weight="700" fill="#172033" text-anchor="start">web search  ·  web fetch  ·  read PDF</text>
+<text x="148" y="458" font-family="-apple-system,BlinkMacSystemFont,PingFang SC,Helvetica Neue,Arial,sans-serif" font-size="20" font-weight="500" fill="#667085" text-anchor="start">跨 Claude / Codex / OpenCode 的最小执行契约</text>
+<rect x="120" y="515" width="1160" height="125" rx="24" fill="#f7f9fc" stroke="#5aa47a" stroke-width="3"/>
+<text x="148" y="553" font-family="-apple-system,BlinkMacSystemFont,PingFang SC,Helvetica Neue,Arial,sans-serif" font-size="18" font-weight="700" fill="#5aa47a" text-anchor="start">Domain synthesis</text>
+<text x="148" y="593" font-family="-apple-system,BlinkMacSystemFont,PingFang SC,Helvetica Neue,Arial,sans-serif" font-size="29" font-weight="700" fill="#172033" text-anchor="start">研究、财报、输入结构化等领域 workflow</text>
+<text x="148" y="623" font-family="-apple-system,BlinkMacSystemFont,PingFang SC,Helvetica Neue,Arial,sans-serif" font-size="20" font-weight="500" fill="#667085" text-anchor="start">把抓取结果转成可审计笔记与交付物</text>
+<path d="M700 316 L700 338" stroke="#dfe5ef" stroke-width="6"/>
+<path d="M686 330 L700 346 L714 330" fill="none" stroke="#dfe5ef" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M700 481 L700 503" stroke="#dfe5ef" stroke-width="6"/>
+<path d="M686 495 L700 511 L714 495" fill="none" stroke="#dfe5ef" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="120" y="690" width="1160" height="58" rx="16" fill="#fff7ed"/>
+<text x="150" y="728" font-family="-apple-system,BlinkMacSystemFont,PingFang SC,Helvetica Neue,Arial,sans-serif" font-size="19" font-weight="550" fill="#172033" text-anchor="start">失败旁路：Copilot Plus 不可用时不重试，转用 agent 自带等价能力；高防、微信、付费墙仍遵循 source-specific routing。</text>
+</svg>
