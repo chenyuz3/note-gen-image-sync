@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="800" viewBox="0 0 1400 800">
+<rect width="1400" height="800" fill="#ffffff"/>
+<text x="70" y="80" font-family="-apple-system,BlinkMacSystemFont,PingFang SC,Helvetica Neue,Arial,sans-serif" font-size="42" font-weight="700" fill="#172033" text-anchor="start">覆盖与索引审计</text>
+<text x="70" y="122" font-family="-apple-system,BlinkMacSystemFont,PingFang SC,Helvetica Neue,Arial,sans-serif" font-size="22" font-weight="400" fill="#667085" text-anchor="start">文件系统精确窗口负责计数；Miyo 只作日期级补盲</text>
+<rect x="70" y="180" width="285" height="145" rx="24" fill="#f7f9fc" stroke="#dfe5ef"/>
+<text x="94" y="225" font-family="-apple-system,BlinkMacSystemFont,PingFang SC,Helvetica Neue,Arial,sans-serif" font-size="22" font-weight="600" fill="#667085" text-anchor="start">新增</text>
+<text x="94" y="295" font-family="-apple-system,BlinkMacSystemFont,PingFang SC,Helvetica Neue,Arial,sans-serif" font-size="54" font-weight="750" fill="#5b7cfa" text-anchor="start">12</text>
+<text x="175" y="295" font-family="-apple-system,BlinkMacSystemFont,PingFang SC,Helvetica Neue,Arial,sans-serif" font-size="22" font-weight="600" fill="#667085" text-anchor="start">篇</text>
+<rect x="385" y="180" width="285" height="145" rx="24" fill="#f7f9fc" stroke="#dfe5ef"/>
+<text x="409" y="225" font-family="-apple-system,BlinkMacSystemFont,PingFang SC,Helvetica Neue,Arial,sans-serif" font-size="22" font-weight="600" fill="#667085" text-anchor="start">修改</text>
+<text x="409" y="295" font-family="-apple-system,BlinkMacSystemFont,PingFang SC,Helvetica Neue,Arial,sans-serif" font-size="54" font-weight="750" fill="#e49a61" text-anchor="start">3</text>
+<text x="490" y="295" font-family="-apple-system,BlinkMacSystemFont,PingFang SC,Helvetica Neue,Arial,sans-serif" font-size="22" font-weight="600" fill="#667085" text-anchor="start">篇</text>
+<rect x="700" y="180" width="285" height="145" rx="24" fill="#f7f9fc" stroke="#dfe5ef"/>
+<text x="724" y="225" font-family="-apple-system,BlinkMacSystemFont,PingFang SC,Helvetica Neue,Arial,sans-serif" font-size="22" font-weight="600" fill="#667085" text-anchor="start">Miyo 命中</text>
+<text x="724" y="295" font-family="-apple-system,BlinkMacSystemFont,PingFang SC,Helvetica Neue,Arial,sans-serif" font-size="54" font-weight="750" fill="#5aa47a" text-anchor="start">8</text>
+<text x="805" y="295" font-family="-apple-system,BlinkMacSystemFont,PingFang SC,Helvetica Neue,Arial,sans-serif" font-size="22" font-weight="600" fill="#667085" text-anchor="start">篇</text>
+<rect x="1015" y="180" width="285" height="145" rx="24" fill="#f7f9fc" stroke="#dfe5ef"/>
+<text x="1039" y="225" font-family="-apple-system,BlinkMacSystemFont,PingFang SC,Helvetica Neue,Arial,sans-serif" font-size="22" font-weight="600" fill="#667085" text-anchor="start">Index gap</text>
+<text x="1039" y="295" font-family="-apple-system,BlinkMacSystemFont,PingFang SC,Helvetica Neue,Arial,sans-serif" font-size="54" font-weight="750" fill="#d66b70" text-anchor="start">7</text>
+<text x="1120" y="295" font-family="-apple-system,BlinkMacSystemFont,PingFang SC,Helvetica Neue,Arial,sans-serif" font-size="22" font-weight="600" fill="#667085" text-anchor="start">篇</text>
+<text x="70" y="412" font-family="-apple-system,BlinkMacSystemFont,PingFang SC,Helvetica Neue,Arial,sans-serif" font-size="23" font-weight="550" fill="#172033" text-anchor="start">推理硬件与模型架构</text>
+<rect x="410" y="390" width="760" height="30" rx="10" fill="#f7f9fc"/>
+<rect x="410" y="390" width="760.0" height="30" rx="10" fill="#5b7cfa"/>
+<text x="1200" y="413" font-family="-apple-system,BlinkMacSystemFont,PingFang SC,Helvetica Neue,Arial,sans-serif" font-size="23" font-weight="700" fill="#172033" text-anchor="start">6</text>
+<text x="70" y="470" font-family="-apple-system,BlinkMacSystemFont,PingFang SC,Helvetica Neue,Arial,sans-serif" font-size="23" font-weight="550" fill="#172033" text-anchor="start">Workflow tooling</text>
+<rect x="410" y="448" width="760" height="30" rx="10" fill="#f7f9fc"/>
+<rect x="410" y="448" width="506.7" height="30" rx="10" fill="#8c78d8"/>
+<text x="1200" y="471" font-family="-apple-system,BlinkMacSystemFont,PingFang SC,Helvetica Neue,Arial,sans-serif" font-size="23" font-weight="700" fill="#172033" text-anchor="start">4</text>
+<text x="70" y="528" font-family="-apple-system,BlinkMacSystemFont,PingFang SC,Helvetica Neue,Arial,sans-serif" font-size="23" font-weight="550" fill="#172033" text-anchor="start">Personal / Dayflow</text>
+<rect x="410" y="506" width="760" height="30" rx="10" fill="#f7f9fc"/>
+<rect x="410" y="506" width="380.0" height="30" rx="10" fill="#e49a61"/>
+<text x="1200" y="529" font-family="-apple-system,BlinkMacSystemFont,PingFang SC,Helvetica Neue,Arial,sans-serif" font-size="23" font-weight="700" fill="#172033" text-anchor="start">3</text>
+<text x="70" y="586" font-family="-apple-system,BlinkMacSystemFont,PingFang SC,Helvetica Neue,Arial,sans-serif" font-size="23" font-weight="550" fill="#172033" text-anchor="start">企业 AI adoption</text>
+<rect x="410" y="564" width="760" height="30" rx="10" fill="#f7f9fc"/>
+<rect x="410" y="564" width="126.7" height="30" rx="10" fill="#5aa47a"/>
+<text x="1200" y="587" font-family="-apple-system,BlinkMacSystemFont,PingFang SC,Helvetica Neue,Arial,sans-serif" font-size="23" font-weight="700" fill="#172033" text-anchor="start">1</text>
+<text x="70" y="644" font-family="-apple-system,BlinkMacSystemFont,PingFang SC,Helvetica Neue,Arial,sans-serif" font-size="23" font-weight="550" fill="#172033" text-anchor="start">Daily market</text>
+<rect x="410" y="622" width="760" height="30" rx="10" fill="#f7f9fc"/>
+<rect x="410" y="622" width="126.7" height="30" rx="10" fill="#d66b70"/>
+<text x="1200" y="645" font-family="-apple-system,BlinkMacSystemFont,PingFang SC,Helvetica Neue,Arial,sans-serif" font-size="23" font-weight="700" fill="#172033" text-anchor="start">1</text>
+<text x="70" y="735" font-family="-apple-system,BlinkMacSystemFont,PingFang SC,Helvetica Neue,Arial,sans-serif" font-size="21" font-weight="500" fill="#667085" text-anchor="start">至少 7 个精确候选未出现在当前 Miyo 日期级结果中，记为 index coverage gap。</text>
+</svg>
