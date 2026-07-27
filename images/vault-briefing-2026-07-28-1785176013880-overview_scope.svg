@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="720" viewBox="0 0 1200 720" role="img" aria-labelledby="title desc">
+<title id="title">过去 24 小时 Vault 变更概览</title>
+<desc id="desc">十篇有效候选，新增六篇，修改四篇；Miyo 精确覆盖六篇；文件夹分布为 Investment 四篇、INBOX 四篇、Dayflow 一篇、Other 一篇。</desc>
+<rect width="1200" height="720" rx="40" fill="#f7f9f7"/>
+<text x="64" y="80" font-family="-apple-system,BlinkMacSystemFont,'PingFang SC',sans-serif" font-size="38" font-weight="700" fill="#15231a">过去 24 小时 · Vault 变更概览</text>
+<text x="64" y="120" font-family="-apple-system,BlinkMacSystemFont,'PingFang SC',sans-serif" font-size="18" fill="#657168">固定窗口 2026-07-27 02:00:07 → 2026-07-28 02:00:07 SGT</text>
+<g font-family="-apple-system,BlinkMacSystemFont,'PingFang SC',sans-serif">
+<rect x="64" y="166" width="318" height="180" rx="26" fill="#e5f0e8"/><text x="94" y="214" font-size="17" fill="#496053">当前有效候选</text><text x="94" y="294" font-size="74" font-weight="750" fill="#1f5d3b">10</text><text x="226" y="291" font-size="22" fill="#496053">篇 Markdown</text>
+<rect x="406" y="166" width="318" height="180" rx="26" fill="#e9eef6"/><text x="436" y="214" font-size="17" fill="#536377">新增 / 修改</text><text x="436" y="294" font-size="62" font-weight="750" fill="#315d86">6 / 4</text>
+<rect x="748" y="166" width="388" height="180" rx="26" fill="#f3eee6"/><text x="778" y="214" font-size="17" fill="#6b5c4c">Miyo 精确重合</text><text x="778" y="294" font-size="62" font-weight="750" fill="#75583a">6 / 10</text><text x="950" y="290" font-size="17" fill="#6b5c4c">至少 4 篇 index gap</text>
+<text x="64" y="410" font-size="20" font-weight="650" fill="#26352b">文件夹分布</text>
+<g transform="translate(64 448)">
+<rect width="670" height="36" rx="18" fill="#e1e7e2"/>
+<rect width="268" height="36" rx="18" fill="#315d86"/><rect x="268" width="268" height="36" fill="#1f5d3b"/><rect x="536" width="67" height="36" fill="#7a6a8f"/><rect x="603" width="67" height="36" rx="18" fill="#a88964"/>
+<text x="0" y="78" font-size="17" fill="#315d86">Investment 4</text><text x="194" y="78" font-size="17" fill="#1f5d3b">INBOX 4</text><text x="342" y="78" font-size="17" fill="#6c5b7d">Dayflow 1</text><text x="485" y="78" font-size="17" fill="#876d4f">Other 1</text>
+</g>
+<rect x="782" y="424" width="354" height="190" rx="24" fill="#fff" stroke="#dce4dd"/>
+<text x="812" y="466" font-size="18" font-weight="650" fill="#26352b">当前存在性 / 过滤审计</text>
+<text x="812" y="505" font-size="16" fill="#566158">10/10 当前存在</text><text x="812" y="538" font-size="16" fill="#566158">0 条 Attachment 路径入选</text><text x="812" y="571" font-size="16" fill="#566158">5,746 条 stale discovery 路径排除</text>
+<circle cx="1091" cy="499" r="11" fill="#2b8650"/><circle cx="1091" cy="532" r="11" fill="#2b8650"/><circle cx="1091" cy="565" r="11" fill="#2b8650"/>
+</g></svg>
