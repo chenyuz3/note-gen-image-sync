@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="760" viewBox="0 0 1200 760" role="img" aria-labelledby="title desc">
+<title id="title">从日频轮动到周频盈利质量</title><desc id="desc">2026年7月24日日频显示道指上涨0.46%、标普500上涨0.05%、纳指下跌0.64%、罗素2000下跌0.35%，RSP相对标普500领先0.80个百分点；FactSet周频从W29到W30显示披露比例从10%增至27%，混合盈利增长从24.7%增至37.9%，正向盈利惊喜后的平均股价反应从负0.1%变为负0.3%。</desc>
+<rect width="1200" height="760" rx="40" fill="#f8f7f3"/>
+<text x="62" y="78" font-family="-apple-system,BlinkMacSystemFont,'PingFang SC',sans-serif" font-size="38" font-weight="700" fill="#2c2822">市场 cluster · 从轮动到盈利质量</text>
+<text x="62" y="116" font-family="-apple-system,BlinkMacSystemFont,'PingFang SC',sans-serif" font-size="18" fill="#746b60">日频价格广度与周频会计口径分开读取；不是买卖或估值判断</text>
+<g font-family="-apple-system,BlinkMacSystemFont,'PingFang SC',sans-serif">
+<rect x="62" y="160" width="514" height="516" rx="28" fill="#fff" stroke="#e4ded5"/>
+<text x="92" y="205" font-size="22" font-weight="650" fill="#3d372f">7/24：指数分化，但市场广度更好</text>
+<line x1="118" y1="410" x2="530" y2="410" stroke="#9f988f" stroke-width="2"/>
+<g font-size="15" text-anchor="middle">
+<rect x="142" y="335" width="58" height="75" rx="8" fill="#4c779b"/><text x="171" y="327" fill="#315d86">+0.46%</text><text x="171" y="446" fill="#4e4943">Dow</text>
+<rect x="242" y="402" width="58" height="8" rx="4" fill="#5e8a73"/><text x="271" y="390" fill="#35604b">+0.05%</text><text x="271" y="446" fill="#4e4943">S&amp;P 500</text>
+<rect x="342" y="410" width="58" height="104" rx="8" fill="#b7655b"/><text x="371" y="539" fill="#9e4a43">−0.64%</text><text x="371" y="570" fill="#4e4943">Nasdaq</text>
+<rect x="442" y="410" width="58" height="57" rx="8" fill="#b88964"/><text x="471" y="492" fill="#8b603f">−0.35%</text><text x="471" y="523" fill="#4e4943">Russell</text>
+</g>
+<rect x="98" y="591" width="442" height="58" rx="16" fill="#f2eee8"/><text x="319" y="617" text-anchor="middle" font-size="16" fill="#5e554b">上涨 / 下跌家数 &gt; 2:1 · RSP 相对 S&amp;P 500 +0.80pct</text><text x="319" y="639" text-anchor="middle" font-size="13" fill="#7b7268">相对表现与指数绝对回报使用不同单位</text>
+<rect x="606" y="160" width="532" height="516" rx="28" fill="#fff" stroke="#e4ded5"/>
+<text x="636" y="205" font-size="22" font-weight="650" fill="#3d372f">W29 → W30：披露扩大，headline 更集中</text>
+<g>
+<text x="650" y="270" font-size="16" fill="#6a6259">已披露公司比例</text><rect x="808" y="248" width="80" height="28" rx="14" fill="#d8e2da"/><rect x="808" y="248" width="30" height="28" rx="14" fill="#5e8a73"/><text x="903" y="268" font-size="17" fill="#35604b">10% → 27%</text>
+<text x="650" y="338" font-size="16" fill="#6a6259">混合盈利增长</text><rect x="808" y="316" width="180" height="28" rx="14" fill="#e6ddcf"/><rect x="808" y="316" width="118" height="28" rx="14" fill="#b88964"/><text x="1000" y="336" font-size="17" fill="#8b603f">24.7% → 37.9%</text>
+<text x="650" y="406" font-size="16" fill="#6a6259">EPS beat rate</text><rect x="808" y="384" width="180" height="28" rx="14" fill="#dfe7ee"/><rect x="808" y="384" width="154" height="28" rx="14" fill="#4c779b"/><text x="1000" y="404" font-size="17" fill="#315d86">88% → 86%</text>
+<text x="650" y="474" font-size="16" fill="#6a6259">Revenue beat rate</text><rect x="808" y="452" width="180" height="28" rx="14" fill="#eee0de"/><rect x="808" y="452" width="144" height="28" rx="14" fill="#b7655b"/><text x="1000" y="472" font-size="17" fill="#9e4a43">85% → 80%</text>
+<text x="650" y="542" font-size="16" fill="#6a6259">正向 EPS surprise 后平均股价</text><text x="1000" y="542" font-size="17" fill="#9e4a43">−0.1% → −0.3%</text>
+</g>
+<rect x="638" y="582" width="468" height="67" rx="16" fill="#f4eee4"/><text x="872" y="608" text-anchor="middle" font-size="16" fill="#66533f">核心：增长 headline 上跳，但 beat 反应未改善</text><text x="872" y="632" text-anchor="middle" font-size="13" fill="#786958">W30 modified_existing；无 before snapshot，按当前周报与 W29 时间序列对比</text>
+</g></svg>
