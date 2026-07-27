@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="820" viewBox="0 0 1200 820" role="img" aria-labelledby="title desc">
+<title id="title">六个主题簇与边际连接</title><desc id="desc">十篇候选形成六个主题簇，推理架构两篇、AMD软件与系统一篇、AI创业一篇、市场时间序列三篇、个人与私密两篇、低信息占位一篇。</desc>
+<rect width="1200" height="820" rx="40" fill="#f7f9f7"/>
+<text x="60" y="76" font-family="-apple-system,BlinkMacSystemFont,'PingFang SC',sans-serif" font-size="38" font-weight="700" fill="#15231a">六个主题簇 · 边际连接图</text>
+<text x="60" y="114" font-family="-apple-system,BlinkMacSystemFont,'PingFang SC',sans-serif" font-size="18" fill="#657168">文件数不等于证据广度；同一日记/周报链被视为一个 time-series cluster</text>
+<g font-family="-apple-system,BlinkMacSystemFont,'PingFang SC',sans-serif">
+<rect x="448" y="302" width="304" height="164" rx="32" fill="#17261c"/>
+<text x="600" y="360" text-anchor="middle" font-size="22" fill="#dfe9e1">本期 10 篇</text><text x="600" y="412" text-anchor="middle" font-size="34" font-weight="700" fill="#fff">6 个 cluster</text>
+<g stroke="#aebbb1" stroke-width="4" fill="none"><path d="M448 344 C340 300 320 240 294 214"/><path d="M752 344 C860 300 880 240 906 214"/><path d="M448 412 C334 430 304 470 278 500"/><path d="M752 412 C866 430 896 470 922 500"/><path d="M522 466 C470 570 410 610 352 652"/><path d="M678 466 C730 570 790 610 848 652"/></g>
+<g>
+<rect x="64" y="150" width="322" height="150" rx="26" fill="#e5f0e8"/><text x="92" y="195" font-size="17" fill="#496053">2 篇 · Thesis extension</text><text x="92" y="235" font-size="25" font-weight="700" fill="#1f5d3b">Attention × 推理硬件</text><text x="92" y="270" font-size="16" fill="#496053">算法压缩 → state / 读取量 → 系统瓶颈</text>
+<rect x="814" y="150" width="322" height="150" rx="26" fill="#e9eef6"/><text x="842" y="195" font-size="17" fill="#536377">1 篇 · New evidence</text><text x="842" y="235" font-size="25" font-weight="700" fill="#315d86">AMD × CUDA moat</text><text x="842" y="270" font-size="16" fill="#536377">竞争前沿迁至机架、CI 与分布式推理</text>
+<rect x="64" y="430" width="322" height="150" rx="26" fill="#f3eee6"/><text x="92" y="475" font-size="17" fill="#6b5c4c">3 篇 · Time series</text><text x="92" y="515" font-size="25" font-weight="700" fill="#75583a">市场 / 公司更新</text><text x="92" y="550" font-size="16" fill="#6b5c4c">日频风险偏好 → 周频盈利质量</text>
+<rect x="814" y="430" width="322" height="150" rx="26" fill="#eeeaf2"/><text x="842" y="475" font-size="17" fill="#6c5b7d">1 篇 · Thesis reuse</text><text x="842" y="515" font-size="25" font-weight="700" fill="#5b4770">AI 创业 / 组织速度</text><text x="842" y="550" font-size="16" fill="#6c5b7d">指数增长、聚焦与产品化</text>
+<rect x="164" y="640" width="376" height="132" rx="26" fill="#f1e9e8"/><text x="192" y="684" font-size="17" fill="#7d5b57">2 篇 · Privacy gated</text><text x="192" y="724" font-size="25" font-weight="700" fill="#8d4e45">Jason personal / Dayflow</text><text x="192" y="756" font-size="15" fill="#7d5b57">仅保留 aggregate；标题、路径与正文公开脱敏</text>
+<rect x="660" y="640" width="376" height="132" rx="26" fill="#eef0ed"/><text x="688" y="684" font-size="17" fill="#69716b">1 篇 · Housekeeping</text><text x="688" y="724" font-size="25" font-weight="700" fill="#4d5750">空白占位笔记</text><text x="688" y="756" font-size="15" fill="#69716b">无实质内容；计入覆盖，不进入主题判断</text>
+</g></g></svg>
