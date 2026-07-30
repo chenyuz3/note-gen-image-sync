@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="920" viewBox="0 0 1600 920">
+<rect width="1600" height="920" rx="36" fill="#f7f8fb"/>
+<text x="80" y="82" font-family="Arial,'PingFang SC',sans-serif" font-size="40" font-weight="700" fill="#182033">Deep Research vNext：完成边界从搜索后移到可审计稿件</text>
+<text x="80" y="128" font-family="Arial,'PingFang SC',sans-serif" font-size="22" fill="#667085">Research / Editorial / Manuscript 三个 plane 共享 canonical state；最终交付是 accepted draft 的 promotion</text>
+<g font-family="Arial,'PingFang SC',sans-serif">
+<rect x="80" y="190" width="1440" height="160" rx="26" fill="#e8efff"/><text x="118" y="236" font-size="24" font-weight="700" fill="#3153a4">RESEARCH PLANE · 扩大证据</text>
+<rect x="118" y="270" width="250" height="54" rx="16" fill="white"/><text x="243" y="304" text-anchor="middle" font-size="21" fill="#344054">Original prompt</text>
+<path d="M380 297 H438" stroke="#5577dd" stroke-width="6"/><polygon points="438,297 420,287 420,307" fill="#5577dd"/>
+<rect x="450" y="270" width="250" height="54" rx="16" fill="white"/><text x="575" y="304" text-anchor="middle" font-size="21" fill="#344054">Search rounds</text>
+<path d="M712 297 H770" stroke="#5577dd" stroke-width="6"/><polygon points="770,297 752,287 752,307" fill="#5577dd"/>
+<rect x="782" y="270" width="260" height="54" rx="16" fill="white"/><text x="912" y="304" text-anchor="middle" font-size="21" fill="#344054">Canonical ledgers</text>
+<path d="M1054 297 H1112" stroke="#5577dd" stroke-width="6"/><polygon points="1112,297 1094,287 1094,307" fill="#5577dd"/>
+<rect x="1124" y="270" width="320" height="54" rx="16" fill="white"/><text x="1284" y="304" text-anchor="middle" font-size="21" fill="#344054">Research saturation ≠ final</text>
+
+<rect x="80" y="390" width="1440" height="150" rx="26" fill="#e4f4ef"/><text x="118" y="436" font-size="24" font-weight="700" fill="#287363">EDITORIAL PLANE · 裁决主线与范围</text>
+<rect x="118" y="468" width="300" height="54" rx="16" fill="white"/><text x="268" y="502" text-anchor="middle" font-size="21" fill="#344054">Thesis Steward / Compass</text><path d="M430 495 H510" stroke="#57a08f" stroke-width="6"/><polygon points="510,495 492,485 492,505" fill="#57a08f"/>
+<rect x="522" y="468" width="300" height="54" rx="16" fill="white"/><text x="672" y="502" text-anchor="middle" font-size="21" fill="#344054">Outline + calibration</text><path d="M834 495 H914" stroke="#57a08f" stroke-width="6"/><polygon points="914,495 896,485 896,505" fill="#57a08f"/>
+<rect x="926" y="468" width="518" height="54" rx="16" fill="white"/><text x="1185" y="502" text-anchor="middle" font-size="21" fill="#344054">Requirement / claim / calculation adjudication</text>
+
+<rect x="80" y="580" width="1440" height="248" rx="26" fill="#f1eafb"/><text x="118" y="628" font-size="24" font-weight="700" fill="#6f4aa2">MANUSCRIPT PLANE · 把稿件当作新的研究对象</text>
+<g font-size="20" fill="#344054">
+<rect x="118" y="675" width="190" height="58" rx="16" fill="white"/><text x="213" y="711" text-anchor="middle">Draft 0</text><path d="M318 704 H370" stroke="#8f73c7" stroke-width="6"/><polygon points="370,704 352,694 352,714" fill="#8f73c7"/>
+<rect x="382" y="675" width="240" height="58" rx="16" fill="white"/><text x="502" y="711" text-anchor="middle">Four-lens audits</text><path d="M632 704 H684" stroke="#8f73c7" stroke-width="6"/><polygon points="684,704 666,694 666,714" fill="#8f73c7"/>
+<rect x="696" y="675" width="250" height="58" rx="16" fill="white"/><text x="821" y="711" text-anchor="middle">Targeted repair</text><path d="M956 704 H1008" stroke="#8f73c7" stroke-width="6"/><polygon points="1008,704 990,694 990,714" fill="#8f73c7"/>
+<rect x="1020" y="675" width="190" height="58" rx="16" fill="white"/><text x="1115" y="711" text-anchor="middle">Next draft</text><path d="M1220 704 H1272" stroke="#8f73c7" stroke-width="6"/><polygon points="1272,704 1254,694 1254,714" fill="#8f73c7"/>
+<rect x="1284" y="675" width="190" height="58" rx="16" fill="white"/><text x="1379" y="711" text-anchor="middle">Promotion</text>
+</g>
+<text x="118" y="782" font-size="20" fill="#66527e">Regression + reader extraction 失败时回到 repair；finding 绑定 draft hash，draft 不覆盖。</text>
+<text x="80" y="875" font-size="20" fill="#667085">验证状态：core regression 8/8、static parity 11/11、Workflow JS parse 均 PASS；文档明确说明这不是 production E2E。</text>
+</g></svg>
