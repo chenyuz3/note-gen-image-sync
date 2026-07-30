@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1500" height="820" viewBox="0 0 1500 820">
+<rect width="1500" height="820" rx="36" fill="#f7f8fb"/>
+<text x="80" y="82" font-family="Arial,'PingFang SC',sans-serif" font-size="40" font-weight="700" fill="#182033">两条新增线索的共同抽象：边界状态必须可裁决</text>
+<text x="80" y="128" font-family="Arial,'PingFang SC',sans-serif" font-size="22" fill="#667085">这是本期综合推导，不是任一来源的原句；相似性在系统设计层，不代表两者实现等价</text>
+<g font-family="Arial,'PingFang SC',sans-serif">
+<rect x="80" y="190" width="620" height="490" rx="28" fill="#e8efff"/><text x="120" y="244" font-size="30" font-weight="700" fill="#3153a4">研究工作流</text>
+<text x="120" y="292" font-size="22" fill="#344054">对象：claim / requirement / calculation / draft</text>
+<rect x="120" y="342" width="540" height="74" rx="18" fill="white"/><text x="390" y="387" text-anchor="middle" font-size="23" fill="#344054">边界状态：canonical ledgers + hashes</text>
+<rect x="120" y="452" width="540" height="74" rx="18" fill="white"/><text x="390" y="497" text-anchor="middle" font-size="23" fill="#344054">循环：audit → repair → regression</text>
+<text x="120" y="582" font-size="21" fill="#475467">目的：让稿件 finding 有版本、route 与关闭条件</text>
+
+<rect x="800" y="190" width="620" height="490" rx="28" fill="#e4f4ef"/><text x="840" y="244" font-size="30" font-weight="700" fill="#287363">模型循环推理</text>
+<text x="840" y="292" font-size="22" fill="#344054">对象：跨周期传递的 J-thought</text>
+<rect x="840" y="342" width="540" height="74" rx="18" fill="white"/><text x="1110" y="387" text-anchor="middle" font-size="23" fill="#344054">边界状态：J-space 非负系数矩阵</text>
+<rect x="840" y="452" width="540" height="74" rx="18" fill="white"/><text x="1110" y="497" text-anchor="middle" font-size="23" fill="#344054">循环：read → compute → write</text>
+<text x="840" y="582" font-size="21" fill="#475467">目的：边界压缩，周期内保留 dense Transformer 计算</text>
+<path d="M700 410 H800" stroke="#8f73c7" stroke-width="8" stroke-dasharray="16 12"/>
+<text x="750" y="390" text-anchor="middle" font-size="18" fill="#6f4aa2">design analogy</text>
+<rect x="230" y="720" width="1040" height="58" rx="18" fill="#f1eafb"/><text x="750" y="757" text-anchor="middle" font-size="23" font-weight="700" fill="#5f4489">共同启示：不要让“未显式记录的状态”跨边界后只靠上下文记忆恢复</text>
+</g></svg>
