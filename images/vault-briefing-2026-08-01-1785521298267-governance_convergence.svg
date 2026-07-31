@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="680" viewBox="0 0 1200 680">
+<title>可审计的自我改进工作流</title>
+<rect width="100%" height="100%" fill="#F7F8F7"/>
+<style>
+.t{font-family:-apple-system,BlinkMacSystemFont,"PingFang SC","Noto Sans CJK SC",Arial,sans-serif;fill:#263238}
+.m{fill:#65706f} .b{font-weight:700} .s{font-size:20px} .n{font-size:42px;font-weight:700}
+</style>
+<text class="t b" x="56" y="66" font-size="34">工作流边际：把“自我改进”约束成可审计状态转换</text>
+<text class="t m" x="56" y="98" font-size="18">综合 Deep Research / Canvas 改动与 RSI 治理笔记；本图为库内材料的结构化推导。</text>
+<g>
+<rect x="56" y="150" width="245" height="132" rx="18" fill="#FFFFFF" stroke="#6C78A8" stroke-width="2"/><text class="t b" x="78" y="190" font-size="22">Canonical state</text><text class="t m" x="78" y="224" font-size="18">Markdown / ledgers</text><text class="t m" x="78" y="252" font-size="18">事实、需求、计算</text>
+<rect x="338" y="150" width="245" height="132" rx="18" fill="#FFFFFF" stroke="#6C78A8" stroke-width="2"/><text class="t b" x="360" y="190" font-size="22">Derived control</text><text class="t m" x="360" y="224" font-size="18">Canvas / bounded query</text><text class="t m" x="360" y="252" font-size="18">可重建，不接管真相</text>
+<rect x="620" y="150" width="245" height="132" rx="18" fill="#FFFFFF" stroke="#8B6AAE" stroke-width="2"/><text class="t b" x="642" y="190" font-size="22">Human authority</text><text class="t m" x="642" y="224" font-size="18">proposal → approval</text><text class="t m" x="642" y="252" font-size="18">未确认不得改 canonical</text>
+<rect x="902" y="150" width="245" height="132" rx="18" fill="#FFFFFF" stroke="#557C72" stroke-width="2"/><text class="t b" x="924" y="190" font-size="22">Manuscript gate</text><text class="t m" x="924" y="224" font-size="18">versioned draft / audit</text><text class="t m" x="924" y="252" font-size="18">repair / regression</text>
+<path d="M301 216H330" stroke="#687372" stroke-width="4"/><path d="M583 216H612" stroke="#687372" stroke-width="4"/><path d="M865 216H894" stroke="#687372" stroke-width="4"/>
+</g>
+<rect x="90" y="360" width="1020" height="178" rx="24" fill="#EEF1F0"/>
+<text class="t b" x="124" y="407" font-size="24">跨版本参照 A：不能由新系统任意改写</text>
+<text class="t m" x="124" y="447" font-size="19">外部实验 · 独立评价器 · 人类授权 · 可回滚性 · 跨版本承诺</text>
+<text class="t" x="124" y="496" font-size="20">含义：Canvas 提升导航效率，Manuscript Loop 提升输出质量；两者都必须服从更高层的</text>
+<text class="t" x="124" y="526" font-size="20">证据、授权与回滚边界，避免“修改评价器”被误称为进步。</text>
+<text class="t m" x="56" y="620" font-size="17">事实层：Deep Research 文档记录 8/8、13/13、18/18 等机械测试通过；生产级长跑与人工可用性仍未被证明。</text>
+</svg>
